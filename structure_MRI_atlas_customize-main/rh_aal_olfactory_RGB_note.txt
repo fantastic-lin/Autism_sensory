@@ -1,0 +1,9 @@
+1	 Frontal_Sup_Orb_L_5 220 20 60 0
+2	 Frontal_Mid_Orb_L_9 255 140 0 0
+3	 Frontal_Inf_Orb_L_15 255 215 0 0
+4	 Olfactory_L_21 0 128 0 0
+5	 Frontal_Mid_Orb_L_25 0 139 139 0
+6	 Insula_L_29 0 0 255 0
+7        Hippocampus_L_37 128 0 128 0
+8        ParaHippocampal_L_39 139 69 19 0
+9        Amygdala_L_41 255 105 180 0

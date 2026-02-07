@@ -1,0 +1,69 @@
+# Table of FreeSurfer cortical parcellation anatomical statistics 
+# 
+# CreationTime 2024/05/18-08:43:19-GMT
+# generating_program mris_anatomical_stats
+# cvs_version 7.4.1
+# mrisurf.c-cvs_version 7.4.1
+# cmdline mris_anatomical_stats -a /histor/sun/linlin/ABIDE/abide-master/sMRI/Cannabis/FS_qk/Pitt_0050005/label/rh.aal_olf_Pitt_0050005.annot -f /histor/sun/linlin/ABIDE/abide-master/sMRI/Cannabis/FS_qk/Pitt_0050005/Pitt_0050005_rh.txt -b Pitt_0050005 rh 
+# sysname  Linux
+# hostname mu02
+# machine  x86_64
+# user     linlin
+# 
+# SUBJECTS_DIR /histor/sun/linlin/ABIDE/abide-master/sMRI/Cannabis/FS_qk
+# anatomy_type surface
+# subjectname Pitt_0050005
+# hemi rh
+# AnnotationFile /histor/sun/linlin/ABIDE/abide-master/sMRI/Cannabis/FS_qk/Pitt_0050005/label/rh.aal_olf_Pitt_0050005.annot
+# AnnotationFileTimeStamp 2024/05/18 16:43:14
+# Measure Cortex, NumVert, Number of Vertices, 131568, unitless
+# Measure Cortex, WhiteSurfArea, White Surface Total Area, 89062.7, mm^2
+# BrainVolStatsFixed-NotNeeded because voxelvolume=1mm3
+# Measure BrainSeg, BrainSegVol, Brain Segmentation Volume, 1140860.000000, mm^3
+# Measure BrainSegNotVent, BrainSegVolNotVent, Brain Segmentation Volume Without Ventricles, 1119693.000000, mm^3
+# Measure BrainSegNotVentSurf, BrainSegVolNotVentSurf, Brain Segmentation Volume Without Ventricles from Surf, 1119269.574784, mm^3
+# Measure Cortex, CortexVol, Total cortical gray matter volume, 500189.784005, mm^3
+# Measure SupraTentorial, SupraTentorialVol, Supratentorial volume, 989773.574784, mm^3
+# Measure SupraTentorialNotVent, SupraTentorialVolNotVent, Supratentorial volume, 971936.574784, mm^3
+# Measure EstimatedTotalIntraCranialVol, eTIV, Estimated Total Intracranial Volume, 1179907.027512, mm^3
+# NTableCols 10
+# TableCol  1 ColHeader StructName
+# TableCol  1 FieldName Structure Name
+# TableCol  1 Units     NA
+# TableCol  2 ColHeader NumVert
+# TableCol  2 FieldName Number of Vertices
+# TableCol  2 Units     unitless
+# TableCol  3 ColHeader SurfArea
+# TableCol  3 FieldName Surface Area
+# TableCol  3 Units     mm^2
+# TableCol  4 ColHeader GrayVol
+# TableCol  4 FieldName Gray Matter Volume
+# TableCol  4 Units     mm^3
+# TableCol  5 ColHeader ThickAvg 
+# TableCol  5 FieldName Average Thickness
+# TableCol  5 Units     mm
+# TableCol  6 ColHeader ThickStd
+# TableCol  6 FieldName Thickness StdDev
+# TableCol  6 Units     mm 
+# TableCol  7 ColHeader MeanCurv
+# TableCol  7 FieldName Integrated Rectified Mean Curvature
+# TableCol  7 Units     mm^-1
+# TableCol  8 ColHeader GausCurv 
+# TableCol  8 FieldName Integrated Rectified Gaussian Curvature
+# TableCol  8 Units     mm^-2
+# TableCol  9 ColHeader  FoldInd
+# TableCol  9 FieldName  Folding Index 
+# TableCol  9 Units      unitless 
+# TableCol 10 ColHeader CurvInd
+# TableCol 10 FieldName Intrinsic Curvature Index
+# TableCol 10 Units     unitless
+# ColHeaders StructName NumVert SurfArea GrayVol ThickAvg ThickStd MeanCurv GausCurv FoldInd CurvInd
+Frontal_Sup_Orb_R_6                      1441   1008   3474  2.904 0.806     0.115     0.024       15     1.3
+Frontal_Mid_Orb_R_10                      780    561   2601  3.220 0.804     0.156     0.043       16     1.5
+Frontal_Inf_Orb_R_16                     1847   1300   4741  2.932 0.963     0.153     0.041       39     3.6
+Olfactory_R_22                            569    388   1198  3.119 0.708     0.127     0.040        8     0.7
+Frontal_Mid_Orb_R_26                     1273    844   2776  2.948 0.773     0.098     0.019       11     0.9
+Insula_R_30                              1598   1079   1645  1.618 1.606     0.095     0.026       18     1.6
+Hippocampus_R_38                         2389   1653   7359  3.474 0.816     0.125     0.026       30     2.5
+ParaHippocampal_R_40                     3663   2522   9868  3.025 0.949     0.129     0.029       49     4.4
+Amygdala_R_42                             214    131    195  3.680 0.754     0.069     0.020        1     0.1

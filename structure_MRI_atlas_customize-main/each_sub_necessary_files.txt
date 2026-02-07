@@ -1,0 +1,4 @@
+surf:[lh.sphere.reg,rh.sphere.reg,lh.white,rh.white,lh.pial,rh.pial,lh.thickness,rh.thickness]
+mri:[aseg.presurf.mgz,wm.mgz,orig.mgz,brainmask.mgz,aseg.mgz,ribbon.mgz,transforms/talairach.auto.xfm,transforms/talairach.xfm]
+stats:[aseg.stats,lh.aparc.stats,rh.aparc.stats]
+label:[lh.cortex.label,rh.cortex.label]
