@@ -1,33 +1,41 @@
-#!/bin/bash
-operation_dir="/histor/sun/linlin/4_olfactory/ABIDE/abide-master/sMRI/sMRI_git" ## Change to your operation pathway
-subject_dir="FS_git" ## Change to your subject directory
+#!/usr/bin/env bash
+set -euo pipefail
 
-export SUBJECTS_DIR="$operation_dir/$subject_dir"
+operation_dir="/histor/sun/linlin/4_olfactory/ABIDE/abide-master/sMRI/sMRI_git"
+subject_dir="FS_git"
+export SUBJECTS_DIR="${operation_dir}/${subject_dir}"
 
-## Surface Area
-output_file="$operation_dir/FS_git_surface_area.csv"
+# -----------------------------
+# Output files (overwrite each run)
+# -----------------------------
+area_out="${operation_dir}/FS_git_surface_area.csv"
+vol_out="${operation_dir}/FS_git_gray_matter_volume.csv"
 
-for subj in $(find $SUBJECTS_DIR/* -maxdepth 0 -type d -not -name fsaverage -printf "%f\n"); do
-	echo $subj
-	lh_sum=$(sed -n '54,87p' $SUBJECTS_DIR/${subj}/stats/lh.aparc.stats | awk -F' ' '{sum+=$3} END {print sum}')
-	echo "Sum of lh_surfer_area: $lh_sum"
-	rh_sum=$(sed -n '54,87p' $SUBJECTS_DIR/${subj}/stats/rh.aparc.stats | awk -F' ' '{sum+=$3} END {print sum}')
-	echo "Sum of rh_surfer_area: $rh_sum"
-	total_sum=$(($lh_sum+$rh_sum))
-	echo "Total area: $total_sum"
-	echo "$subj,$total_sum" >> "$output_file"
-done
+# Write headers
+echo "subject,total_surface_area" > "$area_out"
+echo "subject,TotalGrayVol,Left_Hippocampus,Right_Hippocampus,Left_Amygdala,Right_Amygdala" > "$vol_out"
 
+# -----------------------------
+# Iterate subjects (exclude fsaverage)
+# -----------------------------
+while IFS= read -r subj_path; do
+  subj="$(basename "$subj_path")"
+  echo "Processing: $subj"
 
-## Volume
-volume_output_file="$operation_dir/FS_git_gray_matter_volume.csv"
-for subj in $(find $SUBJECTS_DIR/* -maxdepth 0 -type d -not -name fsaverage -printf "%f\n"); do
-        echo $subj
-        TotalGrayVol=$(grep 'Measure TotalGray, TotalGrayVol, Total gray matter volume' $SUBJECTS_DIR/${subj}/stats/aseg.stats | awk -F',' '{print $4}')
-        echo "TotalGrayVol: $TotalGrayVol"
-	Left_Hippocampus_vol=$(grep 'Left-Hippocampus' $SUBJECTS_DIR/${subj}/stats/aseg.stats | awk -F' ' '{print $4}')
-	Right_Hippocampus_vol=$(grep 'Right-Hippocampus' $SUBJECTS_DIR/${subj}/stats/aseg.stats | awk -F' ' '{print $4}')
-	Left_Amygdala_vol=$(grep 'Left-Amygdala' $SUBJECTS_DIR/${subj}/stats/aseg.stats | awk -F' ' '{print $4}')
-        Right_Amygdala_vol=$(grep 'Right-Amygdala' $SUBJECTS_DIR/${subj}/stats/aseg.stats | awk -F' ' '{print $4}')
-	echo "$subj,$TotalGrayVol,$Left_Hippocampus_vol,$Right_Hippocampus_vol,$Left_Amygdala_vol,$Right_Amygdala_vol" >> "$volume_output_file"
-done
+  # ===== Surface Area =====
+  lh_stats="${SUBJECTS_DIR}/${subj}/stats/lh.aparc.stats"
+  rh_stats="${SUBJECTS_DIR}/${subj}/stats/rh.aparc.stats"
+
+  if [[ -f "$lh_stats" && -f "$rh_stats" ]]; then
+    # Sum column 3 (surf area) from lines 54-87 (your original logic)
+    lh_sum="$(sed -n '54,87p' "$lh_stats" | awk '{sum+=$3} END{printf "%.6f", sum}')"
+    rh_sum="$(sed -n '54,87p' "$rh_stats" | awk '{sum+=$3} END{printf "%.6f", sum}')"
+
+    total_sum="$(awk -v a="$lh_sum" -v b="$rh_sum" 'BEGIN{printf "%.6f", a+b}')"
+    echo "${subj},${total_sum}" >> "$area_out"
+  else
+    echo "WARNING: missing aparc.stats for $subj (lh/rh). Skipping surface area."
+  fi
+
+  # ===== Volume =====
+  aseg_stats="${SUBJECTS_DIR}/${subj}/stats/aseg.stats"

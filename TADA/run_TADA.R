@@ -1,9 +1,4 @@
-#!/histor/sun/wangtao/3_software/anaconda3/envs/linlin_R_4.2/bin/Rscript --vanilla
-#PBS -N deeptool
-#PBS -l nodes=1:ppn=6
-#PBS -j oe
-#PBS -q silver
-
+# Set wd to the directory of this script (works in Rscript / batch)
 library(openxlsx);library(stringr);library(purrr);library(dplyr)
 
 ########## Calculate the BF for SNVs/indels ###################
@@ -226,7 +221,7 @@ dn_CNV_case <- 13786
 dn_CNV_con <- 5098
 
 ## Load CNV table
-CNV <- read.csv("./CNV_merge_note_20241023.csv",header = TRUE)
+CNV <- read.csv("./CNV_merge_note.csv",header = TRUE)
 CNV_SRG <- CNV[CNV$hgnc_genes %in% sensory_gene_vector,]
 CNV_SRG_info <- merge(CNV_SRG,TADA_sup_info1,by.x="hgnc_genes",by.y="hgnc_symbol",all.x=TRUE)
 
@@ -446,9 +441,9 @@ CNV_SNV_BF_merge <- merge(x=CNV_SRG_fi,y=SNV_SRG_fi,by="hgnc_symbol",all.x=TRUE,
 CNV_SNV_BF_merge[is.na(CNV_SNV_BF_merge)] <- 1.0
 
 CNV_SNV_BF_merge_an <- merge(CNV_SNV_BF_merge,TADA_sup_info_for_annotation,by="hgnc_symbol",all.x=TRUE)
-write.csv(CNV_SNV_BF_merge_an,file="./CNV_SNV_SRG_BF.csv",row.names = FALSE)
+write.csv(CNV_SNV_BF_merge_an,file="./SNV_CNV_SRG_BF.csv",row.names = FALSE)
 
-CNV_SNV_BF_merge <- read.csv('/SNV_CNV_SRG_BF.csv',header=TRUE)
+CNV_SNV_BF_merge <- read.csv('./SNV_CNV_SRG_BF.csv',header=TRUE)
 
 ###### Compute combined BF 
 BF_asd <- cbind(
@@ -485,7 +480,7 @@ SRG_SNV_CNV_BF_FDR <- merge(x=CNV_SNV_BF_merge,y=qval_asd1,by="hgnc_symbol")
 
 SRG_SNV_CNV_BF_FDR_pval <- merge(x=SRG_SNV_CNV_BF_FDR,y=pval_asd1,by="hgnc_symbol")
 SRG_SNV_CNV_BF_FDR_pval_an <- merge(SRG_SNV_CNV_BF_FDR_pval,TADA_sup_info_for_annotation,by="hgnc_symbol",all.x=TRUE)
-write.csv(SRG_SNV_CNV_BF_FDR_pval_an,file="./SNV_CNV_SRG_BF_FDR_pval_20250801.csv",row.names = FALSE)
+write.csv(SRG_SNV_CNV_BF_FDR_pval_an,file="./SNV_CNV_SRG_BF_FDR_pval.csv",row.names = FALSE)
 
 ## Annotate ASD risk group from SFARI
 SNV_CNV_SRG_BF_FDR_pval_20240822 <- read.csv("./SNV_CNV_SRG_BF_FDR_pval.csv",header=TRUE)

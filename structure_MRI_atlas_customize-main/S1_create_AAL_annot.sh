@@ -1,51 +1,89 @@
-#!/bin/bash
-operation_dir="/histor/sun/linlin/4_olfactory/ABIDE/abide-master/sMRI/sMRI_git" ## Change to your operation pathway
-subject_dir="FS_git" ## Change to your subject directory
+#!/usr/bin/env bash
+set -euo pipefail
 
-export SUBJECTS_DIR="$operation_dir/$subject_dir"
+# ============================================================
+# Config
+# ============================================================
+operation_dir="/histor/sun/linlin/4_olfactory/ABIDE/abide-master/sMRI/sMRI_git"  # change if needed
+subject_dir="FS_git"                                                           # change if needed
 
-## Assign values from the volume of AAL to the surface vertex of standard brain template
-mri_vol2surf --mov $operation_dir/AAL116_1mm.nii --mni152reg --hemi rh --out_type mgh --o rh.aal3.mgh
-mri_vol2surf --mov $operation_dir/AAL116_1mm.nii --mni152reg --hemi lh --out_type mgh --o lh.aal3.mgh
+export SUBJECTS_DIR="${operation_dir}/${subject_dir}"
 
-## AAL index: odd number ==> left hemisphere; even number ==> right hemisphere
-olf_ids_l=(5 9 15 21 25 29 37 39 41) ## 5:Frontal_Sup_Orb_L 9:Frontal_Mid_Orb_L 15:Frontal_Inf_Orb_L 21:Olfactory_L 25:Frontal_Med_Orb_L 29:Insula_L 37:Hippocampus_L 39:ParaHippocampal_L 41:Amygdala_L
-
-olf_ids_R=(6 10 16 22 26 30 38 40 42) ## 6:Frontal_Sup_Orb_R 10:Frontal_Mid_Orb_R 16:Frontal_Inf_Orb_R 22:Olfactory_R 26:Frontal_Med_Orb_R 30:Insula_R 38:Hippocampus_R 40:ParaHippocampal_R 42:Amygdala_R
-
-## Note: the left brain index of AAL actually corresponds to the right brain of Freesurfer. This can be confirmed by two examples: 
-## (1) using the index of the right brain of AAL to run mris_vol2label (--h rh) will result in an error;
-## (2) using the index of the left brain of AAL to run mris_vol2label (--h rh) will not result in error, and using freeview can correctly sgement the corresponding right brain region.
-
-## Traverse the left and right hemisphere
-hemis=(lh rh)
-for he in "${hemis[@]}";do
-	if [ $he == lh ];then
-		olf_index=("${olf_ids_R[@]}")
-	else
-		olf_index=("${olf_ids_l[@]}")
-	fi
-	echo "此次执行的是${he}, 其脑区index为${olf_index[@]}"
-## Create lh/rh.num{}.label in freesurfer
-	for id in "${olf_index[@]}"; do
-		mri_vol2label --i ${he}.aal3.mgh \
-			--id "$id" \
-			--l "${he}.num${id}.label" \
-			--surf fsaverage ${he}
-	done
-
-## Merge lh/rh.num{}.label into a lh/rh.aal_olfactory.annot file 
-	mris_label2annot --s fsaverage --h ${he} \
-		 --ctab $operation_dir/${he}_aal_olfactory_RGB_note_1.txt \
-		 --a aal_olfactory \
-		 --l $SUBJECTS_DIR/fsaverage/label/${he}.num${olf_index[0]}.label \
-		 --l $SUBJECTS_DIR/fsaverage/label/${he}.num${olf_index[1]}.label \
-		 --l $SUBJECTS_DIR/fsaverage/label/${he}.num${olf_index[2]}.label \
-		 --l $SUBJECTS_DIR/fsaverage/label/${he}.num${olf_index[3]}.label \
-		 --l $SUBJECTS_DIR/fsaverage/label/${he}.num${olf_index[4]}.label \
-		 --l $SUBJECTS_DIR/fsaverage/label/${he}.num${olf_index[5]}.label \
-                 --l $SUBJECTS_DIR/fsaverage/label/${he}.num${olf_index[6]}.label \
-                 --l $SUBJECTS_DIR/fsaverage/label/${he}.num${olf_index[7]}.label \
-                 --l $SUBJECTS_DIR/fsaverage/label/${he}.num${olf_index[8]}.label
+# ============================================================
+# Safety checks
+# ============================================================
+for cmd in mri_vol2surf mri_vol2label mris_label2annot; do
+  command -v "$cmd" >/dev/null 2>&1 || { echo "ERROR: '$cmd' not found in PATH"; exit 1; }
 done
 
+[[ -d "$operation_dir" ]] || { echo "ERROR: operation_dir not found: $operation_dir"; exit 1; }
+[[ -d "$SUBJECTS_DIR" ]]   || { echo "ERROR: SUBJECTS_DIR not found: $SUBJECTS_DIR"; exit 1; }
+
+aal_nii="${operation_dir}/AAL116_1mm.nii"
+[[ -f "$aal_nii" ]] || { echo "ERROR: AAL NIfTI not found: $aal_nii"; exit 1; }
+
+# Color tables (ctab) must exist for BOTH hemispheres if you use hemi-specific files
+ctab_lh="${operation_dir}/lh_aal_olfactory_RGB_note_1.txt"
+ctab_rh="${operation_dir}/rh_aal_olfactory_RGB_note_1.txt"
+[[ -f "$ctab_lh" ]] || { echo "ERROR: missing ctab: $ctab_lh"; exit 1; }
+[[ -f "$ctab_rh" ]] || { echo "ERROR: missing ctab: $ctab_rh"; exit 1; }
+
+# Where labels should be written (FreeSurfer expects under $SUBJECTS_DIR/fsaverage/label)
+label_dir="${SUBJECTS_DIR}/fsaverage/label"
+mkdir -p "$label_dir"
+
+# ============================================================
+# 1) Project AAL volume to fsaverage surface (creates .mgh per hemi)
+# ============================================================
+# Keep outputs alongside this script / in CWD; you can change paths if you want.
+mri_vol2surf --mov "$aal_nii" --mni152reg --hemi rh --out_type mgh --o "rh.aal3.mgh"
+mri_vol2surf --mov "$aal_nii" --mni152reg --hemi lh --out_type mgh --o "lh.aal3.mgh"
+
+# ============================================================
+# 2) AAL index lists
+# ============================================================
+# AAL odd = left hemi, even = right hemi.
+olf_ids_l=(5 9 15 21 25 29 37 39 41)
+olf_ids_r=(6 10 16 22 26 30 38 40 42)
+
+# NOTE: you stated AAL left corresponds to FreeSurfer right, so we swap mapping below.
+
+# ============================================================
+# 3) For each hemisphere: create labels then merge into annot
+# ============================================================
+for hemi in lh rh; do
+  if [[ "$hemi" == "lh" ]]; then
+    olf_index=("${olf_ids_r[@]}")   # swap: FS lh uses AAL right indices
+    ctab="$ctab_lh"
+  else
+    olf_index=("${olf_ids_l[@]}")   # swap: FS rh uses AAL left indices
+    ctab="$ctab_rh"
+  fi
+
+  echo "Running hemisphere: ${hemi}; AAL indices: ${olf_index[*]}"
+
+  # Ensure the projected file exists
+  surf_mgh="${hemi}.aal3.mgh"
+  [[ -f "$surf_mgh" ]] || { echo "ERROR: missing ${surf_mgh}. Did mri_vol2surf succeed?"; exit 1; }
+
+  # ---- Create label files under $SUBJECTS_DIR/fsaverage/label
+  label_paths=()
+  for id in "${olf_index[@]}"; do
+    out_label="${label_dir}/${hemi}.num${id}.label"
+    mri_vol2label --i "$surf_mgh" \
+      --id "$id" \
+      --l "$out_label" \
+      --surf fsaverage "$hemi"
+    label_paths+=("$out_label")
+  done
+
+  # ---- Merge labels into annotation
+  # Use an array to pass multiple --l arguments safely
+  mris_label2annot --s fsaverage --h "$hemi" \
+    --ctab "$ctab" \
+    --a aal_olfactory \
+    $(printf -- '--l %q ' "${label_paths[@]}")
+
+done
+
+echo "Done. Annotation files should be under: ${SUBJECTS_DIR}/fsaverage/label"

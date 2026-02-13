@@ -1,87 +1,174 @@
-#!/usr/bin/python
-#coding=utf-8
-import pandas as pd
+#!/usr/bin/env python3
+# coding: utf-8
+
 import os
-import json
-import csv
-aspect_columns_surface_area = ["Frontal_Sup_Orb_L_5","Frontal_Sup_Orb_R_6","Frontal_Mid_Orb_L_9","Frontal_Mid_Orb_R_10","Frontal_Inf_Orb_L_15","Frontal_Inf_Orb_R_16","Olfactory_L_21","Olfactory_R_22","Frontal_Mid_Orb_L_25","Frontal_Mid_Orb_R_26","Insula_L_29","Insula_R_30"]
-aspect_columns_gray_matter_volume = ["Frontal_Sup_Orb_L_5","Frontal_Sup_Orb_R_6","Frontal_Mid_Orb_L_9","Frontal_Mid_Orb_R_10","Frontal_Inf_Orb_L_15","Frontal_Inf_Orb_R_16","Olfactory_L_21","Olfactory_R_22","Frontal_Mid_Orb_L_25","Frontal_Mid_Orb_R_26","Insula_L_29","Insula_R_30",'TotalGrayVol','Left_Hippocampus_vol','Right_Hippocampus_vol','Left_Amygdala_vol','Right_Amygdala_vol']
+import pandas as pd
+import numpy as np
 
-SUBJECTS_DIR='/histor/sun/linlin/4_olfactory/ABIDE/abide-master/sMRI/sMRI_git/FS_git'
+aspect_columns_surface_area = [
+    "Frontal_Sup_Orb_L_5","Frontal_Sup_Orb_R_6","Frontal_Mid_Orb_L_9","Frontal_Mid_Orb_R_10",
+    "Frontal_Inf_Orb_L_15","Frontal_Inf_Orb_R_16","Olfactory_L_21","Olfactory_R_22",
+    "Frontal_Mid_Orb_L_25","Frontal_Mid_Orb_R_26","Insula_L_29","Insula_R_30"
+]
 
-Subdirectories=[name for name in os.listdir(SUBJECTS_DIR) if os.path.isdir(os.path.join(SUBJECTS_DIR, name))]
+aspect_columns_gray_matter_volume = [
+    "Frontal_Sup_Orb_L_5","Frontal_Sup_Orb_R_6","Frontal_Mid_Orb_L_9","Frontal_Mid_Orb_R_10",
+    "Frontal_Inf_Orb_L_15","Frontal_Inf_Orb_R_16","Olfactory_L_21","Olfactory_R_22",
+    "Frontal_Mid_Orb_L_25","Frontal_Mid_Orb_R_26","Insula_L_29","Insula_R_30",
+    "TotalGrayVol","Left_Hippocampus_vol","Right_Hippocampus_vol","Left_Amygdala_vol","Right_Amygdala_vol"
+]
 
-remove_element=['fsaverage']
-Subdirectories_1=[x for x in Subdirectories if x not in remove_element]
+SUBJECTS_DIR = "/histor/sun/linlin/4_olfactory/ABIDE/abide-master/sMRI/sMRI_git/FS_git"
 
-## Abtain the total_surface_area value of each subject
-def regression_dict(filename):
-	regression_aspect=pd.read_csv(filename, index_col=False, header=None)
-	regression_aspect.columns = ['subj_ID','aspect']
-	regression_aspect_dict=regression_aspect.set_index('subj_ID')['aspect'].to_dict()
-	return regression_aspect_dict
+# ------------------------------------------------------------
+# Subjects
+# ------------------------------------------------------------
+subdirs = [
+    name for name in os.listdir(SUBJECTS_DIR)
+    if os.path.isdir(os.path.join(SUBJECTS_DIR, name)) and name != "fsaverage"
+]
 
-## Abtain the total_gray_matter_volume value of each subject
-def regression_dict_vol(filename):
-	regression_aspect=pd.read_csv(filename, index_col=False, header=None)
-	regression_aspect.columns = ['subj_ID','TotalGrayVol','Left_Hippocampus_vol','Right_Hippocampus_vol','Left_Amygdala_vol','Right_Amygdala_vol']
-	regression_aspect_dict=regression_aspect.set_index('subj_ID').to_dict(orient='index')
-	return regression_aspect_dict
+# ------------------------------------------------------------
+# Robust readers for the summary CSV files
+# ------------------------------------------------------------
+def load_surface_area_dict(csv_path: str) -> dict:
+    """
+    Accepts either:
+      - with header: subject,total_surface_area
+      - without header: subj_ID,aspect
+    Returns {subj_ID: total_surface_area_float}
+    """
+    df = pd.read_csv(csv_path)
+    if set(df.columns) >= {"subject", "total_surface_area"}:
+        return dict(zip(df["subject"].astype(str), pd.to_numeric(df["total_surface_area"], errors="coerce")))
+    # fallback to headerless format
+    df = pd.read_csv(csv_path, header=None)
+    df.columns = ["subj_ID", "aspect"]
+    return dict(zip(df["subj_ID"].astype(str), pd.to_numeric(df["aspect"], errors="coerce")))
 
-## Generate dataframe for each subject's measurement values
-def subject_df_generate(file_path,character_col_index,subject_id):
-	subject_dict = {}
-	df = pd.read_csv(file_path,sep=" ",header=None).iloc[:,[0,character_col_index]]	
-	df.columns=["key","value"]
-	result_dict = df.set_index("key").to_dict()["value"]
-	subject_dict[subject_id]=result_dict
-	subject_df=pd.DataFrame(subject_dict)
-	return subject_df
+def load_volume_dict(csv_path: str) -> dict:
+    """
+    Accepts either:
+      - with header: subject,TotalGrayVol,Left_Hippocampus,Right_Hippocampus,Left_Amygdala,Right_Amygdala
+      - without header (your older format)
+    Returns {subj_ID: {TotalGrayVol:..., Left_Hippocampus_vol:..., ...}}
+    """
+    df = pd.read_csv(csv_path)
+    if "subject" in df.columns:
+        # Map possible header names to your desired names
+        rename_map = {
+            "Left_Hippocampus": "Left_Hippocampus_vol",
+            "Right_Hippocampus": "Right_Hippocampus_vol",
+            "Left_Amygdala": "Left_Amygdala_vol",
+            "Right_Amygdala": "Right_Amygdala_vol",
+        }
+        df = df.rename(columns=rename_map)
+        keep_cols = ["subject", "TotalGrayVol", "Left_Hippocampus_vol", "Right_Hippocampus_vol", "Left_Amygdala_vol", "Right_Amygdala_vol"]
+        for c in keep_cols:
+            if c not in df.columns:
+                df[c] = np.nan
+        df[keep_cols[1:]] = df[keep_cols[1:]].apply(pd.to_numeric, errors="coerce")
+        return df.set_index("subject")[keep_cols[1:]].to_dict(orient="index")
 
-## Aspect
-#Surface area=2
-#Gray matter volume=3
+    # fallback to headerless format
+    df = pd.read_csv(csv_path, header=None)
+    df.columns = ["subj_ID","TotalGrayVol","Left_Hippocampus_vol","Right_Hippocampus_vol","Left_Amygdala_vol","Right_Amygdala_vol"]
+    df[["TotalGrayVol","Left_Hippocampus_vol","Right_Hippocampus_vol","Left_Amygdala_vol","Right_Amygdala_vol"]] = \
+        df[["TotalGrayVol","Left_Hippocampus_vol","Right_Hippocampus_vol","Left_Amygdala_vol","Right_Amygdala_vol"]].apply(pd.to_numeric, errors="coerce")
+    return df.set_index("subj_ID").to_dict(orient="index")
 
-## Integrate all subjects'data into one dataframe
-subject_without_htxt=[] ## Recode subjects without "_lh/rh_1.txt"
-def subj_statistic_df_generated(aspect,aspect_columns,aspect_dict):
-	subject_dict={}
-	aspect_df=pd.DataFrame(columns=aspect_columns)
-	for i in Subdirectories_1:
-		file_name_lh=i+"_lh_1.txt"
-		file_name_rh=i+"_rh_1.txt"
-		file_path_lh=os.path.join(SUBJECTS_DIR,i,"stats",file_name_lh)
-		file_path_rh=os.path.join(SUBJECTS_DIR,i,"stats",file_name_rh)
-		if os.path.exists(file_path_lh) and os.path.exists(file_path_rh):
-			subject_df_lh=subject_df_generate(file_path_lh,aspect,i)
-			subject_df_rh=subject_df_generate(file_path_rh,aspect,i)
-			subject_df_merge=pd.concat([subject_df_lh, subject_df_rh])
-			subject_dict[subject_df_merge.columns[0]]={} 
-			for index,row in subject_df_merge.iterrows():
-				subject_dict[subject_df_merge.columns[0]][index]=row[subject_df_merge.columns[0]] ##  Dictionary structure: {key:{key1:value1,key2:value2}}
-				if aspect==2:
-					subject_dict[subject_df_merge.columns[0]]['Total_surface_area']=aspect_dict[subject_df_merge.columns[0]]
-				else:
-					subject_dict[subject_df_merge.columns[0]].update(aspect_dict[subject_df_merge.columns[0]])
-		else:
-			subject_without_htxt.append(i)
-	## Fill data to dataframe
-	for key, values in subject_dict.items():
-		aspect_df.loc[key]={key: float(value) for key, value in values.items()}
-	aspect_df.reset_index(inplace=True)
-	aspect_df.rename(columns={'index':'Subject_ID'},inplace=True)
-	return aspect_df
+# ------------------------------------------------------------
+# Read subject ROI stats file -> dict
+# ------------------------------------------------------------
+def read_roi_file(file_path: str, value_col_index: int) -> dict:
+    """
+    file looks like: key col1 col2 col3...
+    We take col0 as key, and column `value_col_index` as value.
+    Uses whitespace splitting robustly.
+    """
+    df = pd.read_csv(file_path, sep=r"\s+", engine="python", header=None)
+    if df.shape[1] <= value_col_index:
+        raise ValueError(f"{file_path} has only {df.shape[1]} columns; cannot take col {value_col_index}")
+    keys = df.iloc[:, 0].astype(str)
+    vals = pd.to_numeric(df.iloc[:, value_col_index], errors="coerce")
+    return dict(zip(keys, vals))
 
+def build_subject_table(value_col_index: int, expected_cols: list, extra_dict: dict, extra_key_name: str) -> tuple[pd.DataFrame, list]:
+    """
+    value_col_index: 2 (surface area) or 3 (volume) per your assumption
+    expected_cols: columns you want in output
+    extra_dict:
+      - surface: {subj: total_surface_area}
+      - volume: {subj: {TotalGrayVol:..., ...}}
+    extra_key_name:
+      - "Total_surface_area" or "" (volume dict already has keys)
+    Returns: (df, missing_subjects)
+    """
+    rows = []
+    missing = []
 
-## (1) Surface area
-total_surface_area_dict=regression_dict('/histor/sun/linlin/4_olfactory/ABIDE/abide-master/sMRI/sMRI_git/FS_git_surface_area.csv')
+    for subj in subdirs:
+        lh_path = os.path.join(SUBJECTS_DIR, subj, "stats", f"{subj}_lh_1.txt")
+        rh_path = os.path.join(SUBJECTS_DIR, subj, "stats", f"{subj}_rh_1.txt")
 
-surface_area_df=subj_statistic_df_generated(2,aspect_columns_surface_area,total_surface_area_dict)
-surface_area_df.to_csv('FS_git_surface_area_df.csv', index=False)
+        if not (os.path.exists(lh_path) and os.path.exists(rh_path)):
+            missing.append(subj)
+            continue
 
-## (2) Gray matter volume
-gray_matter_volume_dict=regression_dict_vol('/histor/sun/linlin/4_olfactory/ABIDE/abide-master/sMRI/sMRI_git/FS_git_gray_matter_volume.csv')
+        lh = read_roi_file(lh_path, value_col_index)
+        rh = read_roi_file(rh_path, value_col_index)
 
-gray_matter_volume_df=subj_statistic_df_generated(3,aspect_columns_gray_matter_volume,gray_matter_volume_dict)
-gray_matter_volume_df.to_csv('FS_git_gray_matter_volume_df.csv',index=False)
+        merged = {}
+        merged.update(lh)
+        merged.update(rh)
 
+        # add extra measures
+        if extra_key_name:  # surface
+            merged[extra_key_name] = extra_dict.get(subj, np.nan)
+        else:  # volume extras are dict-of-dicts
+            extras = extra_dict.get(subj, {})
+            if isinstance(extras, dict):
+                merged.update(extras)
+
+        # enforce expected columns (others ignored)
+        row = {"Subject_ID": subj}
+        for c in expected_cols:
+            row[c] = merged.get(c, np.nan)
+        rows.append(row)
+
+    df = pd.DataFrame(rows)
+    return df, missing
+
+# ------------------------------------------------------------
+# (1) Surface area DF
+# ------------------------------------------------------------
+total_surface_area_dict = load_surface_area_dict(
+    "/histor/sun/linlin/4_olfactory/ABIDE/abide-master/sMRI/sMRI_git/FS_git_surface_area.csv"
+)
+
+surface_area_df, missing_surface = build_subject_table(
+    value_col_index=2,
+    expected_cols=aspect_columns_surface_area + ["Total_surface_area"],
+    extra_dict=total_surface_area_dict,
+    extra_key_name="Total_surface_area",
+)
+
+surface_area_df.to_csv("FS_git_surface_area_df.csv", index=False)
+print(f"[Surface] saved FS_git_surface_area_df.csv, n={len(surface_area_df)}, missing={len(missing_surface)}")
+
+# ------------------------------------------------------------
+# (2) Gray matter volume DF
+# ------------------------------------------------------------
+gray_matter_volume_dict = load_volume_dict(
+    "/histor/sun/linlin/4_olfactory/ABIDE/abide-master/sMRI/sMRI_git/FS_git_gray_matter_volume.csv"
+)
+
+gray_matter_volume_df, missing_vol = build_subject_table(
+    value_col_index=3,
+    expected_cols=aspect_columns_gray_matter_volume,
+    extra_dict=gray_matter_volume_dict,
+    extra_key_name="",  # extras already include the keys
+)
+
+gray_matter_volume_df.to_csv("FS_git_gray_matter_volume_df.csv", index=False)
+print(f"[Volume] saved FS_git_gray_matter_volume_df.csv, n={len(gray_matter_volume_df)}, missing={len(missing_vol)}")

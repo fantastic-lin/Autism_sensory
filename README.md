@@ -59,18 +59,6 @@ source ~/.bashrc
 
 ### 2. Bayesian analytic framework, TADA, for the Autism risk prioritization of sensory-related genes
 - Script: run_TADA.R
-- Inputs: 
-    1) prior mutation info: ./TADA_sup_info_mut_hgnc.csv
-    2) Mutation event in Population:  ./dn_SNV_info_hgnc.csv, ./in_SNV_info_hgnc.csv, ./cc_SNV_info_hgnc.csv
-    3) Sensory-related gene information: ./genecards_sensory_hgnc_supple.csv
-    4) CNV information:./CNV_merge_note.csv
-    5) ASD risk gene in SFARI: ./SFARI_ASD_gene_note.csv
-    6) Sensory type note of sensory-related genes: ./genecards_hgnc_sensory_info.csv
-- Output: 
-    1) BF calculated by TADA:./SNV_ORG_BF.csv, ./CNV_ORG_BF.csv, ./SNV_CNV_ORG_BF.csv
-    2) Convert BF to FDR: ./SNV_CNV_ORG_BF_FDR_pval.csv, ./SNV_CNV_ORG_BF_FDR_pval_ASD.csv, ./SNV_CNV_ORG_BF_FDR_pval_ASD_note.csv, ./BF_sensory.csv
-
-- Script: run_TADA.R
 - Inputs:
     1) Prior mutation information: ./TADA_sup_info_mut_hgnc.csv
     2) Mutation events in the population:
