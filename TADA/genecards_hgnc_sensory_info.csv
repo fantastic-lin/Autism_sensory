@@ -1,0 +1,6716 @@
+Gene Symbol,Sensory Type,Gene_hgnc
+A2ML1,"olfactory, auditory",A2ML1
+ABCA4,"olfactory, vision, auditory",ABCA4
+ABCB4,"olfactory, vision, auditory",ABCB4
+ABCC11,olfactory,ABCC11
+ABCC2,"olfactory, auditory",ABCC2
+ACAP3,olfactory,ACAP3
+ACE2,olfactory,ACE2
+ACKR1,olfactory,ACKR1
+ACMSD,olfactory,ACMSD
+ACP1,olfactory,ACP1
+ADA,"olfactory, vision, auditory",ADA
+ADAM28,olfactory,ADAM28
+ADAR,"olfactory, vision, auditory",ADAR
+ADCY3,olfactory,ADCY3
+ADCY4,olfactory,ADCY4
+ADH1C,"olfactory, vision",ADH1C
+ADORA2A,"olfactory, vision",ADORA2A
+ADRA1D,olfactory,ADRA1D
+AFP,olfactory,AFP
+AHCYL2,"olfactory, vision",AHCYL2
+AHDC1,"olfactory, vision, auditory",AHDC1
+AHI1,"olfactory, vision, auditory",AHI1
+AIMP2,olfactory,AIMP2
+AIPL1,"olfactory, vision, auditory, touch",AIPL1
+AKR1D1,"olfactory, auditory",AKR1D1
+AKT1,"olfactory, vision, auditory, touch",AKT1
+ALB,olfactory,ALB
+ALG11,"olfactory, vision, auditory, touch",ALG11
+ALX3,"olfactory, vision, auditory",ALX3
+ALX4,"olfactory, vision",ALX4
+AMBRA1,olfactory,AMBRA1
+AMH,"olfactory, vision",AMH
+AMHR2,"olfactory, vision",AMHR2
+AMIGO2,olfactory,AMIGO2
+AMN1,"olfactory, vision",AMN1
+ANK1,"olfactory, vision, auditory",ANK1
+ANKH,"olfactory, vision, auditory",ANKH
+ANKRD24,"olfactory, auditory",ANKRD24
+ANKRD50,"olfactory, vision",ANKRD50
+ANO2,"olfactory, vision",ANO2
+ANO9,olfactory,ANO9
+ANOS1,"olfactory, vision, auditory",ANOS1
+ANPEP,olfactory,ANPEP
+AP1S1,"olfactory, auditory",AP1S1
+AP2A2,olfactory,AP2A2
+APOB,"olfactory, vision",APOB
+APOBEC1,olfactory,APOBEC1
+APOE,"olfactory, vision",APOE
+APOL1,olfactory,APOL1
+APP,"olfactory, vision, auditory, touch",APP
+APPL2,olfactory,APPL2
+AR,"olfactory, vision",AR
+ARAF,"olfactory, auditory",ARAF
+ARB2A,olfactory,
+ARHGAP39,olfactory,ARHGAP39
+ARHGEF1,olfactory,ARHGEF1
+ARHGEF17,olfactory,ARHGEF17
+ARID1B,"olfactory, vision, auditory",ARID1B
+ARIH1,olfactory,ARIH1
+ARL13B,"olfactory, vision",ARL13B
+ARL16,"olfactory, auditory",ARL16
+ARL17A,olfactory,ARL17A
+ARL17B,olfactory,ARL17B
+ARL3,"olfactory, vision, auditory",ARL3
+ARL6,"olfactory, vision, auditory",ARL6
+ARNT2,"olfactory, vision, auditory",ARNT2
+ARSA,"olfactory, vision, auditory, touch",ARSA
+ARSL,"olfactory, auditory",ARSL
+ARVCF,"olfactory, vision, auditory",ARVCF
+ARX,"olfactory, vision, auditory",ARX
+ASCL1,"olfactory, vision, auditory",ASCL1
+ASCL3,olfactory,ASCL3
+ASTN1,olfactory,ASTN1
+ATF5,"olfactory, auditory",ATF5
+ATG5,"olfactory, vision",ATG5
+ATG7,"olfactory, vision, auditory",ATG7
+ATL3,"olfactory, vision, auditory, touch",ATL3
+ATM,"olfactory, vision, auditory, touch",ATM
+ATOX1,olfactory,ATOX1
+ATP13A1,olfactory,ATP13A1
+ATP13A2,"olfactory, vision, auditory, touch",ATP13A2
+ATP4A,"olfactory, touch",ATP4A
+ATP6V0A4,"olfactory, vision, auditory",ATP6V0A4
+ATP6V1B1,"olfactory, vision, auditory",ATP6V1B1
+ATP6V1B2,"olfactory, vision, auditory",ATP6V1B2
+ATP7A,"olfactory, vision, auditory, touch",ATP7A
+ATP7B,"olfactory, vision, touch",ATP7B
+ATXN2,"olfactory, vision, touch",ATXN2
+ATXN3,"olfactory, vision, touch",ATXN3
+ATXN8,"olfactory, vision, touch",ATXN8
+AVP,"olfactory, vision",AVP
+AXIN1,olfactory,AXIN1
+AXL,"olfactory, vision",AXL
+B3GALT6,"olfactory, vision, auditory",B3GALT6
+B4GALT7,"olfactory, vision, auditory",B4GALT7
+B9D1,"olfactory, vision",B9D1
+BAG5,"olfactory, auditory",BAG5
+BANF1,olfactory,BANF1
+BAP1,"olfactory, vision, auditory",BAP1
+BARX1,olfactory,BARX1
+BAZ1A,"olfactory, auditory",BAZ1A
+BBIP1,"olfactory, vision, auditory",BBIP1
+BBS1,"olfactory, vision, auditory",BBS1
+BBS10,"olfactory, vision, auditory",BBS10
+BBS12,"olfactory, vision, auditory, touch",BBS12
+BBS2,"olfactory, vision, auditory",BBS2
+BBS4,"olfactory, vision, auditory",BBS4
+BBS5,"olfactory, vision, auditory",BBS5
+BBS7,"olfactory, vision, auditory",BBS7
+BBS9,"olfactory, vision, auditory",BBS9
+BCAS4,olfactory,BCAS4
+BCL11A,"olfactory, vision",BCL11A
+BCL2L13,olfactory,BCL2L13
+BECN1,olfactory,BECN1
+BGLAP,olfactory,BGLAP
+BLTP3A,olfactory,BLTP3A
+BMP1,"olfactory, vision, auditory",BMP1
+BMP2,"olfactory, auditory",BMP2
+BMP4,"olfactory, vision, auditory",BMP4
+BMP6,olfactory,BMP6
+BMP7,olfactory,BMP7
+BMPR1A,"olfactory, vision, touch",BMPR1A
+BMPR1B,"olfactory, vision",BMPR1B
+BNIP3,olfactory,BNIP3
+BNIP3L,olfactory,BNIP3L
+BOC,olfactory,BOC
+BOD1L1,olfactory,BOD1L1
+BPIFB3,olfactory,BPIFB3
+BPIFB4,olfactory,BPIFB4
+BPY2,olfactory,BPY2
+BPY2B,olfactory,BPY2B
+BPY2C,olfactory,BPY2C
+BRAF,"olfactory, vision, auditory, touch",BRAF
+BRCA1,"olfactory, vision, auditory",BRCA1
+BTBD18,olfactory,BTBD18
+BUD13,olfactory,BUD13
+C19orf12,"olfactory, vision, auditory, touch",C19orf12
+C2CD3,"olfactory, vision",C2CD3
+C4A,"olfactory, vision, auditory, touch",C4A
+C9orf72,"olfactory, vision",C9orf72
+CA6,olfactory,CA6
+CACNA1C,"olfactory, vision, auditory",CACNA1C
+CADPS2,olfactory,CADPS2
+CALB1,olfactory,CALB1
+CALB2,"olfactory, auditory",CALB2
+CALCOCO2,olfactory,CALCOCO2
+CAMKK2,olfactory,CAMKK2
+CAPZA2,olfactory,CAPZA2
+CAT,"olfactory, vision, auditory",CAT
+CAV1,"olfactory, vision, auditory, touch",CAV1
+CBL,"olfactory, vision, auditory",CBL
+CBS,"olfactory, vision, touch",CBS
+CC2D2A,"olfactory, vision, auditory",CC2D2A
+CCDC141,"olfactory, vision, auditory",CCDC141
+CCDC28B,"olfactory, vision, auditory",CCDC28B
+CCDC62,olfactory,CCDC62
+CCL11,olfactory,CCL11
+CCND1,"olfactory, vision, auditory, touch",CCND1
+CCS,olfactory,CCS
+CD274,olfactory,CD274
+CD300C,olfactory,CD300C
+CD99,olfactory,CD99
+CDA,"olfactory, vision, auditory",CDA
+CDCP2,"olfactory, vision",CDCP2
+CDH17,"olfactory, vision",CDH17
+CDH19,olfactory,CDH19
+CDH2,"olfactory, vision, auditory",CDH2
+CDH20,olfactory,CDH20
+CDH7,olfactory,CDH7
+CDK5RAP2,"olfactory, vision, auditory",CDK5RAP2
+CDKN3,olfactory,CDKN3
+CDON,"olfactory, vision, auditory",CDON
+CDY1B,olfactory,CDY1B
+CENPO,olfactory,CENPO
+CEP164,"olfactory, vision",CEP164
+CEP170B,olfactory,CEP170B
+CEP19,"olfactory, vision, auditory",CEP19
+CEP290,"olfactory, vision, auditory, touch",CEP290
+CEP41,"olfactory, vision, auditory",CEP41
+CERT1,"olfactory, vision, auditory",CERT1
+CFAP418,"olfactory, vision, auditory",CFAP418
+CFAP69,olfactory,CFAP69
+CFH,"olfactory, vision",CFH
+CFTR,"olfactory, vision, auditory",CFTR
+CGA,olfactory,CGA
+CGB5,olfactory,CGB5
+CHCHD2,olfactory,CHCHD2
+CHD1,olfactory,CHD1
+CHD3,"olfactory, vision",CHD3
+CHD4,"olfactory, vision, auditory",CHD4
+CHD6,"olfactory, vision",CHD6
+CHD7,"olfactory, vision, auditory",CHD7
+CHD8,"olfactory, vision, touch",CHD8
+CHD9,olfactory,CHD9
+CHGA,olfactory,CHGA
+CHM,"olfactory, vision, auditory",CHM
+CHRD,olfactory,CHRD
+CIAO2A,olfactory,CIAO2A
+CILK1,"olfactory, vision",CILK1
+CLASRP,olfactory,CLASRP
+CLCN6,"olfactory, vision, auditory",CLCN6
+CLUAP1,"olfactory, vision",CLUAP1
+CNGA2,olfactory,CNGA2
+CNGA3,"olfactory, vision",CNGA3
+CNGA4,olfactory,CNGA4
+CNGB1,"olfactory, vision, auditory",CNGB1
+CNGB3,"olfactory, vision",CNGB3
+CNOT1,"olfactory, auditory",CNOT1
+CNTF,olfactory,CNTF
+CNTLN,olfactory,CNTLN
+COASY,"olfactory, vision, auditory",COASY
+COG4,"olfactory, vision, auditory",COG4
+COL1A1,"olfactory, auditory, touch",COL1A1
+COL25A1,"olfactory, vision, auditory",COL25A1
+COL2A1,"olfactory, vision, auditory",COL2A1
+COL5A1,"olfactory, vision, auditory",COL5A1
+COMMD1,"olfactory, vision",COMMD1
+COMT,"olfactory, vision, auditory",COMT
+COX11,"olfactory, vision, auditory",COX11
+COX17,olfactory,COX17
+CP,"olfactory, vision, auditory",CP
+CPAP,"olfactory, vision",
+CPLANE1,"olfactory, vision, auditory",CPLANE1
+CRIPTO,"olfactory, vision, auditory",
+CRX,"olfactory, vision, auditory, touch",CRX
+CSH2,olfactory,CSH2
+CT45A2,olfactory,CT45A2
+CT45A8,olfactory,CT45A8
+CTBP1,"olfactory, vision, auditory",CTBP1
+CTNNB1,"olfactory, vision, auditory, touch",CTNNB1
+CTNNBL1,olfactory,CTNNBL1
+CTSD,"olfactory, vision, auditory",CTSD
+CTSK,"olfactory, vision, auditory",CTSK
+CTTNBP2,"olfactory, vision, auditory",CTTNBP2
+CUL1,olfactory,CUL1
+CUL4B,"olfactory, vision",CUL4B
+CXCL8,olfactory,CXCL8
+CYCS,olfactory,CYCS
+CYP26A1,olfactory,CYP26A1
+DAPL1,olfactory,DAPL1
+DAZ1,olfactory,DAZ1
+DBH,"olfactory, vision",DBH
+DCAF17,"olfactory, vision, auditory, touch",DCAF17
+DCC,"olfactory, vision, auditory",DCC
+DDC,"olfactory, vision, auditory",DDC
+DDI2,olfactory,DDI2
+DDX6,"olfactory, vision",DDX6
+DHCR7,"olfactory, vision, auditory",DHCR7
+DHH,"olfactory, vision, auditory, touch",DHH
+DHX15,olfactory,DHX15
+DIS3L2,"olfactory, vision, auditory",DIS3L2
+DISP1,"olfactory, vision, auditory",DISP1
+DISP3,olfactory,DISP3
+DKK1,"olfactory, vision, auditory, touch",DKK1
+DKK2,"olfactory, vision",DKK2
+DLAT,"olfactory, vision",DLAT
+DLL1,"olfactory, vision, auditory",DLL1
+DLX1,"olfactory, vision",DLX1
+DLX2,"olfactory, vision",DLX2
+DLX5,"olfactory, auditory",DLX5
+DMD,"olfactory, vision, auditory, touch",DMD
+DMP1,"olfactory, auditory",DMP1
+DMXL2,"olfactory, vision, auditory",DMXL2
+DNAAF19,olfactory,
+DNAH8,olfactory,DNAH8
+DNAI1,"olfactory, vision, auditory",DNAI1
+DNAJB6,"olfactory, vision",DNAJB6
+DNAJC13,"olfactory, vision, auditory",DNAJC13
+DNAJC5,"olfactory, vision, auditory",DNAJC5
+DNAJC6,"olfactory, vision, auditory",DNAJC6
+DNAL1,"olfactory, vision, auditory",DNAL1
+DNHD1,"olfactory, vision",DNHD1
+DNM1L,"olfactory, vision, auditory, touch",DNM1L
+DOCK6,"olfactory, vision",DOCK6
+DOCK8,"olfactory, vision",DOCK8
+DOK6,olfactory,DOK6
+DPP4,olfactory,DPP4
+DRD2,"olfactory, vision",DRD2
+DRD3,"olfactory, auditory",DRD3
+DSCAML1,"olfactory, vision",DSCAML1
+DUSP6,"olfactory, vision, auditory",DUSP6
+DYNC2H1,"olfactory, vision",DYNC2H1
+EAPP,"olfactory, auditory",EAPP
+EBF1,"olfactory, vision, auditory",EBF1
+EBF2,olfactory,EBF2
+EDN3,"olfactory, vision, auditory",EDN3
+EDNRA,"olfactory, vision, auditory",EDNRA
+EDNRB,"olfactory, vision, auditory",EDNRB
+EFCAB13,olfactory,EFCAB13
+EFEMP1,"olfactory, vision, auditory",EFEMP1
+EFTUD2,"olfactory, auditory",EFTUD2
+EIF4G1,"olfactory, vision, auditory",EIF4G1
+ELP1,"olfactory, vision, auditory, touch",ELP1
+EMX1,olfactory,EMX1
+EMX2,"olfactory, vision",EMX2
+ENO2,olfactory,ENO2
+ENSG00000239920,"olfactory, vision",
+ENSG00000275249,olfactory,
+ENSG00000284732,olfactory,
+ENTPD2,olfactory,ENTPD2
+ENTR1,olfactory,ENTR1
+EP300,"olfactory, vision, auditory",EP300
+EPG5,"olfactory, vision, auditory",EPG5
+EPHA10,"olfactory, auditory",EPHA10
+EPN1,olfactory,EPN1
+ERBB3,"olfactory, vision, auditory, touch",ERBB3
+ERC2,olfactory,ERC2
+ESD,olfactory,ESD
+ESRRB,"olfactory, vision, auditory",ESRRB
+ESX1,olfactory,ESX1
+ETFBKMT,olfactory,ETFBKMT
+ETV1,"olfactory, vision",ETV1
+EVC2,"olfactory, vision",EVC2
+EYA1,"olfactory, vision, auditory",EYA1
+EYA4,"olfactory, auditory",EYA4
+F2,olfactory,F2
+FA2H,"olfactory, vision, auditory",FA2H
+FAH,"olfactory, vision, auditory",FAH
+FAM124B,olfactory,FAM124B
+FAM149B1,"olfactory, vision, auditory",FAM149B1
+FAM219A,olfactory,FAM219A
+FAM219B,olfactory,FAM219B
+FAM9A,olfactory,FAM9A
+FAM9B,olfactory,FAM9B
+FANCB,"olfactory, vision, auditory",FANCB
+FANCI,"olfactory, vision, auditory",FANCI
+FAT4,"olfactory, vision, auditory",FAT4
+FBN1,"olfactory, vision, auditory, touch",FBN1
+FBN2,"olfactory, vision",FBN2
+FBXO46,olfactory,FBXO46
+FBXO7,"olfactory, vision",FBXO7
+FDX1,olfactory,FDX1
+FEZF1,"olfactory, vision, auditory",FEZF1
+FGF1,"olfactory, vision",FGF1
+FGF10,"olfactory, vision, auditory",FGF10
+FGF13,olfactory,FGF13
+FGF16,olfactory,FGF16
+FGF17,"olfactory, vision, auditory",FGF17
+FGF18,"olfactory, vision",FGF18
+FGF2,"olfactory, vision",FGF2
+FGF20,olfactory,FGF20
+FGF22,olfactory,FGF22
+FGF3,"olfactory, vision, auditory",FGF3
+FGF4,olfactory,FGF4
+FGF5,olfactory,FGF5
+FGF6,olfactory,FGF6
+FGF7,olfactory,FGF7
+FGF8,"olfactory, vision, auditory",FGF8
+FGF9,"olfactory, vision, auditory",FGF9
+FGFR1,"olfactory, vision, auditory",FGFR1
+FGFR2,"olfactory, vision, auditory",FGFR2
+FGFR3,"olfactory, vision, auditory, touch",FGFR3
+FGR,olfactory,FGR
+FHIP1B,"olfactory, vision",FHIP1B
+FIBP,"olfactory, vision, auditory",FIBP
+FIG4,"olfactory, vision, auditory, touch",FIG4
+FILIP1,"olfactory, vision",FILIP1
+FIS1,olfactory,FIS1
+FKBP8,olfactory,FKBP8
+FLRT3,"olfactory, vision, auditory",FLRT3
+FMO3,"olfactory, vision",FMO3
+FN1,"olfactory, vision",FN1
+FNBP1,olfactory,FNBP1
+FOXA2,"olfactory, auditory",FOXA2
+FOXG1,"olfactory, vision, touch",FOXG1
+FOXH1,"olfactory, vision, auditory",FOXH1
+FOXI3,"olfactory, vision, auditory",FOXI3
+FOXL2,"olfactory, vision",FOXL2
+FOXN1,"olfactory, vision, auditory",FOXN1
+FOXP1,"olfactory, vision",FOXP1
+FOXP2,"olfactory, vision, auditory",FOXP2
+FRAS1,"olfactory, vision, auditory",FRAS1
+FRS3,olfactory,FRS3
+FSHB,"olfactory, vision",FSHB
+FSHR,"olfactory, auditory",FSHR
+FUNDC1,olfactory,FUNDC1
+FUT1,olfactory,FUT1
+FUZ,olfactory,FUZ
+G6PC1,"olfactory, vision, auditory",G6PC1
+G6PD,"olfactory, auditory",G6PD
+GABARAP,olfactory,GABARAP
+GABARAPL1,olfactory,GABARAPL1
+GABARAPL2,olfactory,GABARAPL2
+GAK,olfactory,GAK
+GAS1,"olfactory, vision, auditory",GAS1
+GATA4,"olfactory, vision",GATA4
+GBA1,"olfactory, vision, auditory",GBA1
+GBX2,olfactory,GBX2
+GDF6,"olfactory, vision, auditory, touch",GDF6
+GEM,olfactory,GEM
+GEMIN7,olfactory,GEMIN7
+GFRA1,"olfactory, vision",GFRA1
+GFRA2,"olfactory, vision",GFRA2
+GFY,olfactory,GFY
+GIGYF1,"olfactory, vision, auditory",GIGYF1
+GIGYF2,"olfactory, vision, auditory",GIGYF2
+GIMAP8,olfactory,GIMAP8
+GJB2,"olfactory, vision, auditory",GJB2
+GLCE,olfactory,GLCE
+GLI1,"olfactory, vision",GLI1
+GLI2,"olfactory, vision, auditory",GLI2
+GLI3,"olfactory, vision, auditory",GLI3
+GLI4,olfactory,GLI4
+GLIS1,olfactory,GLIS1
+GLUD2,"olfactory, vision",GLUD2
+GMEB1,olfactory,GMEB1
+GNAL,"olfactory, vision",GNAL
+GNAS,"olfactory, vision, auditory, touch",GNAS
+GNRH1,"olfactory, vision, auditory",GNRH1
+GNRH2,olfactory,GNRH2
+GNRHR,"olfactory, vision, auditory",GNRHR
+GOLM1,olfactory,GOLM1
+GOLPH3,olfactory,GOLPH3
+GOSR2,"olfactory, vision, auditory",GOSR2
+GP1BB,"olfactory, vision, auditory",GP1BB
+GPC4,"olfactory, vision, auditory",GPC4
+GPR143,"olfactory, vision",GPR143
+GPR148,olfactory,GPR148
+GPR161,olfactory,GPR161
+GPR174,olfactory,GPR174
+GPR37,olfactory,GPR37
+GPSM2,"olfactory, auditory",GPSM2
+GPT,olfactory,GPT
+GPT2,"olfactory, auditory",GPT2
+GPX6,olfactory,GPX6
+GRB2,olfactory,GRB2
+GRK1,"olfactory, vision",GRK1
+GRK7,"olfactory, vision",GRK7
+GSG1L2,olfactory,GSG1L2
+GSR,olfactory,GSR
+GSX2,olfactory,GSX2
+GUCY2D,"olfactory, vision, auditory, touch",GUCY2D
+HAMP,"olfactory, vision",HAMP
+HAS2,olfactory,HAS2
+HBB,"olfactory, vision, auditory",HBB
+HBE1,"olfactory, vision",HBE1
+HBG2,"olfactory, vision",HBG2
+HCRT,"olfactory, vision, touch",HCRT
+HDAC1,olfactory,HDAC1
+HDAC4,"olfactory, vision, auditory, touch",HDAC4
+HESX1,"olfactory, vision, auditory",HESX1
+HFE,"olfactory, vision, auditory, touch",HFE
+HHAT,"olfactory, vision",HHAT
+HHIP,olfactory,HHIP
+HIP1R,olfactory,HIP1R
+HIRA,"olfactory, vision, auditory",HIRA
+HMBS,"olfactory, vision, auditory, touch",HMBS
+HOXA13,"olfactory, vision, auditory",HOXA13
+HOXD13,olfactory,HOXD13
+HRAS,"olfactory, vision, auditory, touch",HRAS
+HS6ST1,"olfactory, vision, auditory",HS6ST1
+HSP90AB1,olfactory,HSP90AB1
+HSPA4,olfactory,HSPA4
+HSPA8,olfactory,HSPA8
+HSPA9,olfactory,HSPA9
+HTR5A,olfactory,HTR5A
+HTR6,olfactory,HTR6
+HTRA2,"olfactory, vision, auditory",HTRA2
+HTT,"olfactory, vision",HTT
+HUNK,"olfactory, auditory",HUNK
+HYAL1,"olfactory, vision",HYAL1
+HYLS1,"olfactory, vision",HYLS1
+IDH2,olfactory,IDH2
+IFIH1,"olfactory, vision, auditory",IFIH1
+IFT172,"olfactory, vision, auditory",IFT172
+IFT27,"olfactory, vision, auditory",IFT27
+IFT46,"olfactory, auditory",IFT46
+IFT74,"olfactory, vision, auditory",IFT74
+IFT88,"olfactory, vision, auditory",IFT88
+IGF1,"olfactory, vision, auditory",IGF1
+IGF2R,olfactory,IGF2R
+IGFBP3,olfactory,IGFBP3
+IGSF1,olfactory,IGSF1
+IGSF10,"olfactory, vision",IGSF10
+IHH,"olfactory, vision",IHH
+IL17RD,"olfactory, vision, auditory",IL17RD
+IL1RAPL1,"olfactory, vision",IL1RAPL1
+IL20RA,"olfactory, vision",IL20RA
+IL5,olfactory,IL5
+IMPDH1,"olfactory, vision, auditory, touch",IMPDH1
+INF2,"olfactory, auditory, touch",INF2
+ING3,olfactory,ING3
+INPP5F,olfactory,INPP5F
+INS,"olfactory, vision, auditory",INS
+INSL3,"olfactory, vision",INSL3
+IQCB1,"olfactory, vision, auditory, touch",IQCB1
+IRF6,"olfactory, vision, auditory",IRF6
+ISL1,"olfactory, vision",ISL1
+IVD,"olfactory, vision",IVD
+JAG1,"olfactory, vision, auditory, touch",JAG1
+JMJD1C,"olfactory, vision, auditory",JMJD1C
+KANSL1,"olfactory, vision, auditory",KANSL1
+KAT6B,"olfactory, vision, auditory",KAT6B
+KATNB1,"olfactory, vision, auditory",KATNB1
+KCNH2,"olfactory, auditory",KCNH2
+KCNJ13,"olfactory, vision, auditory, touch",KCNJ13
+KCNJ6,"olfactory, vision",KCNJ6
+KCNQ1,"olfactory, vision, auditory",KCNQ1
+KDM6A,"olfactory, vision, auditory",KDM6A
+KIAA0586,"olfactory, vision, auditory",KIAA0586
+KIAA0753,"olfactory, vision, auditory",KIAA0753
+KIF14,"olfactory, vision",KIF14
+KIF1A,"olfactory, vision, auditory, touch",KIF1A
+KIF21A,"olfactory, vision, auditory, touch",KIF21A
+KIF3A,olfactory,KIF3A
+KIF7,"olfactory, vision, auditory",KIF7
+KISS1,"olfactory, vision, auditory",KISS1
+KISS1R,"olfactory, vision, auditory",KISS1R
+KLB,"olfactory, vision",KLB
+KMT2C,"olfactory, vision, auditory",KMT2C
+KMT2D,"olfactory, vision, auditory, touch",KMT2D
+KNG1,"olfactory, vision, auditory",KNG1
+KRAS,"olfactory, vision, auditory, touch",KRAS
+KREMEN1,olfactory,KREMEN1
+L1CAM,"olfactory, vision, auditory",L1CAM
+LCA5,"olfactory, vision, auditory, touch",LCA5
+LCN1,olfactory,LCN1
+LEP,"olfactory, vision, auditory",LEP
+LEPR,"olfactory, vision",LEPR
+LGALS4,olfactory,LGALS4
+LGI1,"olfactory, vision, auditory",LGI1
+LHB,"olfactory, vision",LHB
+LHCGR,"olfactory, vision",LHCGR
+LHX2,olfactory,LHX2
+LHX3,"olfactory, vision, auditory",LHX3
+LHX4,"olfactory, vision, auditory",LHX4
+LHX5,olfactory,LHX5
+LHX6,olfactory,LHX6
+LIAS,"olfactory, vision",LIAS
+LIF,"olfactory, auditory",LIF
+LIMS2,olfactory,LIMS2
+LIPT1,"olfactory, vision",LIPT1
+LMBR1,"olfactory, vision",LMBR1
+LOC102723532,olfactory,
+LOC124905376,olfactory,
+LOX,"olfactory, vision",LOX
+LOXL2,olfactory,LOXL2
+LRAT,"olfactory, vision, auditory, touch",LRAT
+LRP10,olfactory,LRP10
+LRP2,"olfactory, vision, auditory",LRP2
+LRP5,"olfactory, vision, auditory",LRP5
+LRP6,olfactory,LRP6
+LRRC37A,olfactory,LRRC37A
+LRRC37A2,"olfactory, auditory",LRRC37A2
+LRRK1,olfactory,LRRK1
+LRRK2,"olfactory, vision, auditory",LRRK2
+LSM11,"olfactory, vision",LSM11
+LSM12,olfactory,LSM12
+LZTFL1,"olfactory, vision, auditory",LZTFL1
+LZTR1,"olfactory, vision, auditory, touch",LZTR1
+MACROD2,"olfactory, vision, auditory",MACROD2
+MAF,"olfactory, vision, auditory",MAF
+MAOB,olfactory,MAOB
+MAP1A,olfactory,MAP1A
+MAP2K1,"olfactory, vision, auditory",MAP2K1
+MAP2K2,"olfactory, vision, auditory",MAP2K2
+MAPK3,"olfactory, vision",MAPK3
+MAPT,"olfactory, vision, touch",MAPT
+MARCHF5,"olfactory, vision",MARCHF5
+MAT1A,olfactory,MAT1A
+MATN4,"olfactory, vision",MATN4
+MBD6,olfactory,MBD6
+MC4R,olfactory,MC4R
+MCCC1,"olfactory, vision",MCCC1
+MDM2,olfactory,MDM2
+MEF2C,"olfactory, vision, auditory",MEF2C
+MEOX1,"olfactory, auditory",MEOX1
+MEPE,"olfactory, auditory",MEPE
+MERTK,"olfactory, vision, auditory",MERTK
+MFF,"olfactory, vision, auditory",MFF
+MFHAS1,olfactory,MFHAS1
+MFN1,olfactory,MFN1
+MFN2,"olfactory, vision, auditory, touch",MFN2
+MICAL1,"olfactory, auditory",MICAL1
+MIDN,olfactory,MIDN
+MITF,"olfactory, vision, auditory",MITF
+MKKS,"olfactory, vision, auditory",MKKS
+MKRN3,"olfactory, vision, touch",MKRN3
+MKS1,"olfactory, vision, auditory",MKS1
+MLLT6,"olfactory, vision",MLLT6
+MNX1,"olfactory, vision",MNX1
+MON2,olfactory,MON2
+MOSMO,olfactory,MOSMO
+MPV17,"olfactory, vision, auditory, touch",MPV17
+MPZL1,olfactory,MPZL1
+MPZL3,"olfactory, auditory",MPZL3
+MRAS,"olfactory, vision, auditory",MRAS
+MRPS9,olfactory,MRPS9
+MRTFA,"olfactory, auditory",MRTFA
+MSN,olfactory,MSN
+MSX1,"olfactory, auditory",MSX1
+MSX2,"olfactory, vision, auditory",MSX2
+MT-CO1,"olfactory, vision, auditory, touch",MT-CO1
+MT-CO3,"olfactory, vision, auditory, touch",MT-CO3
+MT-ND1,"olfactory, vision, auditory, touch",MT-ND1
+MT1E,olfactory,MT1E
+MTF1,olfactory,MTF1
+MTIF2,olfactory,MTIF2
+MTOR,"olfactory, vision, auditory",MTOR
+MTTP,"olfactory, vision, touch",MTTP
+MUL1,olfactory,MUL1
+MYBPC3,"olfactory, vision, auditory",MYBPC3
+MYCBP2,"olfactory, vision",MYCBP2
+MYH6,"olfactory, auditory",MYH6
+MYH7,"olfactory, vision, auditory",MYH7
+MYL2,"olfactory, vision, auditory",MYL2
+MYO7A,"olfactory, vision, auditory",MYO7A
+MYOC,"olfactory, vision",MYOC
+MYOZ1,olfactory,MYOZ1
+MYOZ3,olfactory,MYOZ3
+NBN,"olfactory, vision, auditory",NBN
+NBR1,olfactory,NBR1
+NCAM1,olfactory,NCAM1
+NCAM2,olfactory,NCAM2
+NCKIPSD,olfactory,NCKIPSD
+NDNF,"olfactory, vision, auditory",NDNF
+NDUFA10,"olfactory, vision, auditory",NDUFA10
+NECTIN2,olfactory,NECTIN2
+NES,olfactory,NES
+NEUROG1,"olfactory, vision, auditory",NEUROG1
+NEUROG2,olfactory,NEUROG2
+NF1,"olfactory, vision, auditory",NF1
+NF2,"olfactory, vision, auditory, touch",NF2
+NFATC4,"olfactory, auditory",NFATC4
+NHLH2,"olfactory, auditory",NHLH2
+NKX2-1,"olfactory, auditory",NKX2-1
+NKX2-2,olfactory,NKX2-2
+NKX6-1,olfactory,NKX6-1
+NKX6-2,"olfactory, vision, auditory, touch",NKX6-2
+NLE1,olfactory,NLE1
+NLGN3,"olfactory, vision",NLGN3
+NLGN4X,"olfactory, vision",NLGN4X
+NODAL,"olfactory, vision, auditory",NODAL
+NOG,"olfactory, vision, auditory",NOG
+NOS2,"olfactory, vision",NOS2
+NOSIP,olfactory,NOSIP
+NOTCH3,"olfactory, vision, auditory, touch",NOTCH3
+NPAS3,olfactory,NPAS3
+NPAS4,olfactory,NPAS4
+NPC1,"olfactory, vision, auditory, touch",NPC1
+NPHP1,"olfactory, vision, auditory",NPHP1
+NPVF,olfactory,NPVF
+NR0B1,"olfactory, vision",NR0B1
+NR2E3,"olfactory, vision, auditory",NR2E3
+NR4A2,"olfactory, vision, auditory, touch",NR4A2
+NR5A1,"olfactory, vision, auditory",NR5A1
+NRAS,"olfactory, vision, auditory",NRAS
+NRCAM,"olfactory, vision, auditory",NRCAM
+NRIP3,olfactory,NRIP3
+NRL,"olfactory, vision, auditory",NRL
+NRTN,olfactory,NRTN
+NSF,olfactory,NSF
+NSMCE4A,olfactory,NSMCE4A
+NSMF,"olfactory, vision, auditory",NSMF
+NT5DC3,olfactory,NT5DC3
+NTN1,"olfactory, vision",NTN1
+NTN4,olfactory,NTN4
+NTRK1,"olfactory, vision, auditory, touch",NTRK1
+NTRK2,"olfactory, vision",NTRK2
+NUTM2A,olfactory,NUTM2A
+NXNL2,"olfactory, vision",NXNL2
+OBP2A,olfactory,OBP2A
+OBP2B,olfactory,OBP2B
+OFD1,"olfactory, vision, auditory",OFD1
+OLFM1,"olfactory, vision",OLFM1
+OLIG2,olfactory,OLIG2
+OMP,olfactory,OMP
+OPCML,olfactory,OPCML
+OPRD1,olfactory,OPRD1
+OPTN,"olfactory, vision",OPTN
+OR10A2,olfactory,OR10A2
+OR10A3,olfactory,OR10A3
+OR10A4,olfactory,OR10A4
+OR10A5,olfactory,OR10A5
+OR10A6,olfactory,OR10A6
+OR10A7,olfactory,OR10A7
+OR10AC1,olfactory,OR10AC1
+OR10AD1,olfactory,OR10AD1
+OR10AG1,olfactory,OR10AG1
+OR10C1,olfactory,OR10C1
+OR10D3,olfactory,OR10D3
+OR10G2,olfactory,OR10G2
+OR10G3,olfactory,OR10G3
+OR10G4,olfactory,OR10G4
+OR10G6,olfactory,OR10G6
+OR10G7,olfactory,OR10G7
+OR10G8,olfactory,OR10G8
+OR10G9,olfactory,OR10G9
+OR10H1,olfactory,OR10H1
+OR10H2,olfactory,OR10H2
+OR10H3,olfactory,OR10H3
+OR10H4,olfactory,OR10H4
+OR10H5,olfactory,OR10H5
+OR10J1,olfactory,OR10J1
+OR10J4,olfactory,OR10J4
+OR10J5,olfactory,OR10J5
+OR10K1,olfactory,OR10K1
+OR10K2,olfactory,OR10K2
+OR10P1,olfactory,OR10P1
+OR10Q1,olfactory,OR10Q1
+OR10R2,olfactory,OR10R2
+OR10S1,olfactory,OR10S1
+OR10T2,olfactory,OR10T2
+OR10V1,olfactory,OR10V1
+OR10W1,olfactory,OR10W1
+OR10X1,olfactory,OR10X1
+OR10Z1,olfactory,OR10Z1
+OR11A1,olfactory,OR11A1
+OR11G2,olfactory,OR11G2
+OR11H1,olfactory,OR11H1
+OR11H12,olfactory,OR11H12
+OR11H2,olfactory,OR11H2
+OR11H4,olfactory,OR11H4
+OR11H6,olfactory,OR11H6
+OR11H7,olfactory,OR11H7
+OR11L1,olfactory,OR11L1
+OR12D1,olfactory,OR12D1
+OR12D2,olfactory,OR12D2
+OR12D3,olfactory,OR12D3
+OR13A1,olfactory,OR13A1
+OR13C2,olfactory,OR13C2
+OR13C3,olfactory,OR13C3
+OR13C4,olfactory,OR13C4
+OR13C5,olfactory,OR13C5
+OR13C8,olfactory,OR13C8
+OR13C9,olfactory,OR13C9
+OR13D1,olfactory,OR13D1
+OR13F1,olfactory,OR13F1
+OR13G1,olfactory,OR13G1
+OR13H1,olfactory,OR13H1
+OR13J1,olfactory,OR13J1
+OR14A16,olfactory,OR14A16
+OR14A2,olfactory,OR14A2
+OR14C36,olfactory,OR14C36
+OR14I1,olfactory,OR14I1
+OR14J1,olfactory,OR14J1
+OR14K1,olfactory,OR14K1
+OR14L1,olfactory,
+OR1A1,olfactory,OR1A1
+OR1A2,olfactory,OR1A2
+OR1B1,olfactory,OR1B1
+OR1C1,olfactory,OR1C1
+OR1D2,olfactory,OR1D2
+OR1D4,olfactory,OR1D4
+OR1D5,olfactory,OR1D5
+OR1E1,olfactory,OR1E1
+OR1E2,"olfactory, vision",OR1E2
+OR1F1,olfactory,OR1F1
+OR1G1,olfactory,OR1G1
+OR1I1,olfactory,OR1I1
+OR1J1,olfactory,OR1J1
+OR1J2,olfactory,OR1J2
+OR1J4,olfactory,OR1J4
+OR1K1,olfactory,OR1K1
+OR1L1,olfactory,OR1L1
+OR1L3,olfactory,OR1L3
+OR1L4,olfactory,OR1L4
+OR1L6,olfactory,OR1L6
+OR1L8,olfactory,OR1L8
+OR1M1,olfactory,OR1M1
+OR1N1,olfactory,OR1N1
+OR1N2,olfactory,OR1N2
+OR1Q1,olfactory,OR1Q1
+OR1R1P,olfactory,OR1R1P
+OR1S1,olfactory,OR1S1
+OR1S2,olfactory,OR1S2
+OR2A1,olfactory,OR2A1
+OR2A12,olfactory,OR2A12
+OR2A14,olfactory,OR2A14
+OR2A2,olfactory,OR2A2
+OR2A25,olfactory,OR2A25
+OR2A4,olfactory,OR2A4
+OR2A42,olfactory,OR2A42
+OR2A5,olfactory,OR2A5
+OR2A7,olfactory,OR2A7
+OR2AE1,olfactory,OR2AE1
+OR2AG1,olfactory,OR2AG1
+OR2AG2,olfactory,OR2AG2
+OR2AJ1,olfactory,OR2AJ1
+OR2AK2,olfactory,OR2AK2
+OR2AP1,olfactory,OR2AP1
+OR2AT4,olfactory,OR2AT4
+OR2B11,olfactory,OR2B11
+OR2B2,olfactory,OR2B2
+OR2B3,olfactory,OR2B3
+OR2B6,olfactory,OR2B6
+OR2B8,olfactory,
+OR2C1,olfactory,OR2C1
+OR2C3,olfactory,OR2C3
+OR2D2,olfactory,OR2D2
+OR2D3,olfactory,OR2D3
+OR2F1,olfactory,OR2F1
+OR2F2,olfactory,OR2F2
+OR2G2,olfactory,OR2G2
+OR2G3,olfactory,OR2G3
+OR2G6,olfactory,OR2G6
+OR2H1,olfactory,OR2H1
+OR2H2,olfactory,OR2H2
+OR2I1,olfactory,
+OR2J1,olfactory,OR2J1
+OR2J2,olfactory,OR2J2
+OR2J3,olfactory,OR2J3
+OR2K2,olfactory,OR2K2
+OR2L13,olfactory,OR2L13
+OR2L2,olfactory,OR2L2
+OR2L3,olfactory,OR2L3
+OR2L5,olfactory,OR2L5
+OR2L8,olfactory,OR2L8
+OR2M2,olfactory,OR2M2
+OR2M3,olfactory,OR2M3
+OR2M4,olfactory,OR2M4
+OR2M5,olfactory,OR2M5
+OR2M7,olfactory,OR2M7
+OR2S2,olfactory,OR2S2
+OR2T1,olfactory,OR2T1
+OR2T10,olfactory,OR2T10
+OR2T11,olfactory,OR2T11
+OR2T12,olfactory,OR2T12
+OR2T2,olfactory,OR2T2
+OR2T27,olfactory,OR2T27
+OR2T29,olfactory,OR2T29
+OR2T3,olfactory,OR2T3
+OR2T33,olfactory,OR2T33
+OR2T34,olfactory,OR2T34
+OR2T35,olfactory,OR2T35
+OR2T4,olfactory,OR2T4
+OR2T5,olfactory,OR2T5
+OR2T6,olfactory,OR2T6
+OR2T7,olfactory,OR2T7
+OR2T8,olfactory,OR2T8
+OR2V1,olfactory,OR2V1
+OR2V2,olfactory,OR2V2
+OR2W1,olfactory,OR2W1
+OR2W3,olfactory,OR2W3
+OR2Y1,olfactory,OR2Y1
+OR2Z1,olfactory,OR2Z1
+OR3A1,olfactory,OR3A1
+OR3A2,olfactory,OR3A2
+OR3A3,olfactory,OR3A3
+OR4A15,olfactory,OR4A15
+OR4A16,olfactory,OR4A16
+OR4A47,olfactory,OR4A47
+OR4A5,"olfactory, auditory",OR4A5
+OR4B1,olfactory,OR4B1
+OR4C11,olfactory,OR4C11
+OR4C12,olfactory,OR4C12
+OR4C13,olfactory,OR4C13
+OR4C15,olfactory,OR4C15
+OR4C16,olfactory,OR4C16
+OR4C3,olfactory,OR4C3
+OR4C45,olfactory,OR4C45
+OR4C46,"olfactory, auditory",OR4C46
+OR4C5,olfactory,OR4C5
+OR4C6,olfactory,OR4C6
+OR4D1,olfactory,OR4D1
+OR4D10,olfactory,OR4D10
+OR4D11,olfactory,OR4D11
+OR4D2,olfactory,OR4D2
+OR4D5,olfactory,OR4D5
+OR4D6,olfactory,OR4D6
+OR4D9,olfactory,OR4D9
+OR4E1,olfactory,OR4E1
+OR4E2,olfactory,OR4E2
+OR4F15,olfactory,OR4F15
+OR4F16,olfactory,OR4F16
+OR4F17,olfactory,OR4F17
+OR4F21,olfactory,OR4F21
+OR4F29,olfactory,OR4F29
+OR4F3,olfactory,OR4F3
+OR4F5,olfactory,OR4F5
+OR4F6,olfactory,OR4F6
+OR4K1,olfactory,OR4K1
+OR4K13,olfactory,OR4K13
+OR4K14,olfactory,OR4K14
+OR4K15,olfactory,OR4K15
+OR4K17,olfactory,OR4K17
+OR4K2,olfactory,OR4K2
+OR4K3,olfactory,OR4K3
+OR4K5,olfactory,OR4K5
+OR4L1,olfactory,OR4L1
+OR4M1,olfactory,OR4M1
+OR4M2,olfactory,OR4M2
+OR4M2B,olfactory,OR4M2B
+OR4N2,olfactory,OR4N2
+OR4N4,olfactory,OR4N4
+OR4N4C,olfactory,OR4N4C
+OR4N5,olfactory,OR4N5
+OR4P4,olfactory,OR4P4
+OR4Q2,olfactory,OR4Q2
+OR4Q3,olfactory,OR4Q3
+OR4S1,olfactory,OR4S1
+OR4S2,olfactory,OR4S2
+OR4X1,olfactory,OR4X1
+OR4X2,olfactory,OR4X2
+OR51A2,olfactory,OR51A2
+OR51A4,olfactory,OR51A4
+OR51A7,olfactory,OR51A7
+OR51B2,olfactory,OR51B2
+OR51B4,olfactory,OR51B4
+OR51B5,"olfactory, vision",OR51B5
+OR51B6,olfactory,OR51B6
+OR51C1,olfactory,
+OR51D1,olfactory,OR51D1
+OR51E1,olfactory,OR51E1
+OR51E2,olfactory,OR51E2
+OR51F1,olfactory,OR51F1
+OR51F2,olfactory,OR51F2
+OR51G1,olfactory,OR51G1
+OR51G2,olfactory,OR51G2
+OR51I1,olfactory,OR51I1
+OR51I2,olfactory,OR51I2
+OR51L1,olfactory,OR51L1
+OR51M1,olfactory,OR51M1
+OR51Q1,olfactory,OR51Q1
+OR51S1,olfactory,OR51S1
+OR51T1,olfactory,OR51T1
+OR51V1,olfactory,OR51V1
+OR52A1,olfactory,OR52A1
+OR52A5,olfactory,OR52A5
+OR52B2,olfactory,OR52B2
+OR52B4,"olfactory, vision",OR52B4
+OR52B6,olfactory,OR52B6
+OR52D1,"olfactory, vision",OR52D1
+OR52E1,olfactory,OR52E1
+OR52E2,olfactory,OR52E2
+OR52E4,olfactory,OR52E4
+OR52E5,olfactory,OR52E5
+OR52E6,olfactory,OR52E6
+OR52E8,olfactory,OR52E8
+OR52H1,olfactory,OR52H1
+OR52I1,olfactory,OR52I1
+OR52I2,olfactory,OR52I2
+OR52J3,olfactory,OR52J3
+OR52K1,olfactory,OR52K1
+OR52K2,olfactory,OR52K2
+OR52L1,olfactory,OR52L1
+OR52M1,olfactory,OR52M1
+OR52N1,olfactory,OR52N1
+OR52N2,olfactory,OR52N2
+OR52N4,olfactory,OR52N4
+OR52N5,olfactory,OR52N5
+OR52P1,olfactory,OR52P1
+OR52R1,olfactory,OR52R1
+OR52W1,olfactory,OR52W1
+OR56A1,olfactory,OR56A1
+OR56A3,olfactory,OR56A3
+OR56A4,olfactory,OR56A4
+OR56A5,olfactory,OR56A5
+OR56B1,olfactory,OR56B1
+OR56B2,olfactory,
+OR56B4,olfactory,OR56B4
+OR5A1,olfactory,OR5A1
+OR5A2,olfactory,OR5A2
+OR5AC2,olfactory,OR5AC2
+OR5AK2,"olfactory, vision",OR5AK2
+OR5AL1,olfactory,OR5AL1
+OR5AN1,olfactory,OR5AN1
+OR5AP2,olfactory,OR5AP2
+OR5AR1,olfactory,OR5AR1
+OR5AS1,olfactory,OR5AS1
+OR5AU1,olfactory,OR5AU1
+OR5B12,olfactory,OR5B12
+OR5B17,olfactory,OR5B17
+OR5B2,olfactory,OR5B2
+OR5B21,olfactory,OR5B21
+OR5B3,olfactory,OR5B3
+OR5BS1,olfactory,
+OR5C1,olfactory,OR5C1
+OR5D13,olfactory,OR5D13
+OR5D14,olfactory,OR5D14
+OR5D16,olfactory,OR5D16
+OR5D18,olfactory,OR5D18
+OR5D3P,olfactory,OR5D3P
+OR5F1,olfactory,OR5F1
+OR5H1,olfactory,OR5H1
+OR5H14,olfactory,OR5H14
+OR5H15,olfactory,OR5H15
+OR5H2,olfactory,OR5H2
+OR5H6,olfactory,OR5H6
+OR5I1,olfactory,OR5I1
+OR5J2,olfactory,OR5J2
+OR5K1,olfactory,OR5K1
+OR5K2,olfactory,OR5K2
+OR5K3,olfactory,OR5K3
+OR5K4,olfactory,OR5K4
+OR5L1,olfactory,OR5L1
+OR5L2,olfactory,OR5L2
+OR5M1,olfactory,OR5M1
+OR5M10,olfactory,OR5M10
+OR5M11,olfactory,OR5M11
+OR5M3,olfactory,OR5M3
+OR5M8,olfactory,OR5M8
+OR5M9,olfactory,OR5M9
+OR5P2,olfactory,OR5P2
+OR5P3,olfactory,OR5P3
+OR5T1,olfactory,OR5T1
+OR5T2,olfactory,OR5T2
+OR5T3,olfactory,OR5T3
+OR5V1,olfactory,OR5V1
+OR5W2,olfactory,OR5W2
+OR6A2,olfactory,OR6A2
+OR6B1,olfactory,OR6B1
+OR6B2,olfactory,OR6B2
+OR6B3,olfactory,OR6B3
+OR6C1,olfactory,OR6C1
+OR6C2,olfactory,OR6C2
+OR6C3,olfactory,OR6C3
+OR6C4,olfactory,OR6C4
+OR6C6,olfactory,OR6C6
+OR6C65,olfactory,OR6C65
+OR6C68,olfactory,OR6C68
+OR6C70,olfactory,OR6C70
+OR6C74,olfactory,OR6C74
+OR6C75,olfactory,OR6C75
+OR6C76,olfactory,OR6C76
+OR6F1,olfactory,OR6F1
+OR6J1,"olfactory, vision",OR6J1
+OR6K2,olfactory,OR6K2
+OR6K3,olfactory,OR6K3
+OR6K6,olfactory,OR6K6
+OR6M1,olfactory,OR6M1
+OR6N1,olfactory,OR6N1
+OR6N2,olfactory,OR6N2
+OR6P1,olfactory,OR6P1
+OR6Q1,olfactory,OR6Q1
+OR6S1,olfactory,OR6S1
+OR6T1,olfactory,OR6T1
+OR6V1,olfactory,OR6V1
+OR6X1,olfactory,OR6X1
+OR6Y1,olfactory,OR6Y1
+OR7A10,olfactory,OR7A10
+OR7A17,olfactory,OR7A17
+OR7A5,olfactory,OR7A5
+OR7C1,olfactory,OR7C1
+OR7C2,olfactory,OR7C2
+OR7D2,olfactory,OR7D2
+OR7D4,olfactory,OR7D4
+OR7E24,olfactory,OR7E24
+OR7G1,olfactory,OR7G1
+OR7G2,olfactory,OR7G2
+OR7G3,olfactory,OR7G3
+OR8A1,olfactory,OR8A1
+OR8B12,olfactory,OR8B12
+OR8B2,olfactory,OR8B2
+OR8B3,olfactory,OR8B3
+OR8B4,olfactory,OR8B4
+OR8B8,olfactory,OR8B8
+OR8D1,olfactory,OR8D1
+OR8D2,olfactory,OR8D2
+OR8D4,olfactory,OR8D4
+OR8G1,olfactory,OR8G1
+OR8G3,olfactory,
+OR8G5,olfactory,OR8G5
+OR8H1,olfactory,OR8H1
+OR8H2,olfactory,OR8H2
+OR8H3,olfactory,OR8H3
+OR8I2,olfactory,OR8I2
+OR8J1,olfactory,OR8J1
+OR8J2,olfactory,OR8J2
+OR8J3,olfactory,OR8J3
+OR8K1,olfactory,OR8K1
+OR8K3,olfactory,OR8K3
+OR8K5,olfactory,OR8K5
+OR8S1,olfactory,OR8S1
+OR8U1,olfactory,OR8U1
+OR8U3,olfactory,OR8U3
+OR8U8,olfactory,OR8U8
+OR8U9,olfactory,OR8U9
+OR9A2,olfactory,OR9A2
+OR9A4,olfactory,OR9A4
+OR9G1,olfactory,OR9G1
+OR9G4,olfactory,OR9G4
+OR9G9,olfactory,OR9G9
+OR9H1,olfactory,
+OR9I1,olfactory,OR9I1
+OR9K2,olfactory,OR9K2
+OR9Q1,"olfactory, vision",OR9Q1
+OR9Q2,olfactory,OR9Q2
+ORC3,olfactory,ORC3
+OSGEP,"olfactory, vision, auditory",OSGEP
+OTC,"olfactory, vision",OTC
+OTUD4,"olfactory, vision",OTUD4
+OTX2,"olfactory, vision, auditory",OTX2
+PABPN1,"olfactory, vision",PABPN1
+PACRG,olfactory,PACRG
+PALB2,"olfactory, vision, auditory",PALB2
+PALM2AKAP2,olfactory,PALM2AKAP2
+PAM,olfactory,PAM
+PANK2,"olfactory, vision, auditory, touch",PANK2
+PARK7,"olfactory, vision, touch",PARK7
+PARL,olfactory,PARL
+PAX2,"olfactory, vision, auditory",PAX2
+PAX3,"olfactory, vision, auditory",PAX3
+PAX5,"olfactory, vision",PAX5
+PAX6,"olfactory, vision, auditory",PAX6
+PAX9,olfactory,PAX9
+PCDH9,olfactory,PCDH9
+PCNT,"olfactory, vision, auditory",PCNT
+PCSK1,"olfactory, vision",PCSK1
+PCSK6,olfactory,PCSK6
+PDE1C,"olfactory, auditory",PDE1C
+PDE6B,"olfactory, vision, auditory",PDE6B
+PDE6D,"olfactory, vision, auditory",PDE6D
+PDGFB,"olfactory, vision, auditory, touch",PDGFB
+PDHA1,"olfactory, vision, auditory",PDHA1
+PDHB,"olfactory, vision",PDHB
+PDYN,"olfactory, vision, touch",PDYN
+PEX1,"olfactory, vision, auditory",PEX1
+PEX7,"olfactory, vision, auditory, touch",PEX7
+PGAM5,olfactory,PGAM5
+PGAP1,"olfactory, vision, auditory",PGAP1
+PGAP3,"olfactory, vision, auditory",PGAP3
+PHETA1,olfactory,PHETA1
+PHEX,"olfactory, auditory",PHEX
+PHOX2A,"olfactory, vision, auditory",PHOX2A
+PHYH,"olfactory, vision, auditory, touch",PHYH
+PIGA,"olfactory, vision, auditory",PIGA
+PIGN,"olfactory, vision, auditory",PIGN
+PIK3CA,"olfactory, vision, auditory, touch",PIK3CA
+PINK1,"olfactory, vision",PINK1
+PITX1,olfactory,PITX1
+PITX2,"olfactory, vision, auditory",PITX2
+PLA2G6,"olfactory, vision, auditory, touch",PLA2G6
+PLCH1,"olfactory, vision, auditory",PLCH1
+PLEKHB2,"olfactory, vision",PLEKHB2
+PLPPR1,olfactory,PLPPR1
+PLXNA1,"olfactory, vision",PLXNA1
+PLXNA3,olfactory,PLXNA3
+PLXNA4,"olfactory, auditory",PLXNA4
+PLXND1,"olfactory, vision, auditory",PLXND1
+PNOC,olfactory,PNOC
+PNPLA3,olfactory,PNPLA3
+PNPLA4,olfactory,PNPLA4
+PNPLA6,"olfactory, vision, auditory",PNPLA6
+PODXL,"olfactory, vision",PODXL
+POLG,"olfactory, vision, auditory, touch",POLG
+POLR1D,"olfactory, vision, auditory",POLR1D
+POLR2F,"olfactory, vision, auditory",POLR2F
+POLR3A,"olfactory, vision, auditory, touch",POLR3A
+POLR3B,"olfactory, vision, touch",POLR3B
+POM121L12,"olfactory, vision",POM121L12
+POMC,"olfactory, vision",POMC
+POU1F1,"olfactory, auditory",POU1F1
+POU3F3,olfactory,POU3F3
+PPARGC1A,olfactory,PPARGC1A
+PPIE,olfactory,PPIE
+PPM1H,olfactory,PPM1H
+PPP1CB,"olfactory, vision, auditory",PPP1CB
+PPP1R12A,"olfactory, vision",PPP1R12A
+PPP1R13L,"olfactory, auditory",PPP1R13L
+PPP2R5D,"olfactory, vision",PPP2R5D
+PRB4,olfactory,PRB4
+PRCP,olfactory,PRCP
+PRDM12,"olfactory, vision, auditory, touch",PRDM12
+PRDM15,olfactory,PRDM15
+PRKACA,"olfactory, vision",PRKACA
+PRKACB,"olfactory, vision",PRKACB
+PRKACG,olfactory,PRKACG
+PRKN,"olfactory, vision, auditory",PRKN
+PRL,olfactory,PRL
+PRNP,"olfactory, vision, touch",PRNP
+PROK1,olfactory,PROK1
+PROK2,"olfactory, vision, auditory",PROK2
+PROKR1,olfactory,PROKR1
+PROKR2,"olfactory, vision, auditory",PROKR2
+PROP1,"olfactory, vision, auditory",PROP1
+PRPF31,"olfactory, vision, auditory",PRPF31
+PRPH2,"olfactory, vision, auditory",PRPH2
+PSAP,"olfactory, vision, auditory, touch",PSAP
+PSEN1,"olfactory, vision, auditory, touch",PSEN1
+PSMF1,"olfactory, auditory",PSMF1
+PTCH1,"olfactory, vision, auditory",PTCH1
+PTCH2,"olfactory, vision",PTCH2
+PTCHD4,olfactory,PTCHD4
+PTEN,"olfactory, vision, auditory, touch",PTEN
+PTH,olfactory,PTH
+PTH1R,"olfactory, vision, auditory",PTH1R
+PTK6,olfactory,PTK6
+PTPN1,olfactory,PTPN1
+PTPN11,"olfactory, vision, auditory",PTPN11
+PTPRC,"olfactory, vision, auditory",PTPRC
+PTPRS,olfactory,PTPRS
+PTPRZ1,olfactory,PTPRZ1
+PTRHD1,"olfactory, vision",PTRHD1
+PTS,"olfactory, vision",PTS
+PUDP,olfactory,PUDP
+PUF60,"olfactory, vision, auditory",PUF60
+PVALB,olfactory,PVALB
+QPCTL,olfactory,QPCTL
+RAB10,olfactory,RAB10
+RAB11A,olfactory,RAB11A
+RAB23,"olfactory, vision, auditory",RAB23
+RAB29,"olfactory, auditory",RAB29
+RAB39B,"olfactory, vision",RAB39B
+RAB3A,olfactory,RAB3A
+RAB5A,olfactory,RAB5A
+RAB8A,olfactory,RAB8A
+RABGAP1,olfactory,RABGAP1
+RAD21,"olfactory, vision, auditory",RAD21
+RAF1,"olfactory, vision, auditory",RAF1
+RANBP3,olfactory,RANBP3
+RASA1,"olfactory, auditory, touch",RASA1
+RASA2,"olfactory, vision, auditory",RASA2
+RASL10A,olfactory,RASL10A
+RB1CC1,olfactory,RB1CC1
+RD3,"olfactory, vision, auditory, touch",RD3
+RDH12,"olfactory, vision, auditory, touch",RDH12
+REEP1,"olfactory, vision, auditory, touch",REEP1
+REEP2,"olfactory, auditory, touch",REEP2
+RELB,olfactory,RELB
+RELN,"olfactory, vision, auditory",RELN
+REP15,olfactory,REP15
+RERE,"olfactory, vision, auditory",RERE
+RETREG1,"olfactory, vision, auditory, touch",RETREG1
+REV3L,"olfactory, vision, auditory",REV3L
+RFC1,"olfactory, vision, auditory, touch",RFC1
+RHO,"olfactory, vision, auditory",RHO
+RHOBTB2,olfactory,RHOBTB2
+RHOT1,olfactory,RHOT1
+RHOT2,olfactory,RHOT2
+RHPN1,olfactory,RHPN1
+RHPN2,olfactory,RHPN2
+RIC3,"olfactory, vision, auditory",RIC3
+RIC8B,olfactory,RIC8B
+RILPL2,olfactory,RILPL2
+RING1,olfactory,RING1
+RLIG1,"olfactory, vision",
+RNASEH2A,"olfactory, vision, auditory",RNASEH2A
+RNASEH2B,"olfactory, vision, auditory, touch",RNASEH2B
+RNASEH2C,"olfactory, vision, auditory, touch",RNASEH2C
+RNF216,"olfactory, vision",RNF216
+RNF25,olfactory,RNF25
+RNF32,olfactory,RNF32
+ROBO2,"olfactory, vision",ROBO2
+ROBO3,"olfactory, vision, auditory",ROBO3
+RPE65,"olfactory, vision, auditory, touch",RPE65
+RPGR,"olfactory, vision, auditory",RPGR
+RPGRIP1,"olfactory, vision, auditory, touch",RPGRIP1
+RPGRIP1L,"olfactory, vision, auditory",RPGRIP1L
+RRAS,"olfactory, vision, auditory",RRAS
+RRAS2,"olfactory, vision, auditory",RRAS2
+RREB1,"olfactory, vision, auditory",RREB1
+RSPH9,"olfactory, vision, auditory",RSPH9
+RTP1,olfactory,RTP1
+RTP2,olfactory,RTP2
+RTP3,olfactory,RTP3
+RTP4,olfactory,RTP4
+RTP5,olfactory,RTP5
+RTTN,"olfactory, vision, auditory",RTTN
+RUNDC3B,"olfactory, vision",RUNDC3B
+RUNX2,"olfactory, vision, auditory",RUNX2
+RXFP2,olfactory,RXFP2
+RYR2,"olfactory, vision, auditory",RYR2
+RYR3,"olfactory, vision",RYR3
+S100B,olfactory,S100B
+SACS,"olfactory, vision, auditory, touch",SACS
+SAMHD1,"olfactory, vision, auditory",SAMHD1
+SAR1B,"olfactory, vision, touch",SAR1B
+SATB2,"olfactory, vision",SATB2
+SCAPER,"olfactory, vision, auditory",SCAPER
+SCLT1,"olfactory, vision, auditory",SCLT1
+SCN10A,"olfactory, auditory, touch",SCN10A
+SCN11A,"olfactory, auditory, touch",SCN11A
+SCN5A,"olfactory, auditory",SCN5A
+SCN9A,"olfactory, vision, auditory, touch",SCN9A
+SCO1,"olfactory, vision, auditory",SCO1
+SCO2,"olfactory, vision, auditory, touch",SCO2
+SCP2,"olfactory, vision, auditory, touch",SCP2
+SCUBE2,olfactory,SCUBE2
+SDCCAG8,"olfactory, vision, auditory",SDCCAG8
+SEC24C,"olfactory, vision, auditory",SEC24C
+SEMA3A,"olfactory, vision, auditory",SEMA3A
+SEMA3B,olfactory,SEMA3B
+SEMA3D,"olfactory, vision",SEMA3D
+SEMA3E,"olfactory, vision, auditory",SEMA3E
+SEMA3F,olfactory,SEMA3F
+SEMA6A,olfactory,SEMA6A
+SEMA7A,"olfactory, vision",SEMA7A
+SEPSECS,"olfactory, vision",SEPSECS
+SEPTIN11,olfactory,SEPTIN11
+SERPINA1,"olfactory, auditory",SERPINA1
+SF3B4,"olfactory, vision, auditory",SF3B4
+SFRP4,"olfactory, vision",SFRP4
+SFXN5,olfactory,SFXN5
+SH2D3C,olfactory,SH2D3C
+SH3GL2,olfactory,SH3GL2
+SHBG,"olfactory, vision",SHBG
+SHH,"olfactory, vision, auditory",SHH
+SHOC2,"olfactory, vision, auditory",SHOC2
+SHOX,olfactory,SHOX
+SIX1,"olfactory, vision, auditory",SIX1
+SIX2,"olfactory, vision",SIX2
+SIX3,"olfactory, vision, auditory",SIX3
+SIX4,"olfactory, vision",SIX4
+SIX6,"olfactory, vision, auditory",SIX6
+SKP1,olfactory,SKP1
+SLC11A2,olfactory,SLC11A2
+SLC18A2,"olfactory, vision",SLC18A2
+SLC24A4,olfactory,SLC24A4
+SLC26A2,"olfactory, vision, auditory, touch",SLC26A2
+SLC26A4,"olfactory, vision, auditory",SLC26A4
+SLC29A3,"olfactory, vision, auditory",SLC29A3
+SLC2A3,"olfactory, vision",SLC2A3
+SLC31A1,"olfactory, vision",SLC31A1
+SLC31A2,"olfactory, auditory",SLC31A2
+SLC39A14,"olfactory, vision, auditory",SLC39A14
+SLC41A1,olfactory,SLC41A1
+SLC4A1,"olfactory, vision, auditory",SLC4A1
+SLC6A20,olfactory,SLC6A20
+SLC6A3,"olfactory, vision",SLC6A3
+SLC6A6,"olfactory, vision",SLC6A6
+SLIT1,olfactory,SLIT1
+SLIT2,olfactory,SLIT2
+SLIT3,"olfactory, vision",SLIT3
+SMAD2,olfactory,SMAD2
+SMAD9,olfactory,SMAD9
+SMARCA1,olfactory,SMARCA1
+SMARCA2,"olfactory, vision",SMARCA2
+SMARCA4,"olfactory, vision, auditory",SMARCA4
+SMARCA5,olfactory,SMARCA5
+SMARCB1,"olfactory, vision, auditory, touch",SMARCB1
+SMARCE1,"olfactory, vision, auditory",SMARCE1
+SMC1A,"olfactory, vision, auditory, touch",SMC1A
+SMC3,"olfactory, vision, auditory",SMC3
+SMCHD1,"olfactory, vision, auditory",SMCHD1
+SMIM23,"olfactory, vision",SMIM23
+SMO,"olfactory, vision, auditory",SMO
+SMOC1,"olfactory, vision",SMOC1
+SNCA,"olfactory, vision, auditory",SNCA
+SNCAIP,olfactory,SNCAIP
+SNCB,olfactory,SNCB
+SNTG1,"olfactory, vision",SNTG1
+SNX1,olfactory,SNX1
+SNX2,olfactory,SNX2
+SNX27,olfactory,SNX27
+SNX3,olfactory,SNX3
+SNX32,olfactory,SNX32
+SNX5,olfactory,SNX5
+SNX6,olfactory,SNX6
+SOD1,"olfactory, auditory",SOD1
+SORCS1,olfactory,SORCS1
+SORL1,"olfactory, vision",SORL1
+SOS1,"olfactory, vision, auditory",SOS1
+SOS2,"olfactory, vision, auditory",SOS2
+SOST,"olfactory, vision, auditory",SOST
+SOX10,"olfactory, vision, auditory, touch",SOX10
+SOX11,"olfactory, vision, auditory",SOX11
+SOX2,"olfactory, vision, auditory",SOX2
+SOX3,"olfactory, vision, auditory",SOX3
+SOX9,"olfactory, vision, auditory",SOX9
+SP1,"olfactory, vision",SP1
+SP7,"olfactory, auditory",SP7
+SPATA7,"olfactory, vision, auditory, touch",SPATA7
+SPG11,"olfactory, vision, auditory, touch",SPG11
+SPIN2A,olfactory,SPIN2A
+SPINK1,olfactory,SPINK1
+SPON1,olfactory,SPON1
+SPRED1,"olfactory, vision, auditory",SPRED1
+SPRED2,"olfactory, vision, auditory",SPRED2
+SPRY2,"olfactory, vision",SPRY2
+SPRY4,"olfactory, vision, auditory",SPRY4
+SPTLC1,"olfactory, vision, auditory, touch",SPTLC1
+SPTLC2,"olfactory, auditory, touch",SPTLC2
+SQSTM1,"olfactory, vision, auditory, touch",SQSTM1
+SRA1,"olfactory, vision",SRA1
+SRC,olfactory,SRC
+SRCAP,"olfactory, vision, auditory, touch",SRCAP
+SRD5A2,"olfactory, vision",SRD5A2
+SRY,"olfactory, vision, auditory",SRY
+SSTR2,olfactory,SSTR2
+STAB2,olfactory,STAB2
+STAG2,"olfactory, vision, auditory",STAG2
+STIL,"olfactory, vision, auditory",STIL
+STON2,olfactory,STON2
+STRN,olfactory,STRN
+STS,olfactory,STS
+SUFU,"olfactory, vision, auditory",SUFU
+SYCE1,"olfactory, vision",SYCE1
+SYMPK,olfactory,SYMPK
+SYNGAP1,"olfactory, vision, touch",SYNGAP1
+SYNJ1,"olfactory, vision",SYNJ1
+SYP,"olfactory, vision, auditory",SYP
+SYT10,olfactory,SYT10
+SYT11,olfactory,SYT11
+SYT12,olfactory,SYT12
+TAAR2,olfactory,TAAR2
+TAAR5,olfactory,TAAR5
+TAAR6,olfactory,TAAR6
+TAAR8,olfactory,TAAR8
+TAAR9,olfactory,TAAR9
+TAC1,olfactory,TAC1
+TAC3,"olfactory, vision, auditory",TAC3
+TACR3,"olfactory, vision, auditory",TACR3
+TAF6,"olfactory, vision, auditory",TAF6
+TARDBP,"olfactory, vision, auditory",TARDBP
+TAX1BP1,olfactory,TAX1BP1
+TBC1D15,olfactory,TBC1D15
+TBC1D17,"olfactory, auditory",TBC1D17
+TBC1D24,"olfactory, vision, auditory, touch",TBC1D24
+TBC1D5,olfactory,TBC1D5
+TBK1,"olfactory, vision, auditory",TBK1
+TBP,"olfactory, vision, touch",TBP
+TBR1,olfactory,TBR1
+TBX1,"olfactory, vision, auditory",TBX1
+TBX19,olfactory,TBX19
+TBX22,"olfactory, vision, auditory",TBX22
+TBX5,"olfactory, auditory",TBX5
+TCF12,"olfactory, vision, auditory",TCF12
+TCOF1,"olfactory, vision, auditory",TCOF1
+TCTN1,"olfactory, vision",TCTN1
+TCTN2,"olfactory, vision",TCTN2
+TCTN3,"olfactory, vision, auditory",TCTN3
+TERT,"olfactory, vision, auditory",TERT
+TEX11,olfactory,TEX11
+TFAM,olfactory,TFAM
+TFAP2A,"olfactory, vision, auditory",TFAP2A
+TFEB,olfactory,TFEB
+TFF3,"olfactory, vision, auditory",TFF3
+TGDS,"olfactory, vision",TGDS
+TGFB1,"olfactory, vision, auditory",TGFB1
+TGIF1,"olfactory, vision, auditory",TGIF1
+TGIF2,olfactory,TGIF2
+TH,"olfactory, vision",TH
+THAP1,"olfactory, vision",THAP1
+THEMIS,olfactory,THEMIS
+THRB,"olfactory, auditory",THRB
+TM6SF2,olfactory,TM6SF2
+TM7SF3,olfactory,TM7SF3
+TMEM11,olfactory,TMEM11
+TMEM138,"olfactory, vision, auditory",TMEM138
+TMEM161B,"olfactory, auditory",TMEM161B
+TMEM175,olfactory,TMEM175
+TMEM187,olfactory,TMEM187
+TMEM216,"olfactory, vision, auditory, touch",TMEM216
+TMEM230,olfactory,TMEM230
+TMEM231,"olfactory, vision, auditory",TMEM231
+TMEM67,"olfactory, vision, auditory, touch",TMEM67
+TMPRSS2,olfactory,TMPRSS2
+TNFAIP8L2,olfactory,TNFAIP8L2
+TNFRSF11B,"olfactory, vision, auditory",TNFRSF11B
+TNFRSF1A,"olfactory, vision, auditory, touch",TNFRSF1A
+TNFSF11,"olfactory, vision, auditory",TNFSF11
+TNNT2,"olfactory, auditory",TNNT2
+TNRC18,olfactory,TNRC18
+TOMM20,olfactory,TOMM20
+TOMM40,"olfactory, vision",TOMM40
+TOMM7,"olfactory, vision",TOMM7
+TOMM70,olfactory,TOMM70
+TOPORS,"olfactory, vision, auditory",TOPORS
+TOR1A,"olfactory, vision",TOR1A
+TP53,"olfactory, vision, auditory, touch",TP53
+TP63,"olfactory, vision, auditory",TP63
+TPCN2,olfactory,TPCN2
+TRAF7,"olfactory, vision, auditory",TRAF7
+TRANK1,"olfactory, vision",TRANK1
+TRAP1,olfactory,TRAP1
+TRAPPC10,"olfactory, auditory",TRAPPC10
+TRAPPC2L,"olfactory, vision",TRAPPC2L
+TRAPPC6B,"olfactory, vision",TRAPPC6B
+TREX1,"olfactory, vision, auditory, touch",TREX1
+TRIM32,"olfactory, vision, auditory",TRIM32
+TRIM8,"olfactory, vision",TRIM8
+TRPA1,olfactory,TRPA1
+TSBP1,"olfactory, auditory",TSBP1
+TSC1,"olfactory, vision, auditory",TSC1
+TSC2,"olfactory, vision, auditory, touch",TSC2
+TSHZ1,"olfactory, vision, auditory",TSHZ1
+TSPAN11,olfactory,TSPAN11
+TSPAN12,"olfactory, vision, auditory",TSPAN12
+TTC21B,"olfactory, vision",TTC21B
+TTC8,"olfactory, vision, auditory",TTC8
+TUBA1A,"olfactory, vision, auditory, touch",TUBA1A
+TUBB,"olfactory, vision",TUBB
+TUBB2B,"olfactory, vision, auditory",TUBB2B
+TUBB3,"olfactory, vision, auditory, touch",TUBB3
+TULP1,"olfactory, vision, auditory, touch",TULP1
+TULP3,"olfactory, vision",TULP3
+TVP23A,olfactory,TVP23A
+TWSG1,olfactory,TWSG1
+UBE2L3,"olfactory, vision",UBE2L3
+UBE2S,olfactory,UBE2S
+UBQLNL,"olfactory, vision",UBQLNL
+UBR3,olfactory,UBR3
+UCHL1,"olfactory, vision, auditory, touch",UCHL1
+UFD1,"olfactory, vision, auditory",UFD1
+UGT2A1,olfactory,UGT2A1
+UGT2A2,olfactory,UGT2A2
+ULK1,olfactory,ULK1
+USH2A,"olfactory, vision, auditory",USH2A
+USO1,"olfactory, vision",USO1
+USP12,"olfactory, vision",USP12
+USP24,olfactory,USP24
+USP30,olfactory,USP30
+USP40,olfactory,USP40
+USP9Y,olfactory,USP9Y
+VAC14,"olfactory, auditory",VAC14
+VANGL1,olfactory,VANGL1
+VANGL2,olfactory,VANGL2
+VAX1,"olfactory, vision",VAX1
+VAX2,"olfactory, vision, auditory",VAX2
+VCP,"olfactory, vision, auditory, touch",VCP
+VCX,olfactory,VCX
+VCX2,olfactory,VCX2
+VCX3A,olfactory,VCX3A
+VCX3B,olfactory,VCX3B
+VDAC1,olfactory,VDAC1
+VDR,"olfactory, auditory",VDR
+VIM,"olfactory, vision",VIM
+VMA22,"olfactory, vision, auditory",
+VN1R1,olfactory,VN1R1
+VPS13A,"olfactory, vision, touch",VPS13A
+VPS13B,"olfactory, vision, auditory, touch",VPS13B
+VPS13C,"olfactory, vision",VPS13C
+VPS13D,"olfactory, vision, auditory, touch",VPS13D
+VPS26A,"olfactory, vision",VPS26A
+VPS26B,olfactory,VPS26B
+VPS29,olfactory,VPS29
+VPS35,"olfactory, vision, auditory",VPS35
+VPS35L,"olfactory, vision",VPS35L
+VSX2,"olfactory, vision",VSX2
+WASHC1,olfactory,WASHC1
+WASHC3,olfactory,WASHC3
+WASHC4,"olfactory, vision",WASHC4
+WASHC5,"olfactory, vision, auditory, touch",WASHC5
+WDPCP,"olfactory, vision, auditory",WDPCP
+WDR11,"olfactory, vision, auditory",WDR11
+WDR45,"olfactory, vision, auditory",WDR45
+WDR62,"olfactory, vision, auditory, touch",WDR62
+WFDC8,olfactory,WFDC8
+WIPI1,olfactory,WIPI1
+WNK1,"olfactory, vision, auditory, touch",WNK1
+WNT1,"olfactory, vision, auditory",WNT1
+WNT10B,"olfactory, auditory",WNT10B
+WNT16,olfactory,WNT16
+WNT3,olfactory,WNT3
+WNT3A,"olfactory, vision",WNT3A
+WNT4,"olfactory, vision, auditory",WNT4
+WNT5A,"olfactory, vision, auditory",WNT5A
+WNT8B,olfactory,WNT8B
+WNT9B,"olfactory, vision",WNT9B
+WT1,"olfactory, vision, auditory",WT1
+XCL2,olfactory,XCL2
+XIAP,"olfactory, vision",XIAP
+XYLT2,"olfactory, vision, auditory",XYLT2
+ZBTB14,olfactory,ZBTB14
+ZEB2,"olfactory, vision, auditory, touch",ZEB2
+ZIC1,"olfactory, vision, auditory",ZIC1
+ZIC2,"olfactory, vision, auditory, touch",ZIC2
+ZIC3,"olfactory, vision",ZIC3
+ZIC4,olfactory,ZIC4
+ZIC5,"olfactory, vision",ZIC5
+ZNF155,olfactory,ZNF155
+ZNF180,olfactory,ZNF180
+ZNF224,olfactory,ZNF224
+ZNF225,olfactory,ZNF225
+ZNF227,olfactory,ZNF227
+ZNF230,olfactory,ZNF230
+ZNF234,olfactory,ZNF234
+ZNF284,olfactory,ZNF284
+ZNF285,olfactory,ZNF285
+ZNF423,"olfactory, vision",ZNF423
+ZNF45,olfactory,ZNF45
+ZNF488,olfactory,ZNF488
+ZNF57,olfactory,ZNF57
+ZNF664,"olfactory, vision",ZNF664
+ZNF746,"olfactory, vision",ZNF746
+ZNF8,olfactory,ZNF8
+ZP2,olfactory,ZP2
+ZRSR2,"olfactory, vision",ZRSR2
+ZSWIM6,"olfactory, vision, auditory",ZSWIM6
+A3GALT2,vision,A3GALT2
+AAAS,"vision, auditory, touch",AAAS
+AARS1,"vision, auditory, touch",AARS1
+AARS2,"vision, touch",AARS2
+AASS,"vision, touch",AASS
+ABCA1,"vision, touch",ABCA1
+ABCA12,"vision, auditory",ABCA12
+ABCA3,vision,ABCA3
+ABCA7,vision,ABCA7
+ABCB11,"vision, auditory",ABCB11
+ABCB5,vision,ABCB5
+ABCB6,"vision, auditory",ABCB6
+ABCB7,"vision, auditory, touch",ABCB7
+ABCC10,"vision, auditory",ABCC10
+ABCC6,"vision, auditory",ABCC6
+ABCC8,"vision, auditory",ABCC8
+ABCC9,"vision, auditory",ABCC9
+ABCD1,"vision, auditory, touch",ABCD1
+ABCD2,vision,ABCD2
+ABCD3,"vision, auditory",ABCD3
+ABCD4,vision,ABCD4
+ABCG1,vision,ABCG1
+ABCG2,vision,ABCG2
+ABCG5,"vision, auditory",ABCG5
+ABCG8,"vision, auditory",ABCG8
+ABHD12,"vision, auditory, touch",ABHD12
+ABHD2,vision,ABHD2
+ABHD5,"vision, auditory",ABHD5
+ABLIM1,vision,ABLIM1
+ABRAXAS2,vision,ABRAXAS2
+ABTB1,vision,ABTB1
+ABTB2,vision,ABTB2
+ACACB,vision,ACACB
+ACAD9,"vision, auditory",ACAD9
+ACADM,vision,ACADM
+ACADS,"vision, touch",ACADS
+ACADSB,vision,ACADSB
+ACADVL,"vision, auditory",ACADVL
+ACAN,"vision, auditory",ACAN
+ACAT1,vision,ACAT1
+ACBD5,vision,ACBD5
+ACBD6,vision,ACBD6
+ACD,vision,ACD
+ACE,vision,ACE
+ACER3,vision,ACER3
+ACKR3,vision,ACKR3
+ACO2,"vision, auditory",ACO2
+ACOT1,vision,ACOT1
+ACOT7,vision,ACOT7
+ACOX1,"vision, auditory",ACOX1
+ACOX2,vision,ACOX2
+ACOX3,vision,ACOX3
+ACOXL,vision,ACOXL
+ACP5,vision,ACP5
+ACSF3,vision,ACSF3
+ACSL4,"vision, auditory",ACSL4
+ACSS1,vision,ACSS1
+ACSS3,vision,ACSS3
+ACTA1,vision,ACTA1
+ACTA2,vision,ACTA2
+ACTB,"vision, auditory",ACTB
+ACTG1,"vision, auditory",ACTG1
+ACTL6B,vision,ACTL6B
+ACTN1,vision,ACTN1
+ACTN2,"vision, auditory",ACTN2
+ACTN4,vision,ACTN4
+ACTR3C,vision,ACTR3C
+ACVR1,"vision, auditory",ACVR1
+ACVR2B,vision,ACVR2B
+ACVRL1,vision,ACVRL1
+ACY1,"vision, auditory",ACY1
+ADA2,"vision, auditory, touch",ADA2
+ADAM12,"vision, auditory",ADAM12
+ADAM17,"vision, auditory",ADAM17
+ADAM22,vision,ADAM22
+ADAM9,vision,ADAM9
+ADAMTS10,vision,ADAMTS10
+ADAMTS15,"vision, touch",ADAMTS15
+ADAMTS17,vision,ADAMTS17
+ADAMTS18,vision,ADAMTS18
+ADAMTS2,vision,ADAMTS2
+ADAMTS20,vision,ADAMTS20
+ADAMTS3,"vision, auditory",ADAMTS3
+ADAMTS6,vision,ADAMTS6
+ADAMTS9,vision,ADAMTS9
+ADAMTSL1,"vision, auditory",ADAMTSL1
+ADAMTSL4,vision,ADAMTSL4
+ADARB1,vision,ADARB1
+ADAT3,"vision, auditory",ADAT3
+ADCK5,vision,ADCK5
+ADCY1,"vision, auditory",ADCY1
+ADCY5,vision,ADCY5
+ADD3,vision,ADD3
+ADGRA3,"vision, auditory",ADGRA3
+ADGRB2,"vision, auditory",ADGRB2
+ADGRF4,vision,ADGRF4
+ADGRG1,"vision, auditory, touch",ADGRG1
+ADGRL1,vision,ADGRL1
+ADGRL2,vision,ADGRL2
+ADGRL4,vision,ADGRL4
+ADGRV1,"vision, auditory",ADGRV1
+ADH7,vision,ADH7
+ADHFE1,vision,ADHFE1
+ADIPOR1,vision,ADIPOR1
+ADNP,vision,ADNP
+ADPRS,"vision, auditory",ADPRS
+ADRA2A,vision,ADRA2A
+ADRA2B,vision,ADRA2B
+ADRB1,vision,ADRB1
+ADRB2,vision,ADRB2
+ADSL,vision,ADSL
+ADSS1,"vision, touch",ADSS1
+AEBP1,"vision, touch",AEBP1
+AFF3,vision,AFF3
+AFF4,"vision, auditory",AFF4
+AFG2A,"vision, auditory",
+AFG2B,"vision, auditory",
+AFG3L2,"vision, auditory, touch",AFG3L2
+AGA,vision,AGA
+AGBL1,vision,AGBL1
+AGBL5,"vision, auditory",AGBL5
+AGK,vision,AGK
+AGL,"vision, auditory",AGL
+AGMO,vision,AGMO
+AGO1,vision,AGO1
+AGO2,"vision, auditory",AGO2
+AGO3,vision,AGO3
+AGPAT2,"vision, auditory",AGPAT2
+AGPAT4,vision,AGPAT4
+AGPS,"vision, auditory",AGPS
+AGRN,"vision, auditory, touch",AGRN
+AGTPBP1,vision,AGTPBP1
+AGTR2,vision,AGTR2
+AGXT,"vision, auditory",AGXT
+AHCTF1,vision,AHCTF1
+AHCY,vision,AHCY
+AHR,"vision, auditory",AHR
+AHSG,"vision, auditory",AHSG
+AICDA,vision,AICDA
+AIFM1,"vision, auditory, touch",AIFM1
+AIMP1,"vision, auditory",AIMP1
+AIP,"vision, touch",AIP
+AIRE,"vision, auditory",AIRE
+AK2,"vision, auditory",AK2
+AK8,vision,AK8
+AK9,vision,AK9
+AKAP1,vision,AKAP1
+AKAP13,vision,AKAP13
+AKAP3,vision,AKAP3
+AKAP7,vision,AKAP7
+AKR1B10,vision,AKR1B10
+AKR1C2,vision,AKR1C2
+AKR1C4,vision,AKR1C4
+AKR1C8,vision,AKR1C8
+AKR1E2,vision,AKR1E2
+AKT2,vision,AKT2
+AKT3,"vision, auditory",AKT3
+AKTIP,vision,AKTIP
+ALDH18A1,"vision, auditory, touch",ALDH18A1
+ALDH1A3,vision,ALDH1A3
+ALDH1B1,vision,ALDH1B1
+ALDH3A2,vision,ALDH3A2
+ALDH4A1,"vision, touch",ALDH4A1
+ALDH5A1,"vision, touch",ALDH5A1
+ALDH6A1,vision,ALDH6A1
+ALDH7A1,"vision, touch",ALDH7A1
+ALDOA,"vision, auditory",ALDOA
+ALDOB,"vision, auditory",ALDOB
+ALG1,"vision, auditory",ALG1
+ALG12,"vision, auditory",ALG12
+ALG13,"vision, auditory",ALG13
+ALG14,"vision, auditory, touch",ALG14
+ALG2,"vision, auditory, touch",ALG2
+ALG3,"vision, auditory",ALG3
+ALG6,"vision, auditory",ALG6
+ALG8,"vision, auditory",ALG8
+ALG9,"vision, auditory",ALG9
+ALK,vision,ALK
+ALKBH1,vision,ALKBH1
+ALKBH2,vision,ALKBH2
+ALMS1,"vision, auditory, touch",ALMS1
+ALOX12,vision,ALOX12
+ALOX12B,"vision, auditory",ALOX12B
+ALOXE3,"vision, auditory",ALOXE3
+ALPK1,vision,ALPK1
+ALPL,"vision, auditory",ALPL
+ALS2,"vision, auditory, touch",ALS2
+ALX1,"vision, auditory",ALX1
+AMACR,"vision, auditory",AMACR
+AMBP,vision,AMBP
+AMD1,vision,AMD1
+AMMECR1,"vision, auditory",AMMECR1
+AMN,"vision, auditory",AMN
+AMPD1,vision,AMPD1
+AMPD2,"vision, auditory, touch",AMPD2
+AMPD3,vision,AMPD3
+AMT,vision,AMT
+AMZ1,vision,AMZ1
+ANAPC4,vision,ANAPC4
+ANAPC7,"vision, auditory",ANAPC7
+ANGPT1,vision,ANGPT1
+ANGPTL3,vision,ANGPTL3
+ANGPTL6,vision,ANGPTL6
+ANK2,"vision, auditory",ANK2
+ANKLE2,vision,ANKLE2
+ANKRD11,"vision, auditory, touch",ANKRD11
+ANKRD17,vision,ANKRD17
+ANKRD33,vision,ANKRD33
+ANKRD37,vision,ANKRD37
+ANKRD44,vision,ANKRD44
+ANKRD55,vision,ANKRD55
+ANKS1B,vision,ANKS1B
+ANKS6,vision,ANKS6
+ANO10,vision,ANO10
+ANO3,vision,ANO3
+ANO5,"vision, auditory",ANO5
+ANO6,vision,ANO6
+ANTXR1,"vision, auditory",ANTXR1
+ANTXR2,vision,ANTXR2
+ANXA10,vision,ANXA10
+ANXA11,vision,ANXA11
+AOC2,vision,AOC2
+AP1B1,"vision, auditory",AP1B1
+AP1G1,vision,AP1G1
+AP1S2,"vision, auditory",AP1S2
+AP1S3,vision,AP1S3
+AP3B1,"vision, auditory",AP3B1
+AP3B2,vision,AP3B2
+AP3D1,"vision, auditory",AP3D1
+AP4B1,"vision, auditory, touch",AP4B1
+AP4E1,"vision, auditory, touch",AP4E1
+AP4M1,"vision, auditory, touch",AP4M1
+AP4S1,"vision, auditory",AP4S1
+AP5Z1,"vision, auditory",AP5Z1
+APAF1,vision,APAF1
+APC,"vision, auditory",APC
+APC2,"vision, auditory",APC2
+API5,vision,API5
+APLNR,vision,APLNR
+APOA1,"vision, auditory",APOA1
+APOBEC3A,vision,APOBEC3A
+APOBEC3C,vision,APOBEC3C
+APOBEC3D,vision,APOBEC3D
+APOBEC3F,vision,APOBEC3F
+APOBEC3H,vision,APOBEC3H
+APOC2,vision,APOC2
+APPL1,vision,APPL1
+APRT,vision,APRT
+APTX,"vision, auditory, touch",APTX
+AQP2,vision,AQP2
+AQP7,vision,AQP7
+AQP8,vision,AQP8
+ARAP3,vision,ARAP3
+ARCN1,"vision, auditory",ARCN1
+ARF6,vision,ARF6
+ARFGAP2,vision,ARFGAP2
+ARFGEF2,"vision, auditory",ARFGEF2
+ARG1,"vision, auditory",ARG1
+ARHGAP1,vision,ARHGAP1
+ARHGAP23,vision,ARHGAP23
+ARHGAP24,vision,ARHGAP24
+ARHGAP28,vision,ARHGAP28
+ARHGAP30,vision,ARHGAP30
+ARHGAP31,vision,ARHGAP31
+ARHGAP35,vision,ARHGAP35
+ARHGAP44,vision,ARHGAP44
+ARHGAP8,vision,ARHGAP8
+ARHGDIA,"vision, auditory",ARHGDIA
+ARHGEF16,vision,ARHGEF16
+ARHGEF18,"vision, auditory",ARHGEF18
+ARHGEF2,"vision, auditory",ARHGEF2
+ARHGEF6,vision,ARHGEF6
+ARHGEF9,"vision, auditory",ARHGEF9
+ARID1A,"vision, auditory",ARID1A
+ARID2,"vision, auditory",ARID2
+ARID3B,vision,ARID3B
+ARL2,vision,ARL2
+ARL2BP,"vision, auditory",ARL2BP
+ARL4A,vision,ARL4A
+ARL6IP6,vision,ARL6IP6
+ARMC9,vision,ARMC9
+ARMS2,vision,ARMS2
+ARNT,vision,ARNT
+ARPC1B,vision,ARPC1B
+ARPC4,vision,ARPC4
+ARR3,vision,ARR3
+ARRB1,vision,ARRB1
+ARRB2,vision,ARRB2
+ARSB,"vision, auditory",ARSB
+ARSG,"vision, auditory",ARSG
+ARSI,"vision, auditory, touch",ARSI
+ARSK,vision,ARSK
+ARV1,"vision, auditory, touch",ARV1
+ASAH1,"vision, auditory, touch",ASAH1
+ASAH2B,vision,ASAH2B
+ASB10,vision,ASB10
+ASB3,"vision, auditory",ASB3
+ASB6,vision,ASB6
+ASCC1,vision,ASCC1
+ASCC3,vision,ASCC3
+ASCL4,vision,ASCL4
+ASH1L,"vision, auditory",ASH1L
+ASIC2,vision,ASIC2
+ASL,"vision, touch",ASL
+ASNS,"vision, auditory",ASNS
+ASPA,"vision, auditory",ASPA
+ASPH,vision,ASPH
+ASPM,"vision, auditory, touch",ASPM
+ASRGL1,vision,ASRGL1
+ASS1,vision,ASS1
+ASTN2,"vision, auditory",ASTN2
+ASXL1,vision,ASXL1
+ASXL2,vision,ASXL2
+ASXL3,vision,ASXL3
+ATAD3A,"vision, auditory",ATAD3A
+ATCAY,vision,ATCAY
+ATF4,vision,ATF4
+ATF6,vision,ATF6
+ATF7,vision,ATF7
+ATF7IP2,vision,ATF7IP2
+ATG4D,vision,ATG4D
+ATIC,vision,ATIC
+ATN1,"vision, auditory, touch",ATN1
+ATOH7,"vision, auditory",ATOH7
+ATP1A2,"vision, auditory, touch",ATP1A2
+ATP1A3,"vision, auditory",ATP1A3
+ATP2A2,"vision, auditory",ATP2A2
+ATP2B1,"vision, auditory",ATP2B1
+ATP2B2,"vision, auditory",ATP2B2
+ATP2B3,vision,ATP2B3
+ATP2B4,"vision, auditory",ATP2B4
+ATP2C2,vision,ATP2C2
+ATP5F1A,"vision, auditory",ATP5F1A
+ATP5F1D,"vision, auditory",ATP5F1D
+ATP5F1E,"vision, auditory",ATP5F1E
+ATP5ME,vision,ATP5ME
+ATP5MK,"vision, auditory",ATP5MK
+ATP6AP1,"vision, auditory",ATP6AP1
+ATP6AP2,"vision, touch",ATP6AP2
+ATP6V0A1,vision,ATP6V0A1
+ATP6V0A2,"vision, auditory",ATP6V0A2
+ATP6V0E1,vision,ATP6V0E1
+ATP6V1A,vision,ATP6V1A
+ATP6V1C1,"vision, auditory",ATP6V1C1
+ATP6V1E1,vision,ATP6V1E1
+ATP8A1,vision,ATP8A1
+ATP8A2,"vision, auditory",ATP8A2
+ATP8B1,"vision, auditory",ATP8B1
+ATP8B4,vision,ATP8B4
+ATP9A,"vision, auditory",ATP9A
+ATP9B,vision,ATP9B
+ATPAF2,"vision, auditory",ATPAF2
+ATR,"vision, auditory",ATR
+ATRIP,vision,ATRIP
+ATRX,"vision, auditory, touch",ATRX
+ATXN1,"vision, touch",ATXN1
+ATXN10,"vision, touch",ATXN10
+ATXN7,"vision, touch",ATXN7
+ATXN7L3B,vision,ATXN7L3B
+AUH,"vision, auditory",AUH
+AUTS2,"vision, auditory",AUTS2
+AVPR2,vision,AVPR2
+AXIN2,vision,AXIN2
+AZIN1,vision,AZIN1
+B3GALNT2,"vision, auditory",B3GALNT2
+B3GALT1,vision,B3GALT1
+B3GAT1,vision,B3GAT1
+B3GAT3,"vision, auditory",B3GAT3
+B3GLCT,"vision, auditory",B3GLCT
+B3GNT2,vision,B3GNT2
+B4GALNT1,"vision, auditory, touch",B4GALNT1
+B4GALT1,"vision, auditory",B4GALT1
+B4GAT1,"vision, auditory",B4GAT1
+B9D2,vision,B9D2
+BAALC,vision,BAALC
+BAG3,"vision, auditory, touch",BAG3
+BAIAP2L2,"vision, auditory",BAIAP2L2
+BAMBI,vision,BAMBI
+BANK1,vision,BANK1
+BATF3,vision,BATF3
+BAZ1B,"vision, auditory",BAZ1B
+BAZ2B,"vision, auditory",BAZ2B
+BBOX1,vision,BBOX1
+BBX,vision,BBX
+BCAP31,"vision, auditory",BCAP31
+BCAS3,vision,BCAS3
+BCAT1,vision,BCAT1
+BCHE,vision,BCHE
+BCKDHA,vision,BCKDHA
+BCKDHB,vision,BCKDHB
+BCL10,"vision, auditory",BCL10
+BCL11B,vision,BCL11B
+BCL7C,vision,BCL7C
+BCO1,vision,BCO1
+BCOR,"vision, auditory",BCOR
+BCORL1,vision,BCORL1
+BCR,"vision, auditory",BCR
+BCS1L,"vision, auditory",BCS1L
+BDNF,"vision, auditory",BDNF
+BEAN1,"vision, auditory, touch",BEAN1
+BEND7,vision,BEND7
+BEST1,"vision, auditory",BEST1
+BET1,vision,BET1
+BFAR,vision,BFAR
+BFSP1,vision,BFSP1
+BFSP2,vision,BFSP2
+BICD1,vision,BICD1
+BICD2,"vision, auditory",BICD2
+BICRA,"vision, auditory",BICRA
+BIN1,vision,BIN1
+BIN3,vision,BIN3
+BIRC2,vision,BIRC2
+BIRC3,vision,BIRC3
+BLK,vision,BLK
+BLM,"vision, auditory",BLM
+BLNK,vision,BLNK
+BLOC1S3,vision,BLOC1S3
+BLOC1S5,vision,BLOC1S5
+BLOC1S6,vision,BLOC1S6
+BLTP1,vision,BLTP1
+BMAL1,"vision, auditory",
+BMAL2,vision,
+BOLA3,"vision, auditory",BOLA3
+BORCS6,vision,BORCS6
+BPTF,"vision, auditory",BPTF
+BRAT1,"vision, auditory",BRAT1
+BRCA2,"vision, auditory, touch",BRCA2
+BRCC3,vision,BRCC3
+BRD4,"vision, auditory, touch",BRD4
+BRD7,vision,BRD7
+BRF1,"vision, auditory",BRF1
+BRINP1,vision,BRINP1
+BRIP1,"vision, auditory",BRIP1
+BRPF1,vision,BRPF1
+BRSK2,"vision, auditory",BRSK2
+BRWD3,vision,BRWD3
+BSDC1,vision,BSDC1
+BSG,vision,BSG
+BSND,"vision, auditory",BSND
+BTAF1,vision,BTAF1
+BTBD16,vision,BTBD16
+BTBD3,vision,BTBD3
+BTD,"vision, auditory",BTD
+BTG3,vision,BTG3
+BTK,"vision, auditory",BTK
+BTNL2,vision,BTNL2
+BUB1,"vision, auditory",BUB1
+BUB1B,"vision, auditory",BUB1B
+BUB3,"vision, auditory",BUB3
+BUD23,"vision, auditory",BUD23
+C10orf105,"vision, auditory",C10orf105
+C10orf67,vision,C10orf67
+C11orf24,vision,C11orf24
+C12orf42,vision,C12orf42
+C12orf43,"vision, auditory",C12orf43
+C12orf57,vision,C12orf57
+C12orf75,vision,C12orf75
+C14orf180,vision,C14orf180
+C16orf74,vision,C16orf74
+C1QB,vision,C1QB
+C1QBP,"vision, auditory",C1QBP
+C1QTNF5,vision,C1QTNF5
+C1orf174,vision,C1orf174
+C1orf21,vision,C1orf21
+C1orf210,vision,C1orf210
+C1orf53,vision,C1orf53
+C1orf56,vision,C1orf56
+C2,vision,C2
+C2CD4D,vision,C2CD4D
+C2orf76,vision,C2orf76
+C2orf88,vision,C2orf88
+C3,vision,C3
+C4B,vision,C4B
+C4orf50,vision,C4orf50
+C6orf118,vision,C6orf118
+C7,vision,C7
+C9,vision,C9
+C9orf50,vision,C9orf50
+C9orf78,vision,C9orf78
+CA10,vision,CA10
+CA2,"vision, auditory",CA2
+CA4,"vision, auditory",CA4
+CA8,vision,CA8
+CABIN1,vision,CABIN1
+CABLES2,vision,CABLES2
+CABP1,vision,CABP1
+CABP2,"vision, auditory",CABP2
+CABP4,"vision, auditory, touch",CABP4
+CABP5,vision,CABP5
+CABYR,vision,CABYR
+CACNA1A,"vision, auditory, touch",CACNA1A
+CACNA1B,"vision, auditory",CACNA1B
+CACNA1D,"vision, auditory",CACNA1D
+CACNA1E,vision,CACNA1E
+CACNA1F,vision,CACNA1F
+CACNA1G,"vision, auditory, touch",CACNA1G
+CACNA1H,vision,CACNA1H
+CACNA1I,"vision, auditory",CACNA1I
+CACNA1S,vision,CACNA1S
+CACNA2D1,"vision, touch",CACNA2D1
+CACNA2D2,vision,CACNA2D2
+CACNA2D3,"vision, auditory",CACNA2D3
+CACNA2D4,vision,CACNA2D4
+CACNB2,vision,CACNB2
+CACNB4,vision,CACNB4
+CAD,vision,CAD
+CADM1,vision,CADM1
+CADPS,vision,CADPS
+CAGE1,vision,CAGE1
+CALCOCO1,vision,CALCOCO1
+CALR,"vision, touch",CALR
+CAMK1D,vision,CAMK1D
+CAMK2A,vision,CAMK2A
+CAMK2B,"vision, touch",CAMK2B
+CAMK2G,vision,CAMK2G
+CAMSAP1,vision,CAMSAP1
+CAMTA1,"vision, touch",CAMTA1
+CANT1,"vision, auditory",CANT1
+CAPN1,"vision, auditory, touch",CAPN1
+CAPN15,vision,CAPN15
+CAPN3,vision,CAPN3
+CAPN5,vision,CAPN5
+CAPN8,vision,CAPN8
+CAPRIN1,"vision, auditory",CAPRIN1
+CARD14,"vision, auditory",CARD14
+CARMIL1,vision,CARMIL1
+CARMIL2,vision,CARMIL2
+CARS1,"vision, auditory, touch",CARS1
+CARS2,"vision, auditory",CARS2
+CASK,"vision, auditory, touch",CASK
+CASP10,vision,CASP10
+CASP7,vision,CASP7
+CASQ1,vision,CASQ1
+CASR,"vision, auditory, touch",CASR
+CASZ1,"vision, auditory",CASZ1
+CAV3,"vision, auditory, touch",CAV3
+CAVIN1,"vision, auditory",CAVIN1
+CBFA2T3,vision,CBFA2T3
+CBX2,vision,CBX2
+CBX4,vision,CBX4
+CBY1,vision,CBY1
+CCBE1,"vision, auditory",CCBE1
+CCDC12,vision,CCDC12
+CCDC168,vision,CCDC168
+CCDC171,vision,CCDC171
+CCDC174,vision,CCDC174
+CCDC198,vision,CCDC198
+CCDC22,vision,CCDC22
+CCDC3,vision,CCDC3
+CCDC33,vision,CCDC33
+CCDC34,vision,CCDC34
+CCDC39,"vision, auditory",CCDC39
+CCDC40,"vision, auditory",CCDC40
+CCDC42,vision,CCDC42
+CCDC47,vision,CCDC47
+CCDC57,"vision, auditory",CCDC57
+CCDC65,"vision, auditory",CCDC65
+CCDC66,vision,CCDC66
+CCDC7,vision,CCDC7
+CCDC78,vision,CCDC78
+CCDC8,vision,CCDC8
+CCDC88A,vision,CCDC88A
+CCDC88C,vision,CCDC88C
+CCKAR,vision,CCKAR
+CCL1,vision,CCL1
+CCL15,vision,CCL15
+CCL18,vision,CCL18
+CCL23,vision,CCL23
+CCL3,vision,CCL3
+CCL3L3,vision,CCL3L3
+CCL4,vision,CCL4
+CCL5,vision,CCL5
+CCM2,"vision, auditory, touch",CCM2
+CCN5,vision,CCN5
+CCN6,vision,CCN6
+CCNA2,vision,CCNA2
+CCND2,"vision, auditory",CCND2
+CCNE1,vision,CCNE1
+CCNK,vision,CCNK
+CCNO,"vision, auditory",CCNO
+CCNQ,vision,CCNQ
+CCR1,"vision, touch",CCR1
+CCSER1,vision,CCSER1
+CCT2,vision,CCT2
+CD109,"vision, auditory",CD109
+CD19,vision,CD19
+CD1A,vision,CD1A
+CD1D,vision,CD1D
+CD207,vision,CD207
+CD247,"vision, auditory",CD247
+CD27,vision,CD27
+CD276,vision,CD276
+CD28,vision,CD28
+CD2AP,vision,CD2AP
+CD2BP2,vision,CD2BP2
+CD300A,vision,CD300A
+CD3D,"vision, auditory",CD3D
+CD3E,"vision, auditory",CD3E
+CD3G,"vision, auditory",CD3G
+CD40,vision,CD40
+CD40LG,vision,CD40LG
+CD58,vision,CD58
+CD5L,vision,CD5L
+CD63,vision,CD63
+CD7,vision,CD7
+CD70,vision,CD70
+CD79A,vision,CD79A
+CD79B,vision,CD79B
+CD8A,vision,CD8A
+CD96,"vision, auditory",CD96
+CDC14C,vision,CDC14C
+CDC20,vision,CDC20
+CDC37,vision,CDC37
+CDC40,vision,CDC40
+CDC42,"vision, auditory",CDC42
+CDC42BPB,"vision, auditory",CDC42BPB
+CDC45,"vision, auditory",CDC45
+CDC73,"vision, auditory",CDC73
+CDCA3,vision,CDCA3
+CDCA7,"vision, auditory",CDCA7
+CDCA7L,vision,CDCA7L
+CDCP1,vision,CDCP1
+CDH1,"vision, auditory",CDH1
+CDH11,"vision, auditory",CDH11
+CDH13,"vision, auditory",CDH13
+CDH23,"vision, auditory, touch",CDH23
+CDH3,"vision, auditory",CDH3
+CDH4,vision,CDH4
+CDH6,vision,CDH6
+CDHR1,"vision, auditory",CDHR1
+CDIPT,vision,CDIPT
+CDK10,vision,CDK10
+CDK12,vision,CDK12
+CDK13,vision,CDK13
+CDK19,vision,CDK19
+CDK2,vision,CDK2
+CDK4,vision,CDK4
+CDK8,"vision, auditory",CDK8
+CDKAL1,vision,CDKAL1
+CDKL4,vision,CDKL4
+CDKL5,"vision, touch",CDKL5
+CDKN1C,"vision, auditory",CDKN1C
+CDKN2A,vision,CDKN2A
+CDKN2B,vision,CDKN2B
+CDKN2D,vision,CDKN2D
+CDS1,vision,CDS1
+CDS2,vision,CDS2
+CDX2,vision,CDX2
+CEACAM16,"vision, auditory",CEACAM16
+CEACAM21,vision,CEACAM21
+CEACAM4,vision,CEACAM4
+CEACAM5,vision,CEACAM5
+CEBPA,vision,CEBPA
+CEBPE,vision,CEBPE
+CEL,vision,CEL
+CELF2,vision,CELF2
+CELF4,vision,CELF4
+CEMIP,"vision, auditory",CEMIP
+CEMIP2,"vision, auditory",CEMIP2
+CENPC,vision,CENPC
+CENPE,vision,CENPE
+CENPF,vision,CENPF
+CENPT,vision,CENPT
+CEP104,vision,CEP104
+CEP120,vision,CEP120
+CEP152,vision,CEP152
+CEP162,vision,CEP162
+CEP192,vision,CEP192
+CEP20,vision,CEP20
+CEP250,"vision, auditory",CEP250
+CEP57,"vision, auditory",CEP57
+CEP63,"vision, auditory",CEP63
+CEP78,"vision, auditory",CEP78
+CEP83,vision,CEP83
+CEP85L,"vision, auditory",CEP85L
+CERKL,"vision, auditory",CERKL
+CERS1,vision,CERS1
+CERS3,"vision, auditory",CERS3
+CFAP20,vision,CFAP20
+CFAP210,vision,CFAP210
+CFAP221,"vision, auditory",CFAP221
+CFAP298,"vision, auditory",CFAP298
+CFAP300,"vision, auditory",CFAP300
+CFAP410,vision,CFAP410
+CFAP45,vision,CFAP45
+CFAP57,vision,CFAP57
+CFAP74,"vision, auditory",CFAP74
+CFAP92,"vision, auditory",CFAP92
+CFB,vision,CFB
+CFHR1,vision,CFHR1
+CFHR3,vision,CFHR3
+CFI,vision,CFI
+CFL2,vision,CFL2
+CGN,vision,CGN
+CHAMP1,"vision, touch",CHAMP1
+CHAT,"vision, auditory, touch",CHAT
+CHCHD10,"vision, auditory, touch",CHCHD10
+CHEK2,"vision, auditory, touch",CHEK2
+CHKA,vision,CHKA
+CHKB,vision,CHKB
+CHML,vision,CHML
+CHMP1A,"vision, auditory",CHMP1A
+CHMP2B,"vision, touch",CHMP2B
+CHMP4B,vision,CHMP4B
+CHN1,"vision, auditory",CHN1
+CHN2,vision,CHN2
+CHODL,vision,CHODL
+CHP1,"vision, touch",CHP1
+CHPF2,vision,CHPF2
+CHRDL1,vision,CHRDL1
+CHRM2,vision,CHRM2
+CHRM3,vision,CHRM3
+CHRNA1,"vision, touch",CHRNA1
+CHRNA3,vision,CHRNA3
+CHRNA4,"vision, touch",CHRNA4
+CHRNA7,"vision, auditory",CHRNA7
+CHRNA9,"vision, auditory",CHRNA9
+CHRNB1,"vision, touch",CHRNB1
+CHRND,"vision, touch",CHRND
+CHRNE,"vision, touch",CHRNE
+CHRNG,"vision, auditory",CHRNG
+CHST14,"vision, auditory, touch",CHST14
+CHST3,"vision, auditory",CHST3
+CHST6,"vision, auditory",CHST6
+CHST9,vision,CHST9
+CHTF18,vision,CHTF18
+CIB2,"vision, auditory",CIB2
+CIBAR2,vision,CIBAR2
+CIITA,vision,CIITA
+CISD2,"vision, auditory",CISD2
+CIZ1,vision,CIZ1
+CKAP2L,vision,CKAP2L
+CKAP4,vision,CKAP4
+CKAP5,vision,CKAP5
+CLCC1,vision,CLCC1
+CLCF1,vision,CLCF1
+CLCN1,vision,CLCN1
+CLCN2,"vision, auditory",CLCN2
+CLCN3,"vision, auditory",CLCN3
+CLCN4,vision,CLCN4
+CLCN5,"vision, auditory",CLCN5
+CLCN7,"vision, auditory",CLCN7
+CLCNKB,"vision, auditory, touch",CLCNKB
+CLDN10,vision,CLDN10
+CLDN11,vision,CLDN11
+CLDN14,"vision, auditory",CLDN14
+CLDN16,vision,CLDN16
+CLDN19,vision,CLDN19
+CLEC14A,vision,CLEC14A
+CLEC18B,vision,CLEC18B
+CLEC3B,vision,CLEC3B
+CLEC4A,vision,CLEC4A
+CLEC4F,vision,CLEC4F
+CLEC7A,vision,CLEC7A
+CLIC2,vision,CLIC2
+CLIC5,"vision, auditory",CLIC5
+CLIP2,"vision, auditory",CLIP2
+CLK3,vision,CLK3
+CLN3,"vision, touch",CLN3
+CLN5,vision,CLN5
+CLN6,"vision, auditory, touch",CLN6
+CLN8,vision,CLN8
+CLP1,vision,CLP1
+CLPB,vision,CLPB
+CLRN1,"vision, auditory",CLRN1
+CLTA,vision,CLTA
+CLTC,"vision, auditory",CLTC
+CLTCL1,"vision, touch",CLTCL1
+CLTRN,"vision, touch",CLTRN
+CLU,vision,CLU
+CLXN,vision,CLXN
+CLYBL,vision,CLYBL
+CNBD1,vision,CNBD1
+CNGA1,"vision, auditory",CNGA1
+CNKSR2,vision,CNKSR2
+CNKSR3,vision,CNKSR3
+CNN3,vision,CNN3
+CNNM4,vision,CNNM4
+CNOT3,"vision, auditory",CNOT3
+CNP,vision,CNP
+CNPY2,"vision, auditory",CNPY2
+CNR1,vision,CNR1
+CNTN1,vision,CNTN1
+CNTN2,vision,CNTN2
+CNTN5,"vision, auditory",CNTN5
+CNTN6,"vision, auditory",CNTN6
+CNTNAP1,"vision, auditory",CNTNAP1
+CNTNAP2,"vision, auditory",CNTNAP2
+CNTNAP4,vision,CNTNAP4
+COA1,"vision, auditory",COA1
+COA3,"vision, auditory",COA3
+COA5,"vision, auditory",COA5
+COA8,"vision, auditory",COA8
+COG1,"vision, auditory",COG1
+COG3,vision,COG3
+COG5,"vision, auditory",COG5
+COG6,"vision, auditory",COG6
+COG7,"vision, auditory",COG7
+COG8,"vision, auditory",COG8
+COL11A1,"vision, auditory",COL11A1
+COL11A2,"vision, auditory",COL11A2
+COL12A1,vision,COL12A1
+COL13A1,"vision, auditory",COL13A1
+COL15A1,vision,COL15A1
+COL17A1,vision,COL17A1
+COL18A1,"vision, auditory",COL18A1
+COL1A2,"vision, auditory, touch",COL1A2
+COL20A1,vision,COL20A1
+COL21A1,vision,COL21A1
+COL22A1,vision,COL22A1
+COL26A1,vision,COL26A1
+COL27A1,"vision, auditory",COL27A1
+COL3A1,"vision, auditory",COL3A1
+COL4A1,vision,COL4A1
+COL4A2,vision,COL4A2
+COL4A3,"vision, auditory",COL4A3
+COL4A4,"vision, auditory",COL4A4
+COL4A5,"vision, auditory",COL4A5
+COL4A6,"vision, auditory",COL4A6
+COL5A2,"vision, auditory",COL5A2
+COL6A1,vision,COL6A1
+COL6A2,vision,COL6A2
+COL6A3,vision,COL6A3
+COL7A1,"vision, auditory",COL7A1
+COL8A1,vision,COL8A1
+COL8A2,vision,COL8A2
+COL9A1,"vision, auditory",COL9A1
+COL9A2,"vision, auditory",COL9A2
+COL9A3,"vision, auditory",COL9A3
+COLEC10,"vision, auditory",COLEC10
+COLEC11,"vision, auditory",COLEC11
+COLGALT2,vision,COLGALT2
+COLQ,"vision, touch",COLQ
+COMMD10,vision,COMMD10
+COMMD4,vision,COMMD4
+COPB1,vision,COPB1
+COPB2,vision,COPB2
+COPS8,vision,COPS8
+COQ2,"vision, auditory",COQ2
+COQ4,"vision, auditory, touch",COQ4
+COQ5,vision,COQ5
+COQ7,"vision, auditory",COQ7
+COQ8A,"vision, auditory, touch",COQ8A
+COQ8B,vision,COQ8B
+COQ9,"vision, auditory",COQ9
+CORIN,vision,CORIN
+CORO1A,"vision, auditory",CORO1A
+CORO2A,vision,CORO2A
+COTL1,vision,COTL1
+COX10,"vision, auditory",COX10
+COX14,"vision, auditory",COX14
+COX15,"vision, auditory",COX15
+COX16,"vision, auditory",COX16
+COX20,"vision, auditory",COX20
+COX4I1,"vision, auditory",COX4I1
+COX5A,"vision, auditory",COX5A
+COX6A2,"vision, auditory",COX6A2
+COX6B1,"vision, auditory",COX6B1
+COX7B,"vision, auditory",COX7B
+COX8A,"vision, auditory",COX8A
+CPA4,"vision, auditory",CPA4
+CPA5,"vision, auditory",CPA5
+CPAMD8,vision,CPAMD8
+CPB2,vision,CPB2
+CPEB3,vision,CPEB3
+CPLX1,"vision, auditory",CPLX1
+CPLX2,vision,CPLX2
+CPLX3,vision,CPLX3
+CPLX4,"vision, auditory",CPLX4
+CPNE4,vision,CPNE4
+CPPED1,vision,CPPED1
+CPS1,vision,CPS1
+CPSF1,vision,CPSF1
+CPSF3,vision,CPSF3
+CPT1A,vision,CPT1A
+CPT1C,"vision, auditory, touch",CPT1C
+CPT2,"vision, touch",CPT2
+CPVL,vision,CPVL
+CR2,vision,CR2
+CRB1,"vision, auditory, touch",CRB1
+CRB2,vision,CRB2
+CREBBP,"vision, auditory, touch",CREBBP
+CREG1,vision,CREG1
+CRELD1,vision,CRELD1
+CRIPT,vision,CRIPT
+CRKL,"vision, auditory",CRKL
+CRLF1,vision,CRLF1
+CRLS1,"vision, auditory, touch",CRLS1
+CROCC,vision,CROCC
+CRPPA,"vision, auditory",CRPPA
+CRTAP,"vision, auditory",CRTAP
+CRY1,vision,CRY1
+CRY2,vision,CRY2
+CRYAA,vision,CRYAA
+CRYAB,"vision, auditory",CRYAB
+CRYBA1,vision,CRYBA1
+CRYBA2,vision,CRYBA2
+CRYBA4,vision,CRYBA4
+CRYBB1,vision,CRYBB1
+CRYBB2,vision,CRYBB2
+CRYBB3,vision,CRYBB3
+CRYGA,vision,CRYGA
+CRYGB,vision,CRYGB
+CRYGC,vision,CRYGC
+CRYGD,vision,CRYGD
+CRYGS,vision,CRYGS
+CRYZL2P-SEC16B,vision,CRYZL2P-SEC16B
+CSAD,vision,CSAD
+CSDE1,"vision, auditory",CSDE1
+CSF1R,"vision, auditory, touch",CSF1R
+CSGALNACT1,vision,CSGALNACT1
+CSMD1,"vision, auditory",CSMD1
+CSN2,vision,CSN2
+CSNK1D,"vision, auditory",CSNK1D
+CSNK2A1,vision,CSNK2A1
+CSPP1,"vision, auditory",CSPP1
+CSRP2,vision,CSRP2
+CST3,vision,CST3
+CST6,vision,CST6
+CSTA,"vision, auditory",CSTA
+CTC1,"vision, auditory",CTC1
+CTCF,"vision, auditory",CTCF
+CTDP1,"vision, auditory, touch",CTDP1
+CTLA4,"vision, auditory, touch",CTLA4
+CTNNA1,vision,CTNNA1
+CTNND1,"vision, auditory",CTNND1
+CTNND2,"vision, auditory",CTNND2
+CTNS,vision,CTNS
+CTPS1,vision,CTPS1
+CTR9,"vision, auditory",CTR9
+CTSA,"vision, auditory",CTSA
+CTSF,vision,CTSF
+CTSH,"vision, touch",CTSH
+CUBN,"vision, auditory, touch",CUBN
+CUL3,vision,CUL3
+CUL7,"vision, auditory",CUL7
+CUL9,vision,CUL9
+CUX2,"vision, touch",CUX2
+CWC25,vision,CWC25
+CWC27,vision,CWC27
+CWF19L1,vision,CWF19L1
+CXADR,vision,CXADR
+CYB5A,vision,CYB5A
+CYB5R3,"vision, auditory",CYB5R3
+CYB5RL,vision,CYB5RL
+CYBA,vision,CYBA
+CYBB,vision,CYBB
+CYBC1,vision,CYBC1
+CYC1,vision,CYC1
+CYFIP2,vision,CYFIP2
+CYGB,vision,CYGB
+CYP11A1,vision,CYP11A1
+CYP11B1,"vision, auditory",CYP11B1
+CYP17A1,vision,CYP17A1
+CYP19A1,vision,CYP19A1
+CYP1A1,vision,CYP1A1
+CYP1B1,vision,CYP1B1
+CYP21A2,vision,CYP21A2
+CYP24A1,vision,CYP24A1
+CYP26B1,vision,CYP26B1
+CYP27A1,"vision, auditory, touch",CYP27A1
+CYP27B1,"vision, auditory",CYP27B1
+CYP2R1,"vision, auditory",CYP2R1
+CYP4F22,vision,CYP4F22
+CYP4V2,"vision, auditory",CYP4V2
+CYP51A1,vision,CYP51A1
+CYP7B1,"vision, auditory, touch",CYP7B1
+CYSLTR2,vision,CYSLTR2
+CYYR1,vision,CYYR1
+D2HGDH,vision,D2HGDH
+DAB1,"vision, auditory, touch",DAB1
+DACH2,vision,DACH2
+DACT1,"vision, auditory",DACT1
+DACT3,vision,DACT3
+DAG1,vision,DAG1
+DALRD3,vision,DALRD3
+DAO,vision,DAO
+DARS1,"vision, auditory",DARS1
+DARS2,"vision, auditory, touch",DARS2
+DBI,vision,DBI
+DBR1,vision,DBR1
+DBT,vision,DBT
+DCDC2,"vision, auditory",DCDC2
+DCHS1,"vision, auditory",DCHS1
+DCLK1,vision,DCLK1
+DCLRE1C,"vision, auditory",DCLRE1C
+DCN,vision,DCN
+DCT,vision,DCT
+DCTN1,"vision, auditory, touch",DCTN1
+DCTPP1,vision,DCTPP1
+DCX,"vision, auditory, touch",DCX
+DDB1,vision,DDB1
+DDB2,"vision, auditory",DDB2
+DDHD2,"vision, auditory",DDHD2
+DDOST,"vision, auditory",DDOST
+DDR2,"vision, auditory",DDR2
+DDT,vision,DDT
+DDX10,vision,DDX10
+DDX17,vision,DDX17
+DDX21,vision,DDX21
+DDX31,vision,DDX31
+DDX3X,"vision, auditory",DDX3X
+DDX52,vision,DDX52
+DDX59,"vision, auditory",DDX59
+DDX60,vision,DDX60
+DEAF1,"vision, auditory, touch",DEAF1
+DECR1,vision,DECR1
+DEGS1,vision,DEGS1
+DENND1B,vision,DENND1B
+DENND3,vision,DENND3
+DEPDC5,"vision, auditory, touch",DEPDC5
+DERL3,vision,DERL3
+DES,"vision, auditory",DES
+DFFA,vision,DFFA
+DGCR2,vision,DGCR2
+DGCR6,vision,DGCR6
+DGCR8,vision,DGCR8
+DGKE,vision,DGKE
+DGKG,vision,DGKG
+DGKI,vision,DGKI
+DGKQ,vision,DGKQ
+DGUOK,"vision, auditory",DGUOK
+DHCR24,"vision, auditory",DHCR24
+DHDDS,"vision, auditory",DHDDS
+DHODH,"vision, auditory",DHODH
+DHRS3,vision,DHRS3
+DHX16,"vision, auditory",DHX16
+DHX30,vision,DHX30
+DHX34,vision,DHX34
+DHX35,vision,DHX35
+DHX37,vision,DHX37
+DHX38,"vision, auditory",DHX38
+DIAPH1,"vision, auditory",DIAPH1
+DICER1,"vision, auditory",DICER1
+DIDO1,vision,DIDO1
+DIO2,vision,DIO2
+DISC1,vision,DISC1
+DKC1,"vision, auditory",DKC1
+DLD,"vision, auditory",DLD
+DLG3,vision,DLG3
+DLG4,"vision, auditory",DLG4
+DLG5,vision,DLG5
+DLGAP1,vision,DLGAP1
+DLGAP2,vision,DLGAP2
+DLK1,vision,DLK1
+DLL4,"vision, touch",DLL4
+DLST,"vision, auditory",DLST
+DMRT1,vision,DMRT1
+DNA2,"vision, auditory",DNA2
+DNAAF1,"vision, auditory",DNAAF1
+DNAAF11,"vision, auditory",DNAAF11
+DNAAF2,"vision, auditory",DNAAF2
+DNAAF3,"vision, auditory",DNAAF3
+DNAAF4,"vision, auditory",DNAAF4
+DNAAF5,"vision, auditory",DNAAF5
+DNAAF6,"vision, auditory",DNAAF6
+DNAAF9,vision,DNAAF9
+DNAH1,"vision, auditory",DNAH1
+DNAH11,"vision, auditory",DNAH11
+DNAH17,vision,DNAH17
+DNAH5,"vision, auditory",DNAH5
+DNAH9,"vision, auditory",DNAH9
+DNAI2,"vision, auditory",DNAI2
+DNAJB13,"vision, auditory",DNAJB13
+DNAJB4,vision,DNAJB4
+DNAJC10,vision,DNAJC10
+DNAJC12,vision,DNAJC12
+DNAJC17,vision,DNAJC17
+DNAJC21,"vision, auditory",DNAJC21
+DNAJC30,"vision, auditory",DNAJC30
+DNASE1,"vision, touch",DNASE1
+DNASE1L3,"vision, auditory",DNASE1L3
+DNM1,"vision, touch",DNM1
+DNM2,"vision, auditory, touch",DNM2
+DNMBP,vision,DNMBP
+DNMT1,"vision, auditory, touch",DNMT1
+DNMT3A,"vision, auditory, touch",DNMT3A
+DNMT3B,"vision, auditory",DNMT3B
+DOCK4,vision,DOCK4
+DOCK7,vision,DOCK7
+DOHH,vision,DOHH
+DOK7,"vision, touch",DOK7
+DOLK,"vision, auditory",DOLK
+DPAGT1,"vision, auditory, touch",DPAGT1
+DPF2,"vision, auditory",DPF2
+DPH5,vision,DPH5
+DPM1,"vision, auditory",DPM1
+DPM2,"vision, auditory",DPM2
+DPM3,"vision, auditory",DPM3
+DPP10,vision,DPP10
+DPP6,vision,DPP6
+DPP9,vision,DPP9
+DPYD,vision,DPYD
+DPYSL5,vision,DPYSL5
+DRAM2,vision,DRAM2
+DRC1,"vision, auditory",DRC1
+DRD1,vision,DRD1
+DRD5,vision,DRD5
+DRP2,"vision, auditory",DRP2
+DSCAM,"vision, auditory",DSCAM
+DSE,"vision, auditory, touch",DSE
+DST,"vision, auditory",DST
+DTHD1,vision,DTHD1
+DTNA,"vision, auditory",DTNA
+DTNBP1,vision,DTNBP1
+DTWD1,vision,DTWD1
+DTYMK,"vision, auditory",DTYMK
+DUOX1,vision,DUOX1
+DUOXA1,vision,DUOXA1
+DUSP19,vision,DUSP19
+DUT,vision,DUT
+DUX4,"vision, auditory",DUX4
+DVL1,"vision, auditory",DVL1
+DVL3,"vision, auditory",DVL3
+DYDC1,vision,DYDC1
+DYDC2,vision,DYDC2
+DYNC1H1,"vision, auditory, touch",DYNC1H1
+DYNC2I1,vision,DYNC2I1
+DYNC2I2,vision,DYNC2I2
+DYNC2LI1,vision,DYNC2LI1
+DYRK1A,"vision, auditory",DYRK1A
+DYSF,"vision, touch",DYSF
+DZANK1,vision,DZANK1
+E2F7,vision,E2F7
+EAF2,"vision, auditory",EAF2
+EARS2,"vision, auditory",EARS2
+EBF3,"vision, auditory, touch",EBF3
+EBNA1BP2,vision,EBNA1BP2
+EBP,"vision, auditory",EBP
+ECEL1,vision,ECEL1
+ECH1,vision,ECH1
+ECHDC1,vision,ECHDC1
+ECHDC3,vision,ECHDC3
+ECHS1,"vision, auditory",ECHS1
+EDA,vision,EDA
+EDAR,vision,EDAR
+EDC3,"vision, auditory",EDC3
+EDEM3,"vision, auditory",EDEM3
+EDN1,"vision, auditory",EDN1
+EED,vision,EED
+EEF1A1,vision,EEF1A1
+EEF1A2,vision,EEF1A2
+EEF1D,vision,EEF1D
+EEF2,"vision, touch",EEF2
+EEF2KMT,"vision, auditory",EEF2KMT
+EEIG2,vision,
+EEPD1,vision,EEPD1
+EFEMP2,vision,EFEMP2
+EFHC1,vision,EFHC1
+EFL1,"vision, auditory",EFL1
+EFNA5,vision,EFNA5
+EFNB1,"vision, auditory",EFNB1
+EFR3A,"vision, auditory",EFR3A
+EGFLAM,vision,EGFLAM
+EGFR,"vision, auditory",EGFR
+EGLN3,"vision, auditory",EGLN3
+EGR2,"vision, auditory, touch",EGR2
+EGR3,vision,EGR3
+EHMT1,"vision, auditory",EHMT1
+EIF2AK2,vision,EIF2AK2
+EIF2AK3,"vision, auditory",EIF2AK3
+EIF2B1,vision,EIF2B1
+EIF2B2,"vision, auditory, touch",EIF2B2
+EIF2B3,vision,EIF2B3
+EIF2B4,vision,EIF2B4
+EIF2B5,vision,EIF2B5
+EIF2S3,vision,EIF2S3
+EIF3B,vision,EIF3B
+EIF3F,"vision, auditory, touch",EIF3F
+EIF3M,vision,EIF3M
+EIF4A2,"vision, auditory",EIF4A2
+EIF4G2,vision,EIF4G2
+EIF4H,"vision, auditory",EIF4H
+ELAC2,"vision, auditory",ELAC2
+ELANE,vision,ELANE
+ELAVL1,vision,ELAVL1
+ELAVL2,vision,ELAVL2
+ELAVL3,vision,ELAVL3
+ELAVL4,vision,ELAVL4
+ELMO2,"vision, auditory",ELMO2
+ELN,"vision, auditory",ELN
+ELOVL1,"vision, auditory",ELOVL1
+ELOVL4,"vision, auditory, touch",ELOVL4
+ELOVL5,"vision, touch",ELOVL5
+ELOVL7,vision,ELOVL7
+ELP4,vision,ELP4
+ELP6,vision,ELP6
+EMC1,vision,EMC1
+EMC10,vision,EMC10
+EMD,"vision, auditory",EMD
+EML1,"vision, auditory",EML1
+EML3,vision,EML3
+ENAH,vision,ENAH
+ENG,vision,ENG
+ENO3,vision,ENO3
+ENPP1,"vision, auditory",ENPP1
+ENSG00000206549,vision,
+ENSG00000261147,vision,
+ENSG00000283321,vision,
+ENSG00000285283,vision,
+ENSG00000285791,vision,
+ENSG00000289258,vision,
+EOGT,"vision, auditory",EOGT
+EPAS1,"vision, auditory",EPAS1
+EPCAM,"vision, auditory, touch",EPCAM
+EPHA2,vision,EPHA2
+EPHA6,vision,EPHA6
+EPHA7,"vision, auditory",EPHA7
+EPHB2,vision,EPHB2
+EPHB3,vision,EPHB3
+EPHX1,vision,EPHX1
+EPHX2,vision,EPHX2
+EPM2A,"vision, touch",EPM2A
+EPO,vision,EPO
+EPRS1,"vision, auditory",EPRS1
+EPS15,vision,EPS15
+EPS8L3,"vision, auditory",EPS8L3
+ERAP1,"vision, touch",ERAP1
+ERBB2,"vision, auditory, touch",ERBB2
+ERBB4,vision,ERBB4
+ERCC1,"vision, auditory",ERCC1
+ERCC2,"vision, auditory, touch",ERCC2
+ERCC3,"vision, auditory",ERCC3
+ERCC4,"vision, auditory",ERCC4
+ERCC5,"vision, auditory",ERCC5
+ERCC6,"vision, auditory",ERCC6
+ERCC8,"vision, auditory, touch",ERCC8
+ERF,"vision, auditory",ERF
+ERI1,vision,ERI1
+ERLIN2,"vision, auditory, touch",ERLIN2
+ERMARD,"vision, touch",ERMARD
+ERVW-1,vision,ERVW-1
+ESAM,vision,ESAM
+ESCO2,vision,ESCO2
+ESPN,"vision, auditory",ESPN
+ESR1,"vision, auditory",ESR1
+ESRRG,vision,ESRRG
+ESS2,vision,ESS2
+ETFA,vision,ETFA
+ETFB,vision,ETFB
+ETFDH,vision,ETFDH
+ETHE1,"vision, touch",ETHE1
+ETNK1,vision,ETNK1
+ETS1,"vision, auditory",ETS1
+ETV6,vision,ETV6
+EVC,vision,EVC
+EXO5,vision,EXO5
+EXOC5,vision,EXOC5
+EXOC8,vision,EXOC8
+EXOSC1,vision,EXOSC1
+EXOSC2,"vision, auditory",EXOSC2
+EXOSC3,"vision, auditory, touch",EXOSC3
+EXOSC5,vision,EXOSC5
+EXOSC8,"vision, auditory",EXOSC8
+EXOSC9,vision,EXOSC9
+EXT2,"vision, auditory, touch",EXT2
+EXTL3,vision,EXTL3
+EYA2,vision,EYA2
+EYS,"vision, auditory",EYS
+EZH2,"vision, auditory",EZH2
+F11R,vision,F11R
+F12,"vision, touch",F12
+F2R,"vision, auditory",F2R
+F2RL2,"vision, auditory",F2RL2
+F3,vision,F3
+F9,vision,F9
+FAAP24,vision,FAAP24
+FABP2,vision,FABP2
+FADD,vision,FADD
+FADS2,vision,FADS2
+FAM110C,vision,FAM110C
+FAM111A,vision,FAM111A
+FAM114A2,vision,FAM114A2
+FAM118A,vision,FAM118A
+FAM120AOS,vision,FAM120AOS
+FAM131A,vision,FAM131A
+FAM135A,vision,FAM135A
+FAM151B,vision,FAM151B
+FAM161A,"vision, auditory",FAM161A
+FAM171A2,vision,FAM171A2
+FAM171B,vision,FAM171B
+FAM187B,"vision, auditory",FAM187B
+FAM20A,vision,FAM20A
+FAM20C,"vision, auditory",FAM20C
+FAM43B,"vision, auditory",FAM43B
+FAM50A,vision,FAM50A
+FAM50B,vision,FAM50B
+FANCA,"vision, auditory",FANCA
+FANCC,"vision, auditory",FANCC
+FANCD2,"vision, auditory",FANCD2
+FANCE,"vision, auditory",FANCE
+FANCF,"vision, auditory",FANCF
+FANCG,"vision, auditory",FANCG
+FANCL,"vision, auditory",FANCL
+FANCM,"vision, auditory",FANCM
+FANK1,vision,FANK1
+FAR1,"vision, auditory",FAR1
+FARP1,vision,FARP1
+FARS2,"vision, auditory",FARS2
+FAS,"vision, auditory, touch",FAS
+FASLG,vision,FASLG
+FASTKD1,vision,FASTKD1
+FASTKD2,"vision, auditory",FASTKD2
+FAT2,vision,FAT2
+FAT3,vision,FAT3
+FBLN1,vision,FBLN1
+FBLN2,vision,FBLN2
+FBLN5,"vision, auditory, touch",FBLN5
+FBN3,vision,FBN3
+FBRS,vision,FBRS
+FBXL12,vision,FBXL12
+FBXL19,vision,FBXL19
+FBXL3,vision,FBXL3
+FBXL4,"vision, auditory",FBXL4
+FBXL6,vision,FBXL6
+FBXL7,vision,FBXL7
+FBXO11,"vision, auditory",FBXO11
+FBXO28,vision,FBXO28
+FBXO33,vision,FBXO33
+FBXW11,vision,FBXW11
+FBXW7,"vision, auditory",FBXW7
+FCGR2B,"vision, touch",FCGR2B
+FCGR2C,vision,FCGR2C
+FCGR3B,vision,FCGR3B
+FCHO1,vision,FCHO1
+FCHSD2,vision,FCHSD2
+FCSK,"vision, auditory",FCSK
+FDFT1,vision,FDFT1
+FDX2,vision,FDX2
+FDXR,"vision, auditory",FDXR
+FERMT1,vision,FERMT1
+FGD1,"vision, auditory",FGD1
+FGF12,vision,FGF12
+FGF14,"vision, touch",FGF14
+FGF19,vision,FGF19
+FGFRL1,"vision, auditory",FGFRL1
+FH,"vision, auditory",FH
+FHAD1,vision,FHAD1
+FHIP1A,vision,FHIP1A
+FHIT,vision,FHIT
+FHL1,"vision, auditory",FHL1
+FHL5,vision,FHL5
+FHOD3,vision,FHOD3
+FITM2,"vision, auditory",FITM2
+FIZ1,vision,FIZ1
+FKBP10,"vision, auditory",FKBP10
+FKBP14,"vision, auditory",FKBP14
+FKBP6,"vision, auditory",FKBP6
+FKRP,"vision, auditory",FKRP
+FKTN,"vision, auditory",FKTN
+FLAD1,vision,FLAD1
+FLCN,"vision, auditory",FLCN
+FLG,vision,FLG
+FLI1,"vision, auditory, touch",FLI1
+FLII,"vision, auditory, touch",FLII
+FLNA,"vision, auditory",FLNA
+FLNB,"vision, auditory",FLNB
+FLNC,"vision, auditory, touch",FLNC
+FLRT1,"vision, auditory, touch",FLRT1
+FLT1,vision,FLT1
+FLVCR1,"vision, touch",FLVCR1
+FMC1,"vision, auditory",FMC1
+FMC1-LUC7L2,"vision, auditory",FMC1-LUC7L2
+FMR1,"vision, auditory, touch",FMR1
+FNDC5,vision,FNDC5
+FNDC7,vision,FNDC7
+FOCAD,vision,FOCAD
+FOLR1,vision,FOLR1
+FOXC1,"vision, auditory",FOXC1
+FOXC2,vision,FOXC2
+FOXD1,vision,FOXD1
+FOXD3,vision,FOXD3
+FOXE1,vision,FOXE1
+FOXE3,vision,FOXE3
+FOXF2,vision,FOXF2
+FOXJ1,"vision, auditory",FOXJ1
+FOXN3,vision,FOXN3
+FOXN4,vision,FOXN4
+FOXP3,vision,FOXP3
+FOXRED1,"vision, auditory",FOXRED1
+FREM1,vision,FREM1
+FREM2,"vision, auditory",FREM2
+FRG1,"vision, auditory",FRG1
+FRMD4A,vision,FRMD4A
+FRMD4B,vision,FRMD4B
+FRMD5,"vision, auditory",FRMD5
+FRMD7,vision,FRMD7
+FRMPD2,vision,FRMPD2
+FRMPD4,vision,FRMPD4
+FRRS1L,"vision, touch",FRRS1L
+FSCN2,"vision, auditory",FSCN2
+FST,vision,FST
+FTH1,"vision, auditory",FTH1
+FTL,"vision, auditory, touch",FTL
+FTO,"vision, auditory",FTO
+FTSJ1,"vision, auditory",FTSJ1
+FUCA1,"vision, auditory, touch",FUCA1
+FUS,"vision, auditory",FUS
+FUT8,"vision, auditory",FUT8
+FXN,"vision, auditory, touch",FXN
+FXR1,vision,FXR1
+FXYD2,vision,FXYD2
+FXYD5,"vision, auditory",FXYD5
+FYCO1,vision,FYCO1
+FYN,vision,FYN
+FZD2,"vision, auditory",FZD2
+FZD4,"vision, auditory",FZD4
+FZD5,vision,FZD5
+FZR1,vision,FZR1
+G2E3,vision,G2E3
+GAA,"vision, auditory",GAA
+GABBR1,"vision, auditory",GABBR1
+GABBR2,"vision, touch",GABBR2
+GABRA1,vision,GABRA1
+GABRA2,vision,GABRA2
+GABRA3,vision,GABRA3
+GABRA5,vision,GABRA5
+GABRA6,vision,GABRA6
+GABRB1,vision,GABRB1
+GABRB2,vision,GABRB2
+GABRB3,"vision, touch",GABRB3
+GABRD,"vision, auditory",GABRD
+GABRG2,"vision, touch",GABRG2
+GABRR1,vision,GABRR1
+GABRR2,vision,GABRR2
+GADL1,vision,GADL1
+GALC,"vision, auditory, touch",GALC
+GALE,"vision, auditory",GALE
+GALK1,"vision, auditory",GALK1
+GALNS,"vision, auditory",GALNS
+GALNT1,vision,GALNT1
+GALNT12,vision,GALNT12
+GALNT13,vision,GALNT13
+GALNT17,"vision, auditory",GALNT17
+GALNT2,"vision, auditory",GALNT2
+GALNT3,"vision, auditory",GALNT3
+GALNTL5,vision,GALNTL5
+GALNTL6,vision,GALNTL6
+GALT,"vision, auditory",GALT
+GAMT,"vision, touch",GAMT
+GAN,"vision, auditory, touch",GAN
+GAREM2,vision,GAREM2
+GARIN6,vision,GARIN6
+GAS2L2,"vision, auditory",GAS2L2
+GAS8,"vision, auditory",GAS8
+GATA1,"vision, auditory, touch",GATA1
+GATA2,"vision, auditory",GATA2
+GATA3,"vision, auditory",GATA3
+GATAD1,"vision, auditory",GATAD1
+GATAD2B,"vision, touch",GATAD2B
+GATB,"vision, auditory",GATB
+GATM,vision,GATM
+GBA2,"vision, auditory, touch",GBA2
+GBE1,"vision, auditory, touch",GBE1
+GBF1,"vision, auditory, touch",GBF1
+GCDH,"vision, auditory",GCDH
+GCH1,"vision, auditory, touch",GCH1
+GCK,"vision, auditory",GCK
+GCNT2,vision,GCNT2
+GDAP2,vision,GDAP2
+GDF2,vision,GDF2
+GDF3,"vision, auditory",GDF3
+GDF5,"vision, auditory",GDF5
+GDI1,vision,GDI1
+GDPD1,vision,GDPD1
+GFAP,"vision, auditory",GFAP
+GFER,"vision, auditory",GFER
+GFM1,"vision, auditory",GFM1
+GFM2,vision,GFM2
+GFPT1,"vision, auditory, touch",GFPT1
+GGCX,vision,GGCX
+GGNBP2,vision,GGNBP2
+GGPS1,"vision, auditory",GGPS1
+GGT1,vision,GGT1
+GINS2,vision,GINS2
+GIPC1,"vision, auditory",GIPC1
+GIPC3,"vision, auditory",GIPC3
+GJA1,"vision, auditory",GJA1
+GJA10,vision,GJA10
+GJA3,vision,GJA3
+GJA5,"vision, auditory",GJA5
+GJA8,"vision, auditory",GJA8
+GJB1,"vision, auditory, touch",GJB1
+GJB3,"vision, auditory",GJB3
+GJB4,"vision, auditory",GJB4
+GJB6,"vision, auditory",GJB6
+GJC2,"vision, auditory, touch",GJC2
+GJE1,vision,GJE1
+GK,vision,GK
+GLA,"vision, auditory, touch",GLA
+GLB1,"vision, auditory",GLB1
+GLDC,vision,GLDC
+GLE1,vision,GLE1
+GLG1,vision,GLG1
+GLIS2,vision,GLIS2
+GLIS3,"vision, auditory",GLIS3
+GLRA2,vision,GLRA2
+GLRB,"vision, auditory",GLRB
+GLRX5,vision,GLRX5
+GLUD1,vision,GLUD1
+GLYCTK,"vision, auditory",GLYCTK
+GM2A,"vision, auditory",GM2A
+GMDS,vision,GMDS
+GMNN,"vision, auditory",GMNN
+GMPPA,"vision, auditory, touch",GMPPA
+GMPPB,"vision, auditory",GMPPB
+GNA11,"vision, auditory, touch",GNA11
+GNA12,vision,GNA12
+GNA14,"vision, auditory, touch",GNA14
+GNAI3,"vision, auditory",GNAI3
+GNAO1,"vision, touch",GNAO1
+GNAQ,"vision, auditory",GNAQ
+GNAT1,vision,GNAT1
+GNAT2,vision,GNAT2
+GNB1,"vision, auditory",GNB1
+GNB2,"vision, auditory",GNB2
+GNB3,vision,GNB3
+GNB5,"vision, touch",GNB5
+GNE,"vision, auditory",GNE
+GNG11,vision,GNG11
+GNG8,vision,GNG8
+GNGT1,vision,GNGT1
+GNGT2,vision,GNGT2
+GNPAT,"vision, auditory",GNPAT
+GNPTAB,"vision, auditory",GNPTAB
+GNPTG,vision,GNPTG
+GNS,"vision, auditory",GNS
+GOLGA2,vision,GOLGA2
+GOLGA4,vision,GOLGA4
+GORAB,"vision, auditory",GORAB
+GP1BA,"vision, auditory",GP1BA
+GPAA1,vision,GPAA1
+GPATCH2,vision,GPATCH2
+GPC3,"vision, auditory",GPC3
+GPC5,vision,GPC5
+GPHN,"vision, auditory",GPHN
+GPIHBP1,vision,GPIHBP1
+GPKOW,vision,GPKOW
+GPM6A,vision,GPM6A
+GPR101,"vision, touch",GPR101
+GPR142,vision,GPR142
+GPR156,"vision, auditory",GPR156
+GPR179,vision,GPR179
+GPR35,vision,GPR35
+GPR52,vision,GPR52
+GPR63,vision,GPR63
+GPR88,vision,GPR88
+GPRASP2,"vision, auditory",GPRASP2
+GPRIN1,vision,GPRIN1
+GPX4,vision,GPX4
+GRHL2,"vision, auditory",GRHL2
+GRHL3,"vision, auditory",GRHL3
+GRHPR,vision,GRHPR
+GRIA1,"vision, auditory",GRIA1
+GRIA3,"vision, touch",GRIA3
+GRIA4,"vision, auditory",GRIA4
+GRID1,"vision, auditory",GRID1
+GRID2,vision,GRID2
+GRIK2,"vision, auditory",GRIK2
+GRIN1,vision,GRIN1
+GRIN2A,"vision, touch",GRIN2A
+GRIN2B,vision,GRIN2B
+GRIN2D,vision,GRIN2D
+GRIP1,"vision, auditory",GRIP1
+GRIPAP1,vision,GRIPAP1
+GRK3,vision,GRK3
+GRM1,"vision, auditory",GRM1
+GRM6,vision,GRM6
+GRM7,"vision, auditory",GRM7
+GRN,"vision, touch",GRN
+GRXCR1,"vision, auditory",GRXCR1
+GRXCR2,"vision, auditory",GRXCR2
+GSDMC,vision,GSDMC
+GSDMD,vision,GSDMD
+GSE1,vision,GSE1
+GSK3B,vision,GSK3B
+GSN,"vision, auditory, touch",GSN
+GSS,"vision, auditory, touch",GSS
+GSX1,vision,GSX1
+GTF2E2,"vision, auditory",GTF2E2
+GTF2H5,"vision, auditory",GTF2H5
+GTF2I,"vision, auditory",GTF2I
+GTF2IRD1,"vision, auditory",GTF2IRD1
+GTF2IRD2,"vision, auditory",GTF2IRD2
+GTPBP2,vision,GTPBP2
+GTPBP3,vision,GTPBP3
+GUCA1A,"vision, auditory",GUCA1A
+GUCA1ANB-GUCA1A,"vision, auditory",
+GUCA1B,"vision, auditory",GUCA1B
+GUCA1C,vision,GUCA1C
+GUCY2F,vision,GUCY2F
+GUK1,vision,GUK1
+GUSB,"vision, auditory",GUSB
+GXYLT1,vision,GXYLT1
+GYG1,vision,GYG1
+GYS1,vision,GYS1
+GZF1,"vision, auditory",GZF1
+H1-4,vision,H1-4
+H3-3A,vision,H3-3A
+H3-5,vision,H3-5
+H4C11,vision,H4C11
+H4C3,"vision, touch",H4C3
+H4C5,"vision, auditory",H4C5
+H4C9,"vision, auditory",H4C9
+H6PD,vision,H6PD
+HABP2,"vision, auditory",HABP2
+HACD1,vision,HACD1
+HACD3,vision,HACD3
+HACE1,"vision, auditory",HACE1
+HADH,vision,HADH
+HADHA,"vision, auditory",HADHA
+HADHB,"vision, auditory",HADHB
+HAPLN3,vision,HAPLN3
+HARS1,"vision, auditory, touch",HARS1
+HARS2,"vision, auditory",HARS2
+HAVCR2,vision,HAVCR2
+HAX1,"vision, auditory, touch",HAX1
+HBA1,"vision, auditory",HBA1
+HBA2,"vision, auditory",HBA2
+HBEGF,vision,HBEGF
+HBG1,vision,HBG1
+HCCS,"vision, auditory",HCCS
+HCFC1,vision,HCFC1
+HCLS1,"vision, auditory",HCLS1
+HCN1,vision,HCN1
+HDAC8,"vision, auditory",HDAC8
+HEATR3,"vision, auditory",HEATR3
+HEATR4,vision,HEATR4
+HECTD2,vision,HECTD2
+HECTD3,vision,HECTD3
+HECTD4,"vision, auditory",HECTD4
+HECW2,"vision, touch",HECW2
+HELLS,vision,HELLS
+HELQ,vision,HELQ
+HENMT1,vision,HENMT1
+HEPACAM,"vision, auditory",HEPACAM
+HERC1,vision,HERC1
+HERC2,"vision, touch",HERC2
+HEXA,"vision, auditory",HEXA
+HEXB,"vision, auditory, touch",HEXB
+HGD,"vision, auditory",HGD
+HGSNAT,"vision, auditory",HGSNAT
+HHEX,vision,HHEX
+HIBCH,"vision, auditory",HIBCH
+HID1,vision,HID1
+HIKESHI,"vision, auditory",HIKESHI
+HINT1,"vision, auditory, touch",HINT1
+HIVEP2,vision,HIVEP2
+HIVEP3,vision,HIVEP3
+HJV,vision,HJV
+HK1,"vision, auditory, touch",HK1
+HKDC1,vision,HKDC1
+HLA-A,"vision, auditory",HLA-A
+HLA-B,"vision, auditory",HLA-B
+HLA-DPA1,"vision, auditory",HLA-DPA1
+HLA-DPB1,"vision, auditory",HLA-DPB1
+HLA-DQB1,"vision, auditory, touch",HLA-DQB1
+HLA-DRB1,"vision, auditory, touch",HLA-DRB1
+HLCS,vision,HLCS
+HLX,vision,HLX
+HMCN1,vision,HMCN1
+HMGA2,vision,HMGA2
+HMGB3,vision,HMGB3
+HMGCL,vision,HMGCL
+HMGCR,vision,HMGCR
+HMHB1,vision,HMHB1
+HMX1,"vision, auditory",HMX1
+HNF1A,"vision, auditory",HNF1A
+HNF1B,"vision, auditory",HNF1B
+HNF4A,vision,HNF4A
+HNRNPA0,vision,HNRNPA0
+HNRNPA1,vision,HNRNPA1
+HNRNPA2B1,vision,HNRNPA2B1
+HNRNPDL,vision,HNRNPDL
+HNRNPH1,vision,HNRNPH1
+HNRNPH2,vision,HNRNPH2
+HNRNPK,"vision, auditory, touch",HNRNPK
+HNRNPR,vision,HNRNPR
+HNRNPU,vision,HNRNPU
+HOGA1,vision,HOGA1
+HOXA1,"vision, auditory",HOXA1
+HOXA10,"vision, auditory",HOXA10
+HOXB1,"vision, auditory",HOXB1
+HOXC4,vision,HOXC4
+HOXC5,vision,HOXC5
+HPCA,vision,HPCA
+HPCAL1,vision,HPCAL1
+HPD,"vision, touch",HPD
+HPDL,"vision, auditory, touch",HPDL
+HPGD,"vision, auditory, touch",HPGD
+HPRT1,vision,HPRT1
+HPS1,vision,HPS1
+HPS3,vision,HPS3
+HPS4,vision,HPS4
+HPS5,vision,HPS5
+HPS6,"vision, auditory",HPS6
+HPSE,vision,HPSE
+HRG,vision,HRG
+HRH2,vision,HRH2
+HS3ST1,vision,HS3ST1
+HS3ST2,vision,HS3ST2
+HS6ST2,vision,HS6ST2
+HSD11B2,vision,HSD11B2
+HSD17B10,"vision, auditory",HSD17B10
+HSD17B3,vision,HSD17B3
+HSD17B4,"vision, auditory, touch",HSD17B4
+HSD3B2,vision,HSD3B2
+HSD3B7,"vision, auditory",HSD3B7
+HSF4,vision,HSF4
+HSPA13,vision,HSPA13
+HSPB1,"vision, auditory, touch",HSPB1
+HSPB8,"vision, auditory, touch",HSPB8
+HSPD1,"vision, auditory, touch",HSPD1
+HSPG2,"vision, auditory",HSPG2
+HTR1B,vision,HTR1B
+HTR1E,"vision, auditory",HTR1E
+HTR2A,"vision, auditory",HTR2A
+HTR4,vision,HTR4
+HTRA1,"vision, auditory, touch",HTRA1
+HUWE1,"vision, auditory",HUWE1
+HYCC1,"vision, auditory, touch",
+HYDIN,"vision, auditory",HYDIN
+HYKK,"vision, auditory",HYKK
+IARS2,"vision, auditory, touch",IARS2
+IBA57,"vision, auditory, touch",IBA57
+ICOS,vision,ICOS
+ID2,vision,ID2
+IDH1,vision,IDH1
+IDH3A,"vision, auditory",IDH3A
+IDH3B,"vision, auditory",IDH3B
+IDS,"vision, auditory",IDS
+IDUA,"vision, auditory",IDUA
+IER2,vision,IER2
+IER3IP1,vision,IER3IP1
+IFI44,vision,IFI44
+IFNG,"vision, auditory",IFNG
+IFNGR1,"vision, touch",IFNGR1
+IFNGR2,vision,IFNGR2
+IFNW1,vision,IFNW1
+IFRD1,"vision, auditory, touch",IFRD1
+IFT122,vision,IFT122
+IFT140,"vision, auditory, touch",IFT140
+IFT43,vision,IFT43
+IFT52,vision,IFT52
+IFT56,"vision, auditory",
+IFT57,vision,IFT57
+IFT80,vision,IFT80
+IFT81,vision,IFT81
+IFTAP,vision,IFTAP
+IGBP1,"vision, auditory",IGBP1
+IGF1R,"vision, auditory",IGF1R
+IGF2BP3,vision,IGF2BP3
+IGFALS,vision,IGFALS
+IGFBP7,vision,IGFBP7
+IGH,vision,IGH
+IGHG1,vision,IGHG1
+IGHM,vision,IGHM
+IGHMBP2,"vision, auditory, touch",IGHMBP2
+IGLL1,vision,IGLL1
+IGSF3,vision,IGSF3
+IGSF9B,vision,IGSF9B
+IKBKB,vision,IKBKB
+IKBKG,"vision, auditory",IKBKG
+IKZF1,vision,IKZF1
+IKZF2,vision,IKZF2
+IL10,"vision, touch",IL10
+IL11RA,"vision, auditory",IL11RA
+IL12A,"vision, touch",IL12A
+IL12B,vision,IL12B
+IL12RB1,vision,IL12RB1
+IL17F,vision,IL17F
+IL17RA,vision,IL17RA
+IL17RC,vision,IL17RC
+IL1RN,vision,IL1RN
+IL23R,"vision, touch",IL23R
+IL2RA,vision,IL2RA
+IL2RB,vision,IL2RB
+IL2RG,"vision, auditory",IL2RG
+IL36RN,vision,IL36RN
+IL6,vision,IL6
+IL6ST,vision,IL6ST
+IL7R,"vision, auditory",IL7R
+ILF3,vision,ILF3
+IMMP2L,vision,IMMP2L
+IMPDH2,"vision, auditory, touch",IMPDH2
+IMPG1,"vision, auditory",IMPG1
+IMPG2,"vision, auditory",IMPG2
+INHBA,vision,INHBA
+INO80C,vision,INO80C
+INO80E,vision,INO80E
+INPP5E,vision,INPP5E
+INPP5K,vision,INPP5K
+INSR,"vision, auditory",INSR
+INSYN1,vision,INSYN1
+INTS1,vision,INTS1
+INTS11,vision,INTS11
+INTS15,vision,INTS15
+INVS,"vision, auditory",INVS
+IPO8,"vision, auditory",IPO8
+IPO9,vision,IPO9
+IQCC,vision,IQCC
+IQCJ-SCHIP1,vision,IQCJ-SCHIP1
+IQGAP1,vision,IQGAP1
+IQGAP2,"vision, auditory",IQGAP2
+IQSEC1,vision,IQSEC1
+IQSEC2,"vision, auditory, touch",IQSEC2
+IRAG1,vision,IRAG1
+IRAK1,"vision, touch",IRAK1
+IRAK1BP1,vision,IRAK1BP1
+IRAK2,vision,IRAK2
+IREB2,vision,IREB2
+IRF2BPL,"vision, auditory, touch",IRF2BPL
+IRF4,vision,IRF4
+IRF5,vision,IRF5
+IRF8,vision,IRF8
+IRS1,vision,IRS1
+IRX3,"vision, auditory",IRX3
+IRX5,"vision, auditory",IRX5
+IRX6,vision,IRX6
+ISCA1,vision,ISCA1
+ISCA2,"vision, auditory",ISCA2
+ISCU,vision,ISCU
+ISG15,vision,ISG15
+ISG20,"vision, auditory",ISG20
+ISLR,vision,ISLR
+ITCH,vision,ITCH
+ITFG1,vision,ITFG1
+ITGA2,"vision, auditory",ITGA2
+ITGA2B,"vision, auditory",ITGA2B
+ITGA4,vision,ITGA4
+ITGA7,vision,ITGA7
+ITGA8,vision,ITGA8
+ITGAM,"vision, auditory",ITGAM
+ITGAV,vision,ITGAV
+ITGB1,"vision, auditory",ITGB1
+ITGB3,"vision, auditory",ITGB3
+ITGB6,"vision, auditory",ITGB6
+ITIH4,vision,ITIH4
+ITK,vision,ITK
+ITM2B,"vision, auditory, touch",ITM2B
+ITPA,vision,ITPA
+ITPR1,"vision, auditory, touch",ITPR1
+ITPR3,"vision, touch",ITPR3
+ITPRIPL2,vision,ITPRIPL2
+IVNS1ABP,vision,IVNS1ABP
+IZUMO3,vision,IZUMO3
+JAG2,vision,JAG2
+JAK2,"vision, auditory, touch",JAK2
+JAK3,"vision, auditory",JAK3
+JAM2,vision,JAM2
+JAM3,vision,JAM3
+JARID2,"vision, touch",JARID2
+JAZF1,vision,JAZF1
+JPH2,"vision, auditory",JPH2
+JPH3,vision,JPH3
+JRK,vision,JRK
+JRKL,vision,JRKL
+KANK1,"vision, auditory",KANK1
+KARS1,"vision, auditory, touch",KARS1
+KAT5,vision,KAT5
+KAT6A,vision,KAT6A
+KAT8,vision,KAT8
+KATNAL2,"vision, auditory",KATNAL2
+KATNIP,vision,KATNIP
+KBTBD12,vision,KBTBD12
+KBTBD13,vision,KBTBD13
+KBTBD8,vision,KBTBD8
+KCNA1,vision,KCNA1
+KCNA2,"vision, auditory",KCNA2
+KCNA4,vision,KCNA4
+KCNA5,vision,KCNA5
+KCNAB2,"vision, auditory",KCNAB2
+KCNB1,vision,KCNB1
+KCNB2,vision,KCNB2
+KCNC2,vision,KCNC2
+KCNC3,"vision, auditory, touch",KCNC3
+KCND3,"vision, touch",KCND3
+KCNE5,"vision, auditory",KCNE5
+KCNH1,"vision, auditory",KCNH1
+KCNH5,vision,KCNH5
+KCNJ1,"vision, auditory, touch",KCNJ1
+KCNJ10,"vision, auditory, touch",KCNJ10
+KCNJ11,"vision, auditory",KCNJ11
+KCNJ15,vision,KCNJ15
+KCNJ18,vision,KCNJ18
+KCNJ2,vision,KCNJ2
+KCNK15,vision,KCNK15
+KCNK18,vision,KCNK18
+KCNK2,vision,KCNK2
+KCNK4,"vision, touch",KCNK4
+KCNK9,"vision, auditory",KCNK9
+KCNMA1,"vision, auditory",KCNMA1
+KCNMB2,vision,KCNMB2
+KCNN2,"vision, touch",KCNN2
+KCNQ2,vision,KCNQ2
+KCNQ3,vision,KCNQ3
+KCNQ5,vision,KCNQ5
+KCNT1,"vision, touch",KCNT1
+KCNT2,vision,KCNT2
+KCNV1,vision,KCNV1
+KCNV2,"vision, touch",KCNV2
+KCTD17,vision,KCTD17
+KCTD7,vision,KCTD7
+KDM1A,"vision, touch",KDM1A
+KDM5A,vision,KDM5A
+KDM5B,vision,KDM5B
+KDM5C,"vision, auditory, touch",KDM5C
+KDM6B,vision,KDM6B
+KDSR,"vision, auditory",KDSR
+KERA,vision,KERA
+KIAA0319L,vision,KIAA0319L
+KIAA0513,vision,KIAA0513
+KIAA1217,vision,KIAA1217
+KIAA1549,"vision, auditory",KIAA1549
+KIAA1549L,vision,KIAA1549L
+KIDINS220,"vision, auditory",KIDINS220
+KIF11,vision,KIF11
+KIF15,"vision, auditory",KIF15
+KIF17,vision,KIF17
+KIF1B,"vision, auditory, touch",KIF1B
+KIF1C,"vision, auditory, touch",KIF1C
+KIF20B,"vision, auditory",KIF20B
+KIF22,vision,KIF22
+KIF26A,vision,KIF26A
+KIF2A,vision,KIF2A
+KIF3B,vision,KIF3B
+KIF5A,"vision, auditory, touch",KIF5A
+KIF6,vision,KIF6
+KIFBP,"vision, auditory",KIFBP
+KIFC3,vision,KIFC3
+KIRREL1,vision,KIRREL1
+KITLG,"vision, auditory",KITLG
+KIZ,"vision, auditory",KIZ
+KLC2,"vision, auditory, touch",KLC2
+KLF1,"vision, auditory",KLF1
+KLF10,vision,KLF10
+KLF11,vision,KLF11
+KLF13,vision,KLF13
+KLF8,vision,KLF8
+KLHL18,vision,KLHL18
+KLHL23,vision,KLHL23
+KLHL25,vision,KLHL25
+KLHL29,vision,KLHL29
+KLHL3,vision,KLHL3
+KLHL32,vision,KLHL32
+KLHL36,vision,KLHL36
+KLHL40,vision,KLHL40
+KLHL41,vision,KLHL41
+KLHL7,"vision, auditory",KLHL7
+KLLN,"vision, auditory",KLLN
+KLRC4,"vision, touch",KLRC4
+KMT2A,"vision, auditory",KMT2A
+KMT2B,vision,KMT2B
+KMT5B,vision,KMT5B
+KMT5C,vision,KMT5C
+KRI1,vision,KRI1
+KRIT1,"vision, auditory, touch",KRIT1
+KRT10,vision,KRT10
+KRT12,vision,KRT12
+KRT13,vision,KRT13
+KRT14,"vision, touch",KRT14
+KRT15,vision,KRT15
+KRT25,vision,KRT25
+KRT3,vision,KRT3
+KRT5,"vision, auditory, touch",KRT5
+KRT71,vision,KRT71
+KRT74,vision,KRT74
+KRTCAP3,vision,KRTCAP3
+KY,"vision, auditory",KY
+L2HGDH,"vision, auditory",L2HGDH
+L3MBTL4,vision,L3MBTL4
+LACC1,vision,LACC1
+LACRT,vision,LACRT
+LAGE3,vision,LAGE3
+LAMA1,vision,LAMA1
+LAMA2,"vision, auditory",LAMA2
+LAMA3,vision,LAMA3
+LAMA5,vision,LAMA5
+LAMB2,vision,LAMB2
+LAMB3,vision,LAMB3
+LAMC2,vision,LAMC2
+LAMC3,"vision, auditory",LAMC3
+LAMP1,vision,LAMP1
+LAMP2,"vision, auditory",LAMP2
+LANCL2,vision,LANCL2
+LARGE1,"vision, auditory",LARGE1
+LARP7,vision,LARP7
+LARS1,"vision, auditory",LARS1
+LARS2,"vision, auditory",LARS2
+LAS1L,"vision, auditory",LAS1L
+LBR,vision,LBR
+LCAT,vision,LCAT
+LCK,vision,LCK
+LCMT1,vision,LCMT1
+LCN9,vision,LCN9
+LDB2,vision,LDB2
+LDB3,"vision, auditory",LDB3
+LDHA,vision,LDHA
+LDHC,vision,LDHC
+LDLR,vision,LDLR
+LDLRAD4,vision,LDLRAD4
+LDLRAP1,vision,LDLRAP1
+LEFTY2,vision,LEFTY2
+LEMD2,vision,LEMD2
+LENG1,vision,LENG1
+LENG8,vision,LENG8
+LENG9,vision,LENG9
+LETM1,"vision, auditory",LETM1
+LGI4,vision,LGI4
+LHX1,"vision, auditory",LHX1
+LIFR,"vision, touch",LIFR
+LIG3,"vision, auditory, touch",LIG3
+LIG4,"vision, auditory",LIG4
+LIM2,vision,LIM2
+LIMK1,"vision, auditory",LIMK1
+LIN28B,vision,LIN28B
+LIN7C,vision,LIN7C
+LINGO2,vision,LINGO2
+LIPA,"vision, auditory",LIPA
+LIPC,vision,LIPC
+LIPH,vision,LIPH
+LIPN,vision,LIPN
+LITAF,"vision, auditory, touch",LITAF
+LLPH,vision,LLPH
+LMAN2,vision,LMAN2
+LMBRD1,vision,LMBRD1
+LMBRD2,vision,LMBRD2
+LMCD1,vision,LMCD1
+LMNA,"vision, auditory, touch",LMNA
+LMNB1,"vision, auditory, touch",LMNB1
+LMO1,vision,LMO1
+LMO7,"vision, auditory",LMO7
+LMOD3,vision,LMOD3
+LMX1B,"vision, auditory, touch",LMX1B
+LOC105372073,vision,
+LOC105372204,vision,
+LOC124900163,vision,
+LOC124900586,vision,
+LOC124901415,vision,
+LOC124903828,vision,
+LOC124904660,vision,
+LOC124904779,vision,
+LOC124904930,vision,
+LOC124906010,vision,
+LOC124907920,vision,
+LOC400499,vision,
+LOC728743,vision,
+LONP1,"vision, auditory",LONP1
+LOXHD1,"vision, auditory",LOXHD1
+LOXL1,vision,LOXL1
+LOXL3,"vision, auditory",LOXL3
+LPAR1,vision,LPAR1
+LPAR6,vision,LPAR6
+LPIN1,vision,LPIN1
+LPIN2,"vision, auditory",LPIN2
+LPL,vision,LPL
+LRATD2,vision,LRATD2
+LRBA,vision,LRBA
+LRIF1,vision,LRIF1
+LRIT1,vision,LRIT1
+LRIT3,vision,LRIT3
+LRMDA,vision,LRMDA
+LRP1,vision,LRP1
+LRP12,"vision, auditory",LRP12
+LRP1B,vision,LRP1B
+LRP4,"vision, auditory, touch",LRP4
+LRP8,vision,LRP8
+LRPAP1,vision,LRPAP1
+LRPPRC,vision,LRPPRC
+LRRC14,vision,LRRC14
+LRRC2,vision,LRRC2
+LRRC30,vision,LRRC30
+LRRC32,"vision, auditory",LRRC32
+LRRC37B,vision,LRRC37B
+LRRC45,vision,LRRC45
+LRRC56,"vision, auditory",LRRC56
+LRRC61,vision,LRRC61
+LRRC8A,vision,LRRC8A
+LRRC8D,vision,LRRC8D
+LRRN2,vision,LRRN2
+LRRTM4,vision,LRRTM4
+LSM14B,vision,LSM14B
+LSM7,vision,LSM7
+LSS,"vision, auditory",LSS
+LTBP2,vision,LTBP2
+LTBP4,vision,LTBP4
+LUC7L2,"vision, auditory",LUC7L2
+LUZP1,"vision, auditory",LUZP1
+LYAR,vision,LYAR
+LYN,vision,LYN
+LYRM7,"vision, auditory",LYRM7
+LYST,"vision, touch",LYST
+LYVE1,vision,LYVE1
+LYZ,vision,LYZ
+LYZL1,vision,LYZL1
+LZTS1,vision,LZTS1
+MAB21L1,vision,MAB21L1
+MAB21L2,vision,MAB21L2
+MACF1,vision,MACF1
+MACIR,vision,MACIR
+MAD1L1,vision,MAD1L1
+MAD2L2,"vision, auditory",MAD2L2
+MADD,"vision, auditory, touch",MADD
+MAF1,vision,MAF1
+MAFA,vision,MAFA
+MAFB,"vision, auditory",MAFB
+MAFF,vision,MAFF
+MAG,"vision, auditory, touch",MAG
+MAGED2,"vision, auditory",MAGED2
+MAGEF1,vision,MAGEF1
+MAGEL2,"vision, touch",MAGEL2
+MAGI2,vision,MAGI2
+MAGT1,"vision, auditory",MAGT1
+MAK,"vision, auditory",MAK
+MALRD1,vision,MALRD1
+MALT1,vision,MALT1
+MAMLD1,vision,MAMLD1
+MAN1B1,"vision, auditory",MAN1B1
+MAN2B1,"vision, auditory",MAN2B1
+MAN2C1,"vision, auditory",MAN2C1
+MANBA,"vision, auditory",MANBA
+MANF,"vision, auditory",MANF
+MAOA,vision,MAOA
+MAP1B,"vision, auditory",MAP1B
+MAP1LC3BP1,vision,MAP1LC3BP1
+MAP2K4,vision,MAP2K4
+MAP3K1,vision,MAP3K1
+MAP3K15,vision,MAP3K15
+MAP3K20,"vision, auditory",MAP3K20
+MAP3K7,"vision, auditory",MAP3K7
+MAPK1,"vision, auditory",MAPK1
+MAPK10,"vision, touch",MAPK10
+MAPK8IP3,vision,MAPK8IP3
+MAPKAPK3,vision,MAPKAPK3
+MAPKAPK5,"vision, auditory",MAPKAPK5
+MAPKBP1,vision,MAPKBP1
+MAPRE2,"vision, auditory",MAPRE2
+MARCHF1,vision,MARCHF1
+MARCHF2,vision,MARCHF2
+MARCHF6,vision,MARCHF6
+MARK3,vision,MARK3
+MARS1,"vision, auditory, touch",MARS1
+MARS2,"vision, auditory",MARS2
+MASP1,"vision, auditory",MASP1
+MAST1,vision,MAST1
+MATN1,vision,MATN1
+MATR3,"vision, touch",MATR3
+MAX,"vision, auditory",MAX
+MBD5,vision,MBD5
+MBL2,vision,MBL2
+MBOAT2,vision,MBOAT2
+MBTPS2,"vision, auditory",MBTPS2
+MC1R,vision,MC1R
+MC5R,vision,MC5R
+MCAT,vision,MCAT
+MCC,vision,MCC
+MCCC2,vision,MCCC2
+MCEE,vision,MCEE
+MCIDAS,"vision, auditory",MCIDAS
+MCM3,vision,MCM3
+MCM3AP,"vision, auditory, touch",MCM3AP
+MCM4,vision,MCM4
+MCOLN1,"vision, auditory, touch",MCOLN1
+MCPH1,"vision, touch",MCPH1
+MCTP2,"vision, auditory",MCTP2
+MDGA2,vision,MDGA2
+MDH1,vision,MDH1
+MDH2,"vision, auditory",MDH2
+ME1,vision,ME1
+ME3,vision,ME3
+MEAK7,vision,MEAK7
+MECP2,"vision, touch",MECP2
+MECR,"vision, auditory",MECR
+MED1,vision,MED1
+MED11,"vision, auditory",MED11
+MED12,"vision, auditory, touch",MED12
+MED12L,vision,MED12L
+MED13,"vision, auditory",MED13
+MED13L,"vision, auditory",MED13L
+MED17,"vision, auditory",MED17
+MED20,vision,MED20
+MED25,"vision, auditory, touch",MED25
+MED27,vision,MED27
+MED8,vision,MED8
+MEFV,"vision, touch",MEFV
+MEGF10,"vision, auditory",MEGF10
+MEGF11,vision,MEGF11
+MEGF6,vision,MEGF6
+MEGF8,"vision, auditory",MEGF8
+MEI4,vision,MEI4
+MEN1,"vision, auditory, touch",MEN1
+MESP2,vision,MESP2
+MET,"vision, auditory",MET
+METTL21C,vision,METTL21C
+METTL24,vision,METTL24
+METTL27,"vision, auditory",METTL27
+METTL4,vision,METTL4
+METTL5,vision,METTL5
+MFGE8,vision,MFGE8
+MFRP,vision,MFRP
+MFSD4B,vision,MFSD4B
+MFSD6,vision,MFSD6
+MFSD8,"vision, touch",MFSD8
+MGAT2,"vision, auditory",MGAT2
+MGLL,vision,MGLL
+MGME1,"vision, auditory",MGME1
+MGMT,vision,MGMT
+MGST2,vision,MGST2
+MIA3,"vision, auditory",MIA3
+MICALL2,vision,MICALL2
+MICOS13,"vision, auditory",MICOS13
+MICU1,"vision, auditory, touch",MICU1
+MID1,"vision, auditory",MID1
+MID2,vision,MID2
+MIDEAS,vision,MIDEAS
+MIEF1,vision,MIEF1
+MIF,"vision, auditory",MIF
+MILR1,vision,MILR1
+MINAR1,vision,MINAR1
+MINPP1,vision,MINPP1
+MIP,vision,MIP
+MITD1,vision,MITD1
+MLC1,"vision, auditory, touch",MLC1
+MLH1,"vision, auditory, touch",MLH1
+MLIP,vision,MLIP
+MLKL,vision,MLKL
+MLLT10,vision,MLLT10
+MLX,vision,MLX
+MLXIPL,"vision, auditory",MLXIPL
+MMAA,vision,MMAA
+MMAB,vision,MMAB
+MMACHC,"vision, auditory, touch",MMACHC
+MMADHC,vision,MMADHC
+MME,"vision, auditory, touch",MME
+MMP1,vision,MMP1
+MMP11,vision,MMP11
+MMP19,vision,MMP19
+MMP23B,"vision, auditory",MMP23B
+MMP28,vision,MMP28
+MMS22L,vision,MMS22L
+MMUT,vision,MMUT
+MN1,"vision, auditory",MN1
+MOCOS,vision,MOCOS
+MOCS1,vision,MOCS1
+MOCS2,vision,MOCS2
+MOG,"vision, touch",MOG
+MOGS,"vision, auditory",MOGS
+MOK,vision,MOK
+MORC2,"vision, auditory, touch",MORC2
+MOXD1,vision,MOXD1
+MPC1,vision,MPC1
+MPDU1,"vision, auditory",MPDU1
+MPDZ,"vision, auditory",MPDZ
+MPHOSPH8,vision,MPHOSPH8
+MPI,"vision, auditory",MPI
+MPL,"vision, touch",MPL
+MPLKIP,"vision, auditory, touch",MPLKIP
+MPP1,vision,MPP1
+MPP4,vision,MPP4
+MPST,vision,MPST
+MPZ,"vision, auditory, touch",MPZ
+MRAP,vision,MRAP
+MRE11,vision,MRE11
+MREG,vision,MREG
+MRGPRF,vision,MRGPRF
+MRGPRX2,vision,MRGPRX2
+MROH1,vision,MROH1
+MROH2B,vision,MROH2B
+MRPL12,"vision, auditory",MRPL12
+MRPL39,vision,MRPL39
+MRPS2,"vision, auditory",MRPS2
+MRPS22,"vision, auditory",MRPS22
+MRPS28,"vision, auditory",MRPS28
+MRPS34,vision,MRPS34
+MSH2,"vision, auditory, touch",MSH2
+MSH6,"vision, auditory, touch",MSH6
+MSI2,"vision, auditory",MSI2
+MSLN,vision,MSLN
+MSMO1,vision,MSMO1
+MSRB3,"vision, auditory",MSRB3
+MST1,vision,MST1
+MSTO1,"vision, auditory, touch",MSTO1
+MT-ATP6,"vision, auditory, touch",MT-ATP6
+MT-ATP8,"vision, auditory",MT-ATP8
+MT-CO2,"vision, auditory, touch",MT-CO2
+MT-CYB,"vision, auditory",MT-CYB
+MT-ND2,"vision, auditory",MT-ND2
+MT-ND3,"vision, auditory",MT-ND3
+MT-ND4,"vision, auditory, touch",MT-ND4
+MT-ND4L,"vision, auditory",MT-ND4L
+MT-ND5,"vision, auditory, touch",MT-ND5
+MT-ND6,"vision, auditory, touch",MT-ND6
+MTA1,vision,MTA1
+MTAP,"vision, auditory",MTAP
+MTCL1,vision,MTCL1
+MTFMT,"vision, auditory",MTFMT
+MTHFD1,"vision, auditory",MTHFD1
+MTHFR,"vision, auditory, touch",MTHFR
+MTHFS,"vision, auditory",MTHFS
+MTIF3,vision,MTIF3
+MTM1,"vision, touch",MTM1
+MTMR10,vision,MTMR10
+MTMR14,vision,MTMR14
+MTMR3,"vision, auditory",MTMR3
+MTNR1A,vision,MTNR1A
+MTNR1B,vision,MTNR1B
+MTPAP,vision,MTPAP
+MTR,"vision, auditory",MTR
+MTRFR,"vision, auditory, touch",MTRFR
+MTRR,"vision, auditory",MTRR
+MTSS2,"vision, auditory",MTSS2
+MUSK,"vision, touch",MUSK
+MUSTN1,vision,MUSTN1
+MUTYH,"vision, auditory, touch",MUTYH
+MVK,"vision, auditory",MVK
+MXD3,vision,MXD3
+MYADM,vision,MYADM
+MYBL2,vision,MYBL2
+MYBPC1,vision,MYBPC1
+MYCN,"vision, auditory",MYCN
+MYD88,"vision, auditory",MYD88
+MYF5,vision,MYF5
+MYF6,vision,MYF6
+MYH1,vision,MYH1
+MYH10,vision,MYH10
+MYH11,"vision, auditory",MYH11
+MYH2,vision,MYH2
+MYH3,"vision, auditory",MYH3
+MYH8,vision,MYH8
+MYH9,"vision, auditory",MYH9
+MYL1,vision,MYL1
+MYL11,vision,MYL11
+MYL3,"vision, auditory",MYL3
+MYL5,vision,MYL5
+MYL9,vision,MYL9
+MYMK,"vision, auditory",MYMK
+MYMX,vision,MYMX
+MYO15B,vision,MYO15B
+MYO18B,"vision, auditory",MYO18B
+MYO19,vision,MYO19
+MYO1H,"vision, auditory",MYO1H
+MYO3A,"vision, auditory",MYO3A
+MYO3B,"vision, auditory",MYO3B
+MYO5A,vision,MYO5A
+MYO6,"vision, auditory",MYO6
+MYO9A,"vision, auditory",MYO9A
+MYO9B,vision,MYO9B
+MYOD1,vision,MYOD1
+MYORG,"vision, touch",MYORG
+MYOT,"vision, auditory",MYOT
+MYPN,"vision, auditory",MYPN
+MYRF,vision,MYRF
+MYRIP,vision,MYRIP
+MYT1L,"vision, touch",MYT1L
+N4BP2,vision,N4BP2
+NAA10,"vision, auditory",NAA10
+NAA30,vision,NAA30
+NAA60,"vision, auditory, touch",NAA60
+NAA80,"vision, auditory",NAA80
+NAALADL2,"vision, auditory",NAALADL2
+NAB1,vision,NAB1
+NAB2,vision,NAB2
+NADK2,vision,NADK2
+NAGA,"vision, auditory, touch",NAGA
+NAGLU,"vision, auditory, touch",NAGLU
+NAGS,"vision, touch",NAGS
+NALCN,"vision, auditory, touch",NALCN
+NANS,vision,NANS
+NAPB,vision,NAPB
+NAPRT,vision,NAPRT
+NARS2,"vision, auditory",NARS2
+NAT10,vision,NAT10
+NAV1,vision,NAV1
+NAV2,vision,NAV2
+NAXD,"vision, auditory",NAXD
+NAXE,vision,NAXE
+NBAS,vision,NBAS
+NBEA,"vision, auditory",NBEA
+NCAPG2,"vision, auditory",NCAPG2
+NCAPH2,"vision, auditory",NCAPH2
+NCDN,vision,NCDN
+NCF1,"vision, auditory",NCF1
+NCF2,vision,NCF2
+NCF4,vision,NCF4
+NCKAP1L,vision,NCKAP1L
+NCOA1,vision,NCOA1
+NCSTN,vision,NCSTN
+NDE1,"vision, auditory",NDE1
+NDEL1,vision,NDEL1
+NDFIP2,vision,NDFIP2
+NDN,"vision, touch",NDN
+NDP,"vision, auditory, touch",NDP
+NDRG1,"vision, auditory, touch",NDRG1
+NDST1,vision,NDST1
+NDUFA1,"vision, auditory",NDUFA1
+NDUFA11,"vision, auditory",NDUFA11
+NDUFA12,vision,NDUFA12
+NDUFA13,"vision, auditory",NDUFA13
+NDUFA2,"vision, auditory",NDUFA2
+NDUFA6,"vision, auditory",NDUFA6
+NDUFA8,"vision, auditory",NDUFA8
+NDUFA9,"vision, auditory",NDUFA9
+NDUFAF1,"vision, auditory",NDUFAF1
+NDUFAF2,"vision, auditory",NDUFAF2
+NDUFAF3,"vision, auditory",NDUFAF3
+NDUFAF4,"vision, auditory",NDUFAF4
+NDUFAF5,"vision, auditory",NDUFAF5
+NDUFAF6,"vision, auditory",NDUFAF6
+NDUFAF8,"vision, auditory",NDUFAF8
+NDUFB10,"vision, auditory",NDUFB10
+NDUFB11,"vision, auditory",NDUFB11
+NDUFB3,"vision, auditory",NDUFB3
+NDUFB9,"vision, auditory",NDUFB9
+NDUFC2,vision,NDUFC2
+NDUFS1,"vision, auditory",NDUFS1
+NDUFS2,"vision, auditory",NDUFS2
+NDUFS3,"vision, auditory",NDUFS3
+NDUFS4,"vision, auditory",NDUFS4
+NDUFS5,"vision, auditory",NDUFS5
+NDUFS6,"vision, auditory",NDUFS6
+NDUFS7,"vision, auditory",NDUFS7
+NDUFS8,"vision, auditory",NDUFS8
+NDUFV1,"vision, auditory",NDUFV1
+NDUFV2,"vision, auditory",NDUFV2
+NDUFV3,"vision, auditory",NDUFV3
+NEB,vision,NEB
+NEBL,"vision, auditory",NEBL
+NECAB2,vision,NECAB2
+NECAP1,vision,NECAP1
+NECTIN1,"vision, auditory",NECTIN1
+NECTIN4,vision,NECTIN4
+NEDD4L,"vision, auditory",NEDD4L
+NEFL,"vision, auditory, touch",NEFL
+NEGR1,vision,NEGR1
+NEIL1,vision,NEIL1
+NEK1,"vision, auditory",NEK1
+NEK10,"vision, auditory",NEK10
+NEK2,"vision, auditory",NEK2
+NEK8,vision,NEK8
+NEK9,vision,NEK9
+NELFA,"vision, auditory",NELFA
+NEMP2,vision,NEMP2
+NEO1,vision,NEO1
+NEU1,"vision, auditory",NEU1
+NEUROD1,vision,NEUROD1
+NEUROD2,vision,NEUROD2
+NEUROD4,vision,NEUROD4
+NEXMIF,vision,NEXMIF
+NFATC1,vision,NFATC1
+NFATC2,"vision, auditory",NFATC2
+NFIA,vision,NFIA
+NFIB,vision,NFIB
+NFIX,"vision, auditory",NFIX
+NFKB1,vision,NFKB1
+NFKB2,vision,NFKB2
+NFKBIE,vision,NFKBIE
+NFS1,vision,NFS1
+NFU1,"vision, touch",NFU1
+NFX1,vision,NFX1
+NGLY1,"vision, auditory, touch",NGLY1
+NGRN,vision,NGRN
+NHEJ1,"vision, auditory",NHEJ1
+NHERF1,"vision, auditory",
+NHLH1,vision,NHLH1
+NHLRC1,"vision, touch",NHLRC1
+NHLRC2,vision,NHLRC2
+NHP2,"vision, auditory",NHP2
+NHS,vision,NHS
+NINJ2,vision,NINJ2
+NINL,vision,NINL
+NIPAL4,"vision, auditory",NIPAL4
+NIPBL,"vision, auditory",NIPBL
+NKAIN1,vision,NKAIN1
+NKAIN2,vision,NKAIN2
+NLRC4,"vision, auditory",NLRC4
+NLRP1,vision,NLRP1
+NLRP12,"vision, auditory",NLRP12
+NLRP3,"vision, auditory, touch",NLRP3
+NMBR,vision,NMBR
+NME5,"vision, auditory",NME5
+NME8,"vision, auditory",NME8
+NMNAT1,"vision, auditory, touch",NMNAT1
+NMNAT2,vision,NMNAT2
+NNMT,vision,NNMT
+NOD2,vision,NOD2
+NONO,"vision, auditory",NONO
+NOP10,"vision, auditory",NOP10
+NOP56,"vision, auditory",NOP56
+NOS3,vision,NOS3
+NOTCH1,vision,NOTCH1
+NOTCH2,"vision, auditory",NOTCH2
+NOTCH2NLC,"vision, auditory, touch",NOTCH2NLC
+NOVA2,vision,NOVA2
+NPAP1,"vision, touch",NPAP1
+NPAS2,vision,NPAS2
+NPC2,"vision, auditory, touch",NPC2
+NPFF,vision,NPFF
+NPHP3,"vision, auditory",NPHP3
+NPHP4,"vision, auditory",NPHP4
+NPHS1,vision,NPHS1
+NPHS2,vision,NPHS2
+NPIPA7,vision,NPIPA7
+NPIPB12,vision,NPIPB12
+NPL,vision,NPL
+NPM1,"vision, auditory",NPM1
+NPR2,vision,NPR2
+NPR3,vision,NPR3
+NPTN,vision,NPTN
+NPTX1,"vision, auditory",NPTX1
+NR1D1,vision,NR1D1
+NR2E1,vision,NR2E1
+NR2F1,"vision, auditory",NR2F1
+NR2F2,vision,NR2F2
+NR3C1,"vision, touch",NR3C1
+NR3C2,vision,NR3C2
+NRF1,"vision, auditory",NRF1
+NRG3,vision,NRG3
+NRP1,vision,NRP1
+NRXN1,vision,NRXN1
+NRXN3,"vision, auditory",NRXN3
+NSD1,"vision, auditory",NSD1
+NSD2,"vision, auditory",NSD2
+NSDHL,"vision, auditory",NSDHL
+NSL1,vision,NSL1
+NSMCE2,vision,NSMCE2
+NSUN2,"vision, auditory",NSUN2
+NSUN3,vision,NSUN3
+NT5C2,"vision, auditory",NT5C2
+NTAN1,vision,NTAN1
+NTAQ1,vision,NTAQ1
+NTF3,vision,NTF3
+NTF4,vision,NTF4
+NTM,"vision, auditory",NTM
+NTNG1,"vision, touch",NTNG1
+NTNG2,"vision, touch",NTNG2
+NUAK1,vision,NUAK1
+NUB1,vision,NUB1
+NUBP1,vision,NUBP1
+NUBPL,"vision, auditory",NUBPL
+NUFIP1,vision,NUFIP1
+NUGGC,vision,NUGGC
+NUMB,vision,NUMB
+NUP133,"vision, auditory",NUP133
+NUP50,vision,NUP50
+NUP54,vision,NUP54
+NUP62,"vision, auditory",NUP62
+NUP85,vision,NUP85
+NUS1,"vision, auditory",NUS1
+NWD2,vision,NWD2
+NXN,"vision, auditory",NXN
+NXNL1,vision,NXNL1
+NXPH1,vision,NXPH1
+NYX,vision,NYX
+OAS1,vision,OAS1
+OAT,"vision, auditory",OAT
+OBSCN,"vision, auditory",OBSCN
+OBSL1,vision,OBSL1
+OC90,vision,OC90
+OCA2,"vision, touch",OCA2
+OCEL1,vision,OCEL1
+OCLN,"vision, auditory",OCLN
+OCRL,vision,OCRL
+ODAD1,"vision, auditory",ODAD1
+ODAD2,"vision, auditory",ODAD2
+ODAD3,"vision, auditory",ODAD3
+ODAD4,"vision, auditory",ODAD4
+ODC1,"vision, auditory",ODC1
+OGDHL,"vision, auditory",OGDHL
+OGT,vision,OGT
+OLFM4,"vision, auditory",OLFM4
+OLFML3,vision,OLFML3
+OLIG1,vision,OLIG1
+OLIG3,vision,OLIG3
+OPA1,"vision, auditory",OPA1
+OPA3,"vision, auditory, touch",OPA3
+OPHN1,"vision, auditory, touch",OPHN1
+OPN1LW,vision,OPN1LW
+OPN1MW,vision,OPN1MW
+OPN1MW2,vision,OPN1MW2
+OPN1MW3,vision,OPN1MW3
+OPN1SW,vision,OPN1SW
+OPN3,vision,OPN3
+OPN4,vision,OPN4
+OPN5,vision,OPN5
+OPTC,vision,OPTC
+ORAI1,"vision, auditory",ORAI1
+ORC1,"vision, auditory",ORC1
+OSBP2,vision,OSBP2
+OSBPL8,vision,OSBPL8
+OSBPL9,vision,OSBPL9
+OSER1,vision,OSER1
+OSTM1,"vision, auditory",OSTM1
+OTOF,"vision, auditory",OTOF
+OTOP2,"vision, auditory",OTOP2
+OTUD1,"vision, auditory",OTUD1
+OTUD5,"vision, auditory",OTUD5
+OTUD7A,vision,OTUD7A
+OTULIN,vision,OTULIN
+OVOL2,vision,OVOL2
+OXA1L,"vision, auditory",OXA1L
+OXR1,vision,OXR1
+P2RX3,vision,P2RX3
+P2RY11,"vision, touch",P2RY11
+P3H1,"vision, auditory",P3H1
+P3H2,"vision, auditory",P3H2
+P4HA2,"vision, auditory, touch",P4HA2
+P4HB,"vision, auditory",P4HB
+P4HTM,vision,P4HTM
+PACS1,vision,PACS1
+PACS2,vision,PACS2
+PAFAH1B1,"vision, auditory",PAFAH1B1
+PAH,"vision, touch",PAH
+PAK1,vision,PAK1
+PAK2,vision,PAK2
+PAK3,"vision, touch",PAK3
+PALS1,vision,PALS1
+PANK1,vision,PANK1
+PANK3,vision,PANK3
+PANK4,vision,PANK4
+PAQR8,vision,PAQR8
+PARN,"vision, auditory",PARN
+PARP10,vision,PARP10
+PARS2,"vision, auditory",PARS2
+PARVA,"vision, auditory",PARVA
+PATJ,vision,PATJ
+PAX1,"vision, auditory",PAX1
+PAX4,vision,PAX4
+PAX7,"vision, auditory",PAX7
+PBX1,"vision, auditory",PBX1
+PC,"vision, auditory",PC
+PCARE,"vision, auditory",PCARE
+PCBD1,vision,PCBD1
+PCBP2,vision,PCBP2
+PCCA,vision,PCCA
+PCCB,vision,PCCB
+PCDH1,vision,PCDH1
+PCDH12,vision,PCDH12
+PCDH15,"vision, auditory",PCDH15
+PCDH19,"vision, touch",PCDH19
+PCDH7,vision,PCDH7
+PCDH8,vision,PCDH8
+PCDHGC4,vision,PCDHGC4
+PCED1B,vision,PCED1B
+PCK1,vision,PCK1
+PCLO,"vision, auditory",PCLO
+PCNA,"vision, auditory",PCNA
+PCSK9,vision,PCSK9
+PCYT1A,"vision, auditory, touch",PCYT1A
+PCYT2,"vision, auditory",PCYT2
+PDC,vision,PDC
+PDCD1,vision,PDCD1
+PDCD10,"vision, auditory, touch",PDCD10
+PDCD6,"vision, auditory",PDCD6
+PDCD6IP,vision,PDCD6IP
+PDCL,vision,PDCL
+PDE11A,"vision, touch",PDE11A
+PDE1A,vision,PDE1A
+PDE2A,vision,PDE2A
+PDE4B,vision,PDE4B
+PDE4D,"vision, auditory",PDE4D
+PDE6A,"vision, auditory",PDE6A
+PDE6C,vision,PDE6C
+PDE6G,"vision, auditory",PDE6G
+PDE6H,vision,PDE6H
+PDE8A,vision,PDE8A
+PDGFRB,"vision, auditory, touch",PDGFRB
+PDHX,"vision, auditory",PDHX
+PDLIM3,"vision, auditory",PDLIM3
+PDLIM5,vision,PDLIM5
+PDP1,vision,PDP1
+PDPN,"vision, auditory",PDPN
+PDS5A,vision,PDS5A
+PDSS1,"vision, auditory",PDSS1
+PDSS2,"vision, auditory",PDSS2
+PDX1,"vision, auditory",PDX1
+PDXDC1,vision,PDXDC1
+PDXK,"vision, auditory, touch",PDXK
+PDZD2,"vision, auditory",PDZD2
+PDZD7,"vision, auditory",PDZD7
+PDZD8,vision,PDZD8
+PEG3,vision,PEG3
+PELI1,vision,PELI1
+PEPD,"vision, auditory",PEPD
+PER1,vision,PER1
+PER2,vision,PER2
+PERCC1,vision,PERCC1
+PET100,"vision, auditory",PET100
+PEX10,"vision, auditory, touch",PEX10
+PEX11B,"vision, auditory",PEX11B
+PEX12,"vision, auditory",PEX12
+PEX13,"vision, auditory",PEX13
+PEX14,"vision, auditory",PEX14
+PEX16,"vision, auditory, touch",PEX16
+PEX19,"vision, auditory",PEX19
+PEX2,"vision, auditory",PEX2
+PEX26,"vision, auditory",PEX26
+PEX3,"vision, auditory",PEX3
+PEX5,"vision, auditory",PEX5
+PEX6,"vision, auditory, touch",PEX6
+PFAS,vision,PFAS
+PFKFB3,vision,PFKFB3
+PFKM,vision,PFKM
+PGAM2,vision,PGAM2
+PGAP2,"vision, auditory",PGAP2
+PGK1,vision,PGK1
+PGM1,"vision, auditory",PGM1
+PGM2L1,vision,PGM2L1
+PGM3,"vision, auditory, touch",PGM3
+PGRMC1,vision,PGRMC1
+PHACTR1,vision,PHACTR1
+PHACTR4,vision,PHACTR4
+PHC2,vision,PHC2
+PHF21A,vision,PHF21A
+PHF3,"vision, auditory",PHF3
+PHF6,"vision, auditory",PHF6
+PHF8,vision,PHF8
+PHGDH,vision,PHGDH
+PHIP,vision,PHIP
+PHKA1,vision,PHKA1
+PHKA2,"vision, auditory",PHKA2
+PHKB,"vision, auditory",PHKB
+PHKG2,"vision, auditory",PHKG2
+PHOX2B,"vision, auditory",PHOX2B
+PI4KA,"vision, auditory, touch",PI4KA
+PIBF1,vision,PIBF1
+PIDD1,"vision, touch",PIDD1
+PIEZO2,"vision, auditory, touch",PIEZO2
+PIGB,"vision, auditory",PIGB
+PIGG,"vision, auditory",PIGG
+PIGL,"vision, auditory",PIGL
+PIGM,"vision, auditory",PIGM
+PIGO,"vision, auditory",PIGO
+PIGP,vision,PIGP
+PIGQ,vision,PIGQ
+PIGS,"vision, auditory",PIGS
+PIGT,"vision, auditory",PIGT
+PIGU,vision,PIGU
+PIGV,"vision, auditory",PIGV
+PIGW,"vision, auditory",PIGW
+PIGY,vision,PIGY
+PIK3C2A,"vision, auditory",PIK3C2A
+PIK3C2G,vision,PIK3C2G
+PIK3CB,vision,PIK3CB
+PIK3CD,"vision, auditory, touch",PIK3CD
+PIK3R1,"vision, auditory",PIK3R1
+PIK3R2,"vision, auditory",PIK3R2
+PIK3R5,"vision, touch",PIK3R5
+PIKFYVE,vision,PIKFYVE
+PIP5K1A,vision,PIP5K1A
+PISD,"vision, auditory",PISD
+PITPNM1,vision,PITPNM1
+PITPNM2,vision,PITPNM2
+PITPNM3,vision,PITPNM3
+PITX3,vision,PITX3
+PIWIL4,vision,PIWIL4
+PKD1,vision,PKD1
+PKD2,vision,PKD2
+PKHD1,"vision, auditory",PKHD1
+PLA2G4A,vision,PLA2G4A
+PLA2G5,"vision, auditory",PLA2G5
+PLAA,"vision, auditory",PLAA
+PLCB1,vision,PLCB1
+PLCB4,"vision, auditory",PLCB4
+PLCD1,vision,PLCD1
+PLCG2,vision,PLCG2
+PLCL1,vision,PLCL1
+PLD3,"vision, auditory, touch",PLD3
+PLD5,vision,PLD5
+PLEC,"vision, touch",PLEC
+PLEKHA1,vision,PLEKHA1
+PLEKHG2,vision,PLEKHG2
+PLEKHG5,"vision, auditory, touch",PLEKHG5
+PLEKHM1,"vision, auditory",PLEKHM1
+PLG,"vision, touch",PLG
+PLIN1,"vision, auditory",PLIN1
+PLK4,vision,PLK4
+PLOD1,"vision, auditory, touch",PLOD1
+PLOD2,"vision, auditory",PLOD2
+PLOD3,"vision, auditory",PLOD3
+PLP1,"vision, auditory, touch",PLP1
+PLPBP,vision,PLPBP
+PLPP4,vision,PLPP4
+PML,vision,PML
+PMM2,"vision, auditory",PMM2
+PMP22,"vision, auditory, touch",PMP22
+PMPCA,vision,PMPCA
+PMPCB,"vision, auditory",PMPCB
+PMS1,"vision, touch",PMS1
+PMS2,"vision, auditory, touch",PMS2
+PNKD,vision,PNKD
+PNKP,"vision, auditory, touch",PNKP
+PNMA1,vision,PNMA1
+PNN,vision,PNN
+PNP,"vision, auditory",PNP
+PNPLA1,"vision, auditory",PNPLA1
+PNPLA2,"vision, auditory",PNPLA2
+PNPO,vision,PNPO
+PNPT1,"vision, auditory, touch",PNPT1
+POC1B,vision,POC1B
+POC5,vision,POC5
+POGLUT1,"vision, auditory",POGLUT1
+POGZ,"vision, auditory",POGZ
+POLA1,"vision, auditory",POLA1
+POLD1,"vision, auditory, touch",POLD1
+POLE,"vision, touch",POLE
+POLG2,"vision, auditory, touch",POLG2
+POLGARF,"vision, touch",POLGARF
+POLH,vision,POLH
+POLQ,vision,POLQ
+POLR1A,"vision, auditory",POLR1A
+POLR1B,"vision, auditory",POLR1B
+POLR1C,"vision, auditory",POLR1C
+POLR2A,vision,POLR2A
+POLR2G,vision,POLR2G
+POLR3GL,"vision, auditory",POLR3GL
+POLR3K,vision,POLR3K
+POLRMT,"vision, auditory",POLRMT
+POMGNT1,"vision, auditory, touch",POMGNT1
+POMGNT2,"vision, auditory",POMGNT2
+POMK,"vision, auditory",POMK
+POMT1,"vision, auditory, touch",POMT1
+POMT2,"vision, auditory",POMT2
+PON1,vision,PON1
+POPDC1,vision,
+POPDC3,vision,POPDC3
+POR,"vision, auditory",POR
+PORCN,"vision, auditory",PORCN
+POT1,vision,POT1
+POU3F4,"vision, auditory",POU3F4
+POU4F1,"vision, touch",POU4F1
+POU4F2,vision,POU4F2
+POU4F3,"vision, auditory",POU4F3
+PPA2,vision,PPA2
+PPAN,vision,PPAN
+PPEF1,vision,PPEF1
+PPEF2,vision,PPEF2
+PPFIBP1,"vision, auditory",PPFIBP1
+PPIB,"vision, auditory",PPIB
+PPM1D,"vision, auditory",PPM1D
+PPM1E,vision,PPM1E
+PPM1K,vision,PPM1K
+PPM1L,vision,PPM1L
+PPM1M,vision,PPM1M
+PPOX,"vision, touch",PPOX
+PPP1R12C,vision,PPP1R12C
+PPP1R1A,vision,PPP1R1A
+PPP1R21,vision,PPP1R21
+PPP1R26,vision,PPP1R26
+PPP1R3A,vision,PPP1R3A
+PPP2CA,vision,PPP2CA
+PPP2R1A,vision,PPP2R1A
+PPP2R2B,vision,PPP2R2B
+PPP2R3C,"vision, auditory",PPP2R3C
+PPP2R5E,vision,PPP2R5E
+PPP3CA,vision,PPP3CA
+PPP4C,vision,PPP4C
+PPP6R2,vision,PPP6R2
+PPP6R3,vision,PPP6R3
+PPT1,"vision, touch",PPT1
+PQBP1,"vision, auditory",PQBP1
+PRCD,"vision, auditory",PRCD
+PRDM10,vision,PRDM10
+PRDM13,vision,PRDM13
+PRDM16,"vision, auditory",PRDM16
+PRDM5,"vision, auditory",PRDM5
+PRDM7,vision,PRDM7
+PRDM8,"vision, touch",PRDM8
+PRDX1,vision,PRDX1
+PRDX3,"vision, touch",PRDX3
+PRELID1,vision,PRELID1
+PREPL,"vision, touch",PREPL
+PRF1,"vision, auditory",PRF1
+PRICKLE1,vision,PRICKLE1
+PRICKLE3,vision,PRICKLE3
+PRIMPOL,vision,PRIMPOL
+PRKAG2,"vision, auditory",PRKAG2
+PRKAR1A,"vision, auditory, touch",PRKAR1A
+PRKAR1B,vision,PRKAR1B
+PRKCB,vision,PRKCB
+PRKCD,vision,PRKCD
+PRKCG,"vision, touch",PRKCG
+PRKCH,vision,PRKCH
+PRKCQ,vision,PRKCQ
+PRKCZ,"vision, auditory",PRKCZ
+PRKD1,"vision, auditory",PRKD1
+PRKDC,"vision, auditory",PRKDC
+PRKG1,"vision, auditory",PRKG1
+PRKRA,vision,PRKRA
+PRMT7,"vision, auditory",PRMT7
+PROC,vision,PROC
+PROM1,"vision, auditory",PROM1
+PRORP,"vision, auditory, touch",PRORP
+PROS1,vision,PROS1
+PROX1,vision,PROX1
+PRPF3,"vision, auditory",PRPF3
+PRPF38B,vision,PRPF38B
+PRPF4,"vision, auditory",PRPF4
+PRPF40A,vision,PRPF40A
+PRPF6,"vision, auditory",PRPF6
+PRPF8,"vision, auditory",PRPF8
+PRPH,vision,PRPH
+PRPS1,"vision, auditory, touch",PRPS1
+PRR12,"vision, auditory",PRR12
+PRR14,vision,PRR14
+PRR5,vision,PRR5
+PRR5-ARHGAP8,vision,PRR5-ARHGAP8
+PRRT2,"vision, auditory, touch",PRRT2
+PRRX1,"vision, auditory",PRRX1
+PRRX2,vision,PRRX2
+PRSS12,vision,PRSS12
+PRSS23,"vision, auditory",PRSS23
+PRSS50,vision,PRSS50
+PRSS56,vision,PRSS56
+PRTN3,"vision, auditory",PRTN3
+PRUNE1,"vision, auditory",PRUNE1
+PRX,"vision, auditory, touch",PRX
+PRXL2A,vision,PRXL2A
+PSAT1,vision,PSAT1
+PSD3,vision,PSD3
+PSEN2,"vision, auditory",PSEN2
+PSENEN,vision,PSENEN
+PSMB4,vision,PSMB4
+PSMB8,"vision, auditory",PSMB8
+PSMC3,"vision, auditory",PSMC3
+PSMD12,"vision, auditory",PSMD12
+PSMG4,vision,PSMG4
+PSRC1,vision,PSRC1
+PSTPIP1,vision,PSTPIP1
+PTCD3,"vision, auditory",PTCD3
+PTCHD1,vision,PTCHD1
+PTF1A,vision,PTF1A
+PTGES,vision,PTGES
+PTGIR,vision,PTGIR
+PTK2,"vision, auditory",PTK2
+PTK7,vision,PTK7
+PTPN2,vision,PTPN2
+PTPN22,"vision, auditory, touch",PTPN22
+PTPN23,"vision, auditory",PTPN23
+PTPRJ,vision,PTPRJ
+PTPRM,vision,PTPRM
+PTPRT,vision,PTPRT
+PTRH2,"vision, auditory",PTRH2
+PUM1,vision,PUM1
+PURA,"vision, auditory, touch",PURA
+PUS1,"vision, auditory",PUS1
+PUS3,"vision, auditory, touch",PUS3
+PUS7,"vision, auditory",PUS7
+PXDC1,vision,PXDC1
+PXDN,vision,PXDN
+PXDNL,vision,PXDNL
+PXK,vision,PXK
+PYCR1,"vision, auditory",PYCR1
+PYCR2,"vision, auditory",PYCR2
+PYGM,vision,PYGM
+PYROXD1,vision,PYROXD1
+QDPR,vision,QDPR
+QRICH1,"vision, touch",QRICH1
+RAB11B,vision,RAB11B
+RAB18,"vision, auditory",RAB18
+RAB19,vision,RAB19
+RAB24,vision,RAB24
+RAB27A,vision,RAB27A
+RAB28,vision,RAB28
+RAB33A,"vision, auditory",RAB33A
+RAB3GAP1,"vision, auditory",RAB3GAP1
+RAB3GAP2,"vision, auditory",RAB3GAP2
+RAB3IP,vision,RAB3IP
+RAB40AL,"vision, auditory",RAB40AL
+RABGEF1,vision,RABGEF1
+RAC1,"vision, auditory",RAC1
+RAD18,vision,RAD18
+RAD21L1,vision,RAD21L1
+RAD50,vision,RAD50
+RAD51,"vision, auditory",RAD51
+RAD51B,vision,RAD51B
+RAD51C,"vision, auditory",RAD51C
+RAG1,"vision, auditory",RAG1
+RAG2,"vision, auditory",RAG2
+RAI1,"vision, auditory, touch",RAI1
+RAI2,vision,RAI2
+RALA,vision,RALA
+RALGAPA1,"vision, auditory",RALGAPA1
+RALGAPB,vision,RALGAPB
+RANBP2,vision,RANBP2
+RAP1B,vision,RAP1B
+RAP1GAP2,"vision, auditory",RAP1GAP2
+RAPGEF5,vision,RAPGEF5
+RAPSN,"vision, touch",RAPSN
+RARB,vision,RARB
+RARRES2,vision,RARRES2
+RARS1,"vision, auditory",RARS1
+RARS2,"vision, auditory",RARS2
+RASGEF1A,vision,RASGEF1A
+RASGRP1,vision,RASGRP1
+RASSF8,vision,RASSF8
+RAVER1,vision,RAVER1
+RAX,vision,RAX
+RAX2,vision,RAX2
+RB1,vision,RB1
+RBBP4,vision,RBBP4
+RBBP6,vision,RBBP6
+RBBP8,vision,RBBP8
+RBBP8NL,vision,RBBP8NL
+RBCK1,vision,RBCK1
+RBFOX1,"vision, auditory",RBFOX1
+RBFOX3,vision,RBFOX3
+RBL2,vision,RBL2
+RBM10,"vision, auditory",RBM10
+RBM11,vision,RBM11
+RBM47,vision,RBM47
+RBM48,"vision, auditory",RBM48
+RBM8A,"vision, auditory",RBM8A
+RBMS2,vision,RBMS2
+RBMX,"vision, auditory",RBMX
+RBP1,vision,RBP1
+RBP2,vision,RBP2
+RBP3,"vision, auditory",RBP3
+RBP4,vision,RBP4
+RBPJ,vision,RBPJ
+RC3H1,vision,RC3H1
+RCAN2,vision,RCAN2
+RCBTB1,"vision, auditory",RCBTB1
+RCN1,vision,RCN1
+RCSD1,vision,RCSD1
+RCVRN,vision,RCVRN
+RDH11,"vision, auditory",RDH11
+RDH5,"vision, auditory",RDH5
+RDX,"vision, auditory",RDX
+REC114,vision,REC114
+RECQL,vision,RECQL
+RECQL4,"vision, auditory",RECQL4
+RECQL5,vision,RECQL5
+REEP6,"vision, auditory",REEP6
+REPIN1,vision,REPIN1
+REPS1,"vision, auditory",REPS1
+REST,"vision, auditory",REST
+RET,"vision, auditory",RET
+RFC2,"vision, auditory",RFC2
+RFT1,"vision, auditory",RFT1
+RFWD3,"vision, auditory",RFWD3
+RFX3,"vision, auditory",RFX3
+RFX5,vision,RFX5
+RFX6,vision,RFX6
+RFX7,"vision, touch",RFX7
+RFXANK,vision,RFXANK
+RFXAP,vision,RFXAP
+RGMA,vision,RGMA
+RGR,"vision, auditory",RGR
+RGS10,vision,RGS10
+RGS11,vision,RGS11
+RGS14,vision,RGS14
+RGS16,vision,RGS16
+RGS6,vision,RGS6
+RGS9,vision,RGS9
+RGS9BP,vision,RGS9BP
+RGSL1,vision,RGSL1
+RHOA,vision,RHOA
+RHOG,vision,RHOG
+RHOH,vision,RHOH
+RHOJ,vision,RHOJ
+RIBC1,vision,RIBC1
+RIBC2,vision,RIBC2
+RIC1,"vision, auditory",RIC1
+RIGI,vision,
+RILP,vision,RILP
+RILPL1,"vision, auditory",RILPL1
+RIMS1,vision,RIMS1
+RIMS2,vision,RIMS2
+RIN2,vision,RIN2
+RIPK4,vision,RIPK4
+RIPOR2,"vision, auditory, touch",RIPOR2
+RIPPLY2,vision,RIPPLY2
+RIT1,"vision, auditory",RIT1
+RLBP1,"vision, auditory",RLBP1
+RMI1,vision,RMI1
+RNASEH1,"vision, auditory, touch",RNASEH1
+RNASET2,"vision, auditory",RNASET2
+RNF113A,"vision, auditory",RNF113A
+RNF113B,vision,RNF113B
+RNF125,vision,RNF125
+RNF13,"vision, auditory",RNF13
+RNF135,"vision, auditory",RNF135
+RNF14,vision,RNF14
+RNF141,vision,RNF141
+RNF146,vision,RNF146
+RNF170,"vision, auditory, touch",RNF170
+RNF2,vision,RNF2
+RNF222,vision,RNF222
+RNF24,vision,RNF24
+RNF38,vision,RNF38
+RNF40,vision,RNF40
+RNH1,vision,RNH1
+RNLS,vision,RNLS
+ROBO1,"vision, auditory",ROBO1
+ROGDI,vision,ROGDI
+ROM1,"vision, auditory",ROM1
+ROR2,"vision, auditory",ROR2
+RORA,vision,RORA
+RORB,vision,RORB
+RORC,vision,RORC
+RP1,"vision, auditory",RP1
+RP1L1,"vision, auditory",RP1L1
+RP2,"vision, auditory",RP2
+RP9,"vision, auditory",RP9
+RPIA,vision,RPIA
+RPL10,"vision, auditory",RPL10
+RPL11,"vision, auditory",RPL11
+RPL15,"vision, auditory",RPL15
+RPL18,"vision, auditory",RPL18
+RPL26,"vision, auditory",RPL26
+RPL27,"vision, auditory",RPL27
+RPL3,"vision, auditory",RPL3
+RPL31,"vision, auditory",RPL31
+RPL35,"vision, auditory",RPL35
+RPL35A,"vision, auditory",RPL35A
+RPL36AL,vision,RPL36AL
+RPL5,"vision, auditory",RPL5
+RPL8,"vision, auditory",RPL8
+RPL9,"vision, auditory",RPL9
+RPP25,vision,RPP25
+RPS10,"vision, auditory",RPS10
+RPS15A,"vision, auditory",RPS15A
+RPS17,"vision, auditory",RPS17
+RPS19,"vision, auditory",RPS19
+RPS20,"vision, auditory, touch",RPS20
+RPS21,vision,RPS21
+RPS24,"vision, auditory",RPS24
+RPS26,"vision, auditory",RPS26
+RPS27,"vision, auditory",RPS27
+RPS28,"vision, auditory",RPS28
+RPS29,"vision, auditory",RPS29
+RPS3A,vision,RPS3A
+RPS6KA3,"vision, auditory, touch",RPS6KA3
+RPS6KA5,vision,RPS6KA5
+RPS7,"vision, auditory",RPS7
+RPUSD3,vision,RPUSD3
+RRAGA,vision,RRAGA
+RRH,vision,RRH
+RRM1,"vision, auditory",RRM1
+RRM2,vision,RRM2
+RRM2B,"vision, auditory, touch",RRM2B
+RRN3,vision,RRN3
+RS1,"vision, auditory",RS1
+RSL1D1,vision,RSL1D1
+RSPH1,"vision, auditory",RSPH1
+RSPH10B2,vision,RSPH10B2
+RSPH3,"vision, auditory",RSPH3
+RSPH4A,"vision, auditory",RSPH4A
+RSPO1,vision,RSPO1
+RSPO3,vision,RSPO3
+RSPRY1,vision,RSPRY1
+RSRC2,vision,RSRC2
+RTBDN,vision,RTBDN
+RTEL1,"vision, auditory",RTEL1
+RTL1,vision,RTL1
+RTL6,vision,RTL6
+RTN3,vision,RTN3
+RTN4IP1,"vision, auditory",RTN4IP1
+RUBCN,vision,RUBCN
+RUNX1,vision,RUNX1
+RUNX1T1,vision,RUNX1T1
+RXFP1,vision,RXFP1
+RXYLT1,"vision, auditory",RXYLT1
+RYR1,"vision, touch",RYR1
+S100PBP,"vision, auditory",S100PBP
+SAA2,vision,SAA2
+SAA2-SAA4,vision,SAA2-SAA4
+SAA4,vision,SAA4
+SAG,"vision, auditory",SAG
+SALL1,"vision, auditory",SALL1
+SALL2,vision,SALL2
+SALL4,"vision, auditory",SALL4
+SAMD11,vision,SAMD11
+SAMD12,"vision, auditory, touch",SAMD12
+SAMD4A,vision,SAMD4A
+SAMD7,vision,SAMD7
+SAMD9,"vision, auditory",SAMD9
+SAMD9L,"vision, touch",SAMD9L
+SARDH,"vision, auditory",SARDH
+SARS2,vision,SARS2
+SART3,vision,SART3
+SATB1,vision,SATB1
+SBDS,"vision, auditory",SBDS
+SBF1,"vision, auditory, touch",SBF1
+SBF2,"vision, auditory, touch",SBF2
+SC5D,"vision, auditory",SC5D
+SCAF4,vision,SCAF4
+SCAMP2,vision,SCAMP2
+SCAMP5,vision,SCAMP5
+SCARA5,vision,SCARA5
+SCARB2,vision,SCARB2
+SCGN,vision,SCGN
+SCHIP1,vision,SCHIP1
+SCML4,vision,SCML4
+SCN1A,"vision, auditory, touch",SCN1A
+SCN1B,vision,SCN1B
+SCN2A,vision,SCN2A
+SCN3A,vision,SCN3A
+SCN4A,vision,SCN4A
+SCN8A,vision,SCN8A
+SCNM1,"vision, auditory",SCNM1
+SCNN1A,vision,SCNN1A
+SCNN1B,vision,SCNN1B
+SCNN1G,vision,SCNN1G
+SCTR,vision,SCTR
+SCUBE3,vision,SCUBE3
+SCYL1,"vision, touch",SCYL1
+SDHA,"vision, auditory, touch",SDHA
+SDHAF1,"vision, auditory",SDHAF1
+SDHAF2,"vision, auditory",SDHAF2
+SDHB,"vision, auditory",SDHB
+SDHC,"vision, auditory",SDHC
+SDHD,"vision, auditory",SDHD
+SDK1,vision,SDK1
+SDK2,vision,SDK2
+SDR9C7,"vision, auditory",SDR9C7
+SEC13,vision,SEC13
+SEC16B,vision,SEC16B
+SEC23A,"vision, auditory",SEC23A
+SEC23B,"vision, auditory",SEC23B
+SEC24D,"vision, auditory",SEC24D
+SEC61G,vision,SEC61G
+SECISBP2,vision,SECISBP2
+SECTM1,vision,SECTM1
+SEL1L3,vision,SEL1L3
+SELENBP1,vision,SELENBP1
+SELENOI,"vision, auditory",SELENOI
+SELENON,vision,SELENON
+SELP,vision,SELP
+SEMA4A,"vision, auditory, touch",SEMA4A
+SEMA4D,vision,SEMA4D
+SENP2,vision,SENP2
+SENP3,vision,SENP3
+SEPHS1,vision,SEPHS1
+SEPHS2,vision,SEPHS2
+SEPTIN1,vision,SEPTIN1
+SEPTIN10,vision,SEPTIN10
+SEPTIN2,vision,SEPTIN2
+SEPTIN5,vision,SEPTIN5
+SEPTIN9,"vision, auditory, touch",SEPTIN9
+SERAC1,"vision, auditory",SERAC1
+SERPINC1,vision,SERPINC1
+SERPINF1,"vision, auditory",SERPINF1
+SERPINI1,"vision, touch",SERPINI1
+SET,vision,SET
+SETBP1,"vision, auditory, touch",SETBP1
+SETD1A,"vision, auditory",SETD1A
+SETD1B,vision,SETD1B
+SETD2,"vision, auditory",SETD2
+SETD3,vision,SETD3
+SETD5,vision,SETD5
+SETDB1,vision,SETDB1
+SETX,"vision, auditory, touch",SETX
+SF3B1,vision,SF3B1
+SF3B2,"vision, auditory",SF3B2
+SFRP1,vision,SFRP1
+SFRP2,vision,SFRP2
+SFRP5,vision,SFRP5
+SFXN4,vision,SFXN4
+SGCA,vision,SGCA
+SGCB,vision,SGCB
+SGCD,"vision, auditory",SGCD
+SGCE,vision,SGCE
+SGCG,vision,SGCG
+SGCZ,"vision, auditory",SGCZ
+SGK1,vision,SGK1
+SGPL1,"vision, auditory",SGPL1
+SGSH,"vision, auditory",SGSH
+SH2B1,"vision, auditory",SH2B1
+SH2B3,"vision, touch",SH2B3
+SH2D1A,vision,SH2D1A
+SH2D4A,vision,SH2D4A
+SH2D4B,vision,SH2D4B
+SH3BGRL2,vision,SH3BGRL2
+SH3BP2,vision,SH3BP2
+SH3BP4,vision,SH3BP4
+SH3PXD2B,vision,SH3PXD2B
+SH3RF3,vision,SH3RF3
+SH3TC2,"vision, auditory, touch",SH3TC2
+SHANK3,"vision, auditory, touch",SHANK3
+SHARPIN,vision,SHARPIN
+SHF,vision,SHF
+SHISA9,vision,SHISA9
+SHISAL1,vision,SHISAL1
+SHMT2,vision,SHMT2
+SHROOM2,vision,SHROOM2
+SHROOM4,vision,SHROOM4
+SIAH1,vision,SIAH1
+SIAH2,vision,SIAH2
+SIGMAR1,"vision, auditory",SIGMAR1
+SIK1,"vision, auditory",SIK1
+SIK3,vision,SIK3
+SIL1,"vision, auditory",SIL1
+SIM1,"vision, touch",SIM1
+SIN3A,"vision, auditory",SIN3A
+SIPA1L1,vision,SIPA1L1
+SIPA1L2,vision,SIPA1L2
+SIPA1L3,vision,SIPA1L3
+SIRT4,vision,SIRT4
+SIX5,"vision, auditory",SIX5
+SKI,"vision, auditory",SKI
+SKIC2,"vision, auditory",SKIC2
+SKIC3,vision,SKIC3
+SLA,vision,SLA
+SLC12A1,"vision, auditory, touch",SLC12A1
+SLC12A2,"vision, auditory",SLC12A2
+SLC12A3,"vision, auditory, touch",SLC12A3
+SLC12A5,vision,SLC12A5
+SLC12A6,"vision, auditory, touch",SLC12A6
+SLC13A5,vision,SLC13A5
+SLC14A2,vision,SLC14A2
+SLC15A2,"vision, auditory",SLC15A2
+SLC16A10,vision,SLC16A10
+SLC16A12,vision,SLC16A12
+SLC16A2,"vision, auditory",SLC16A2
+SLC16A3,vision,SLC16A3
+SLC16A8,"vision, auditory",SLC16A8
+SLC17A3,vision,SLC17A3
+SLC17A5,"vision, auditory",SLC17A5
+SLC17A6,vision,SLC17A6
+SLC17A7,vision,SLC17A7
+SLC18A3,"vision, auditory",SLC18A3
+SLC19A1,vision,SLC19A1
+SLC19A2,"vision, auditory, touch",SLC19A2
+SLC19A3,"vision, auditory",SLC19A3
+SLC1A2,vision,SLC1A2
+SLC1A3,"vision, auditory",SLC1A3
+SLC1A7,vision,SLC1A7
+SLC22A1,vision,SLC22A1
+SLC22A12,vision,SLC22A12
+SLC22A23,vision,SLC22A23
+SLC22A5,"vision, touch",SLC22A5
+SLC24A1,vision,SLC24A1
+SLC24A2,vision,SLC24A2
+SLC24A3,vision,SLC24A3
+SLC24A5,vision,SLC24A5
+SLC25A1,"vision, auditory",SLC25A1
+SLC25A10,"vision, auditory",SLC25A10
+SLC25A11,"vision, auditory",SLC25A11
+SLC25A13,"vision, auditory, touch",SLC25A13
+SLC25A15,"vision, auditory, touch",SLC25A15
+SLC25A19,"vision, auditory, touch",SLC25A19
+SLC25A20,vision,SLC25A20
+SLC25A22,vision,SLC25A22
+SLC25A24,"vision, auditory",SLC25A24
+SLC25A32,"vision, auditory",SLC25A32
+SLC25A4,"vision, auditory, touch",SLC25A4
+SLC25A42,"vision, auditory",SLC25A42
+SLC25A46,"vision, auditory, touch",SLC25A46
+SLC26A1,vision,SLC26A1
+SLC26A11,"vision, auditory",SLC26A11
+SLC26A6,vision,SLC26A6
+SLC27A4,vision,SLC27A4
+SLC28A1,vision,SLC28A1
+SLC28A3,vision,SLC28A3
+SLC2A1,"vision, touch",SLC2A1
+SLC2A10,"vision, auditory",SLC2A10
+SLC2A12,vision,SLC2A12
+SLC2A2,vision,SLC2A2
+SLC2A9,vision,SLC2A9
+SLC30A10,vision,SLC30A10
+SLC30A5,vision,SLC30A5
+SLC30A7,vision,SLC30A7
+SLC30A9,"vision, auditory",SLC30A9
+SLC32A1,vision,SLC32A1
+SLC33A1,"vision, auditory, touch",SLC33A1
+SLC34A1,"vision, auditory",SLC34A1
+SLC34A3,"vision, auditory",SLC34A3
+SLC35A1,"vision, auditory",SLC35A1
+SLC35A2,"vision, auditory",SLC35A2
+SLC35A3,"vision, auditory",SLC35A3
+SLC35B2,vision,SLC35B2
+SLC35C1,"vision, auditory",SLC35C1
+SLC35D1,"vision, auditory",SLC35D1
+SLC35G3,vision,SLC35G3
+SLC36A2,"vision, auditory",SLC36A2
+SLC37A4,"vision, auditory",SLC37A4
+SLC38A3,vision,SLC38A3
+SLC38A5,vision,SLC38A5
+SLC38A6,vision,SLC38A6
+SLC38A8,vision,SLC38A8
+SLC39A12,vision,SLC39A12
+SLC39A4,vision,SLC39A4
+SLC39A5,vision,SLC39A5
+SLC39A7,"vision, auditory",SLC39A7
+SLC39A8,"vision, auditory",SLC39A8
+SLC3A1,vision,SLC3A1
+SLC44A1,vision,SLC44A1
+SLC44A2,vision,SLC44A2
+SLC44A3,vision,SLC44A3
+SLC45A2,vision,SLC45A2
+SLC46A1,vision,SLC46A1
+SLC4A10,"vision, auditory",SLC4A10
+SLC4A11,"vision, auditory",SLC4A11
+SLC4A2,"vision, auditory",SLC4A2
+SLC4A4,"vision, auditory",SLC4A4
+SLC4A7,"vision, auditory",SLC4A7
+SLC52A2,"vision, auditory",SLC52A2
+SLC52A3,"vision, auditory",SLC52A3
+SLC5A11,vision,SLC5A11
+SLC5A12,vision,SLC5A12
+SLC5A6,vision,SLC5A6
+SLC5A7,"vision, auditory",SLC5A7
+SLC66A1,vision,SLC66A1
+SLC6A1,vision,SLC6A1
+SLC6A11,vision,SLC6A11
+SLC6A19,"vision, touch",SLC6A19
+SLC6A8,"vision, auditory",SLC6A8
+SLC6A9,"vision, auditory",SLC6A9
+SLC7A14,"vision, auditory",SLC7A14
+SLC7A7,"vision, auditory, touch",SLC7A7
+SLC7A8,"vision, auditory",SLC7A8
+SLC7A9,vision,SLC7A9
+SLC8A1,vision,SLC8A1
+SLC9A1,"vision, auditory",SLC9A1
+SLC9A6,vision,SLC9A6
+SLC9A7,vision,SLC9A7
+SLC9A8,vision,SLC9A8
+SLC9B1,"vision, auditory",SLC9B1
+SLCO1A2,vision,SLCO1A2
+SLCO2A1,"vision, auditory, touch",SLCO2A1
+SLCO6A1,vision,SLCO6A1
+SLFN12L,vision,SLFN12L
+SLITRK1,vision,SLITRK1
+SLITRK6,"vision, auditory",SLITRK6
+SLX1A,vision,SLX1A
+SLX4,"vision, auditory",SLX4
+SLX4IP,vision,SLX4IP
+SMAD3,"vision, auditory",SMAD3
+SMAD4,"vision, auditory, touch",SMAD4
+SMAD6,vision,SMAD6
+SMAP1,vision,SMAP1
+SMARCAL1,vision,SMARCAL1
+SMARCC1,vision,SMARCC1
+SMARCC2,"vision, auditory",SMARCC2
+SMARCD1,"vision, auditory",SMARCD1
+SMC5,vision,SMC5
+SMG8,"vision, auditory",SMG8
+SMG9,vision,SMG9
+SMIM14,vision,SMIM14
+SMIM15,vision,SMIM15
+SMIM20,vision,SMIM20
+SMIM21,vision,SMIM21
+SMIM30,vision,SMIM30
+SMIM5,vision,SMIM5
+SMN1,vision,SMN1
+SMOX,vision,SMOX
+SMPD1,"vision, auditory",SMPD1
+SMPX,"vision, auditory",SMPX
+SMS,vision,SMS
+SMUG1,vision,SMUG1
+SNAI2,"vision, auditory",SNAI2
+SNAP25,"vision, auditory",SNAP25
+SNAP29,"vision, auditory",SNAP29
+SNAP91,"vision, auditory",SNAP91
+SNF8,"vision, auditory",SNF8
+SNIP1,vision,SNIP1
+SNN,vision,SNN
+SNPH,vision,SNPH
+SNRNP200,"vision, auditory",SNRNP200
+SNRNP25,vision,SNRNP25
+SNRPN,"vision, touch",SNRPN
+SNTG2,vision,SNTG2
+SNX10,"vision, auditory",SNX10
+SNX13,vision,SNX13
+SNX14,"vision, auditory",SNX14
+SNX29,vision,SNX29
+SNX9,vision,SNX9
+SOBP,"vision, touch",SOBP
+SOCS1,vision,SOCS1
+SOD2,vision,SOD2
+SOHLH1,vision,SOHLH1
+SON,"vision, auditory",SON
+SORBS2,vision,SORBS2
+SORCS2,vision,SORCS2
+SOX4,"vision, auditory",SOX4
+SOX5,"vision, auditory",SOX5
+SP110,vision,SP110
+SP4,vision,SP4
+SPAG1,"vision, auditory",SPAG1
+SPAG17,"vision, auditory",SPAG17
+SPART,"vision, auditory, touch",SPART
+SPAST,"vision, auditory, touch",SPAST
+SPATA19,vision,SPATA19
+SPATA22,"vision, auditory",SPATA22
+SPATA45,vision,SPATA45
+SPCS3,vision,SPCS3
+SPDYE4,vision,SPDYE4
+SPECC1L,"vision, auditory",SPECC1L
+SPEF2,"vision, auditory",SPEF2
+SPEG,vision,SPEG
+SPEN,"vision, auditory",SPEN
+SPG21,"vision, auditory",SPG21
+SPG7,"vision, auditory, touch",SPG7
+SPI1,vision,SPI1
+SPINK4,vision,SPINK4
+SPMIP7,vision,
+SPMIP9,vision,
+SPOP,"vision, auditory",SPOP
+SPP1,"vision, touch",SPP1
+SPP2,vision,SPP2
+SPR,"vision, auditory",SPR
+SPTAN1,"vision, auditory, touch",SPTAN1
+SPTBN1,"vision, auditory",SPTBN1
+SPTBN2,"vision, touch",SPTBN2
+SPTBN4,"vision, auditory",SPTBN4
+SPTBN5,vision,SPTBN5
+SPTSSA,"vision, auditory",SPTSSA
+SRCIN1,vision,SRCIN1
+SRD5A3,"vision, auditory, touch",SRD5A3
+SREBF1,"vision, auditory",SREBF1
+SREK1IP1,vision,SREK1IP1
+SRGAP1,vision,SRGAP1
+SRGAP3,vision,SRGAP3
+SRGN,vision,SRGN
+SRPK3,vision,SRPK3
+SRPX,vision,SRPX
+SRPX2,"vision, auditory, touch",SRPX2
+SRRM2,vision,SRRM2
+SRSF5,vision,SRSF5
+SRSF6,vision,SRSF6
+SRSF9,vision,SRSF9
+SS18,vision,SS18
+SSB,vision,SSB
+SSBP1,"vision, auditory",SSBP1
+SSBP3,vision,SSBP3
+SSR4,"vision, auditory",SSR4
+SSRP1,vision,SSRP1
+SSTR1,vision,SSTR1
+SSTR4,vision,SSTR4
+SSUH2,vision,SSUH2
+ST14,vision,ST14
+ST3GAL5,"vision, auditory",ST3GAL5
+ST8SIA2,vision,ST8SIA2
+ST8SIA4,vision,ST8SIA4
+STAC3,"vision, auditory",STAC3
+STAG1,vision,STAG1
+STAMBP,"vision, auditory",STAMBP
+STAP1,vision,STAP1
+STAR,vision,STAR
+STARD3,vision,STARD3
+STARD3NL,vision,STARD3NL
+STARD6,vision,STARD6
+STAT1,vision,STAT1
+STAT2,vision,STAT2
+STAT3,"vision, auditory",STAT3
+STAT4,"vision, touch",STAT4
+STAT6,vision,STAT6
+STATH,vision,STATH
+STEAP3,vision,STEAP3
+STIM1,"vision, auditory",STIM1
+STIM2,vision,STIM2
+STING1,vision,STING1
+STK11,vision,STK11
+STK24,vision,STK24
+STK3,vision,STK3
+STK33,vision,STK33
+STK36,"vision, auditory",STK36
+STK4,vision,STK4
+STMN2,"vision, auditory",STMN2
+STN1,vision,STN1
+STOX1,vision,STOX1
+STPG2,vision,STPG2
+STPG4,vision,STPG4
+STRA6,vision,STRA6
+STRADA,vision,STRADA
+STT3A,"vision, auditory",STT3A
+STUB1,"vision, auditory, touch",STUB1
+STUM,vision,STUM
+STX11,"vision, auditory",STX11
+STX16,"vision, touch",STX16
+STX1A,"vision, auditory",STX1A
+STX3,vision,STX3
+STX8,vision,STX8
+STXBP1,"vision, auditory",STXBP1
+STXBP2,"vision, auditory",STXBP2
+STXBP3,vision,STXBP3
+STXBP5,"vision, auditory",STXBP5
+SUCLA2,"vision, auditory",SUCLA2
+SUCLG1,"vision, auditory",SUCLG1
+SUCLG2,vision,SUCLG2
+SUCNR1,vision,SUCNR1
+SUGCT,"vision, auditory",SUGCT
+SULT2B1,"vision, auditory",SULT2B1
+SUMF1,"vision, auditory",SUMF1
+SUN2,vision,SUN2
+SUOX,vision,SUOX
+SUPT16H,vision,SUPT16H
+SUPT3H,"vision, auditory",SUPT3H
+SURF1,"vision, auditory",SURF1
+SUSD2,vision,SUSD2
+SV2A,vision,SV2A
+SVIL,vision,SVIL
+SYN1,vision,SYN1
+SYN3,vision,SYN3
+SYNE1,"vision, auditory, touch",SYNE1
+SYNE2,vision,SYNE2
+SYNE4,"vision, auditory",SYNE4
+SYNGR1,vision,SYNGR1
+SYNPR,vision,SYNPR
+SYNRG,vision,SYNRG
+SYT1,vision,SYT1
+SYT14,vision,SYT14
+SYT2,"vision, auditory, touch",SYT2
+SYT6,vision,SYT6
+SZT2,vision,SZT2
+TAB1,vision,TAB1
+TAB2,vision,TAB2
+TACO1,"vision, auditory",TACO1
+TACR1,vision,TACR1
+TACSTD2,vision,TACSTD2
+TAF1,"vision, auditory",TAF1
+TAF15,vision,TAF15
+TAF1C,vision,TAF1C
+TAF2,vision,TAF2
+TAF4,"vision, auditory",TAF4
+TAF8,vision,TAF8
+TAFAZZIN,"vision, auditory",TAFAZZIN
+TALDO1,"vision, auditory",TALDO1
+TAMM41,vision,TAMM41
+TANGO2,"vision, auditory",TANGO2
+TAOK1,"vision, auditory",TAOK1
+TAOK2,vision,TAOK2
+TAOK3,vision,TAOK3
+TAP1,"vision, auditory",TAP1
+TARS1,"vision, auditory, touch",TARS1
+TASP1,"vision, auditory",TASP1
+TAT,vision,TAT
+TATDN3,vision,TATDN3
+TAX1BP3,vision,TAX1BP3
+TBATA,vision,TBATA
+TBC1D10B,vision,TBC1D10B
+TBC1D16,vision,TBC1D16
+TBC1D20,"vision, auditory",TBC1D20
+TBC1D21,vision,TBC1D21
+TBC1D23,vision,TBC1D23
+TBC1D2B,vision,TBC1D2B
+TBC1D3,vision,TBC1D3
+TBC1D3B,vision,TBC1D3B
+TBC1D7,"vision, touch",TBC1D7
+TBCA,"vision, auditory",TBCA
+TBCD,vision,TBCD
+TBCE,vision,TBCE
+TBCK,"vision, auditory, touch",TBCK
+TBL1XR1,"vision, auditory",TBL1XR1
+TBL2,"vision, auditory",TBL2
+TBX15,"vision, auditory",TBX15
+TBX4,"vision, auditory",TBX4
+TBXAS1,"vision, auditory",TBXAS1
+TCAP,"vision, auditory",TCAP
+TCEAL1,vision,TCEAL1
+TCERG1L,"vision, auditory",TCERG1L
+TCF20,vision,TCF20
+TCF3,vision,TCF3
+TCF4,"vision, auditory",TCF4
+TCF7L2,"vision, auditory",TCF7L2
+TCIM,"vision, auditory",TCIM
+TCIRG1,"vision, auditory",TCIRG1
+TCN2,"vision, auditory",TCN2
+TDO2,"vision, auditory",TDO2
+TDP1,"vision, auditory, touch",TDP1
+TDRD1,vision,TDRD1
+TDRD7,vision,TDRD7
+TEAD1,"vision, auditory",TEAD1
+TEAD3,vision,TEAD3
+TECPR2,"vision, auditory",TECPR2
+TEDC1,vision,TEDC1
+TEFM,"vision, auditory",TEFM
+TEK,vision,TEK
+TEKT1,vision,TEKT1
+TELO2,"vision, auditory",TELO2
+TEN1,vision,TEN1
+TENM3,vision,TENM3
+TENM4,vision,TENM4
+TENT2,vision,TENT2
+TERF2IP,vision,TERF2IP
+TET2,"vision, touch",TET2
+TET3,"vision, auditory",TET3
+TEX19,vision,TEX19
+TEX51,vision,TEX51
+TEX9,vision,TEX9
+TF,"vision, auditory",TF
+TFAP2B,"vision, auditory",TFAP2B
+TFE3,vision,TFE3
+TFF1,"vision, auditory",TFF1
+TFF2,"vision, auditory",TFF2
+TFG,"vision, auditory, touch",TFG
+TFPI,vision,TFPI
+TFPT,vision,TFPT
+TFRC,vision,TFRC
+TG,"vision, auditory",TG
+TGFB2,vision,TGFB2
+TGFB3,"vision, auditory",TGFB3
+TGFBI,vision,TGFBI
+TGFBR1,vision,TGFBR1
+TGFBR2,"vision, auditory, touch",TGFBR2
+TGFBR3,vision,TGFBR3
+TGM1,"vision, auditory, touch",TGM1
+TGM5,vision,TGM5
+TGM6,"vision, touch",TGM6
+THAP11,vision,THAP11
+THG1L,vision,THG1L
+THNSL2,vision,THNSL2
+THOC2,"vision, auditory",THOC2
+THOC6,"vision, auditory",THOC6
+THPO,"vision, touch",THPO
+THSD1,"vision, auditory",THSD1
+THSD4,vision,THSD4
+THUMPD1,"vision, auditory",THUMPD1
+THUMPD3,vision,THUMPD3
+TIA1,vision,TIA1
+TIE1,vision,TIE1
+TIGAR,vision,TIGAR
+TIGD5,vision,TIGD5
+TIMM29,vision,TIMM29
+TIMM50,vision,TIMM50
+TIMM8A,"vision, auditory, touch",TIMM8A
+TIMMDC1,"vision, auditory",TIMMDC1
+TIMP3,vision,TIMP3
+TINF2,"vision, auditory",TINF2
+TK2,"vision, auditory, touch",TK2
+TKFC,vision,TKFC
+TKT,"vision, auditory",TKT
+TLCD3B,vision,TLCD3B
+TLE3,vision,TLE3
+TLE4,vision,TLE4
+TLE5,vision,TLE5
+TLK2,vision,TLK2
+TLL1,vision,TLL1
+TLN2,vision,TLN2
+TLR4,"vision, touch",TLR4
+TLR7,vision,TLR7
+TMCO1,"vision, auditory, touch",TMCO1
+TMCO3,vision,TMCO3
+TMCO5A,vision,TMCO5A
+TMED3,vision,TMED3
+TMEM104,vision,TMEM104
+TMEM106B,"vision, touch",TMEM106B
+TMEM107,vision,TMEM107
+TMEM114,"vision, auditory",TMEM114
+TMEM121,vision,TMEM121
+TMEM125,vision,TMEM125
+TMEM126A,"vision, auditory",TMEM126A
+TMEM126B,"vision, auditory",TMEM126B
+TMEM127,"vision, auditory",TMEM127
+TMEM132C,vision,TMEM132C
+TMEM132D,vision,TMEM132D
+TMEM163,vision,TMEM163
+TMEM165,"vision, auditory",TMEM165
+TMEM171,vision,TMEM171
+TMEM174,vision,TMEM174
+TMEM176A,vision,TMEM176A
+TMEM182,vision,TMEM182
+TMEM218,"vision, touch",TMEM218
+TMEM222,vision,TMEM222
+TMEM237,"vision, auditory",TMEM237
+TMEM240,vision,TMEM240
+TMEM242,vision,TMEM242
+TMEM270,"vision, auditory",TMEM270
+TMEM37,vision,TMEM37
+TMEM38B,"vision, auditory",TMEM38B
+TMEM43,"vision, auditory",TMEM43
+TMEM53,"vision, auditory",TMEM53
+TMEM63A,vision,TMEM63A
+TMEM63B,"vision, auditory",TMEM63B
+TMEM63C,vision,TMEM63C
+TMEM65,vision,TMEM65
+TMEM70,vision,TMEM70
+TMEM86A,vision,TMEM86A
+TMEM94,"vision, touch",TMEM94
+TMEM98,vision,TMEM98
+TMIE,"vision, auditory",TMIE
+TMLHE,vision,TMLHE
+TMPPE,vision,TMPPE
+TMPRSS3,"vision, auditory",TMPRSS3
+TMPRSS5,"vision, auditory",TMPRSS5
+TMX3,vision,TMX3
+TNF,"vision, auditory",TNF
+TNFAIP3,vision,TNFAIP3
+TNFRSF11A,"vision, auditory",TNFRSF11A
+TNFRSF13B,vision,TNFRSF13B
+TNFRSF13C,vision,TNFRSF13C
+TNFRSF21,vision,TNFRSF21
+TNFRSF25,vision,TNFRSF25
+TNFSF4,"vision, touch",TNFSF4
+TNIP1,vision,TNIP1
+TNKS1BP1,vision,TNKS1BP1
+TNNC2,vision,TNNC2
+TNNI2,vision,TNNI2
+TNNT1,vision,TNNT1
+TNNT3,vision,TNNT3
+TNPO2,vision,TNPO2
+TNPO3,vision,TNPO3
+TNR,"vision, auditory",TNR
+TNRC6B,"vision, auditory",TNRC6B
+TNXB,vision,TNXB
+TOE1,"vision, auditory",TOE1
+TOGARAM1,vision,TOGARAM1
+TONSL,vision,TONSL
+TOP3A,"vision, auditory",TOP3A
+TOR1AIP1,vision,TOR1AIP1
+TOR1B,vision,TOR1B
+TOX2,vision,TOX2
+TP53RK,vision,TP53RK
+TPBG,vision,TPBG
+TPH2,vision,TPH2
+TPI1,"vision, auditory",TPI1
+TPK1,vision,TPK1
+TPM2,"vision, auditory, touch",TPM2
+TPM3,vision,TPM3
+TPO,"vision, auditory",TPO
+TPP1,"vision, touch",TPP1
+TPP2,vision,TPP2
+TPR,vision,TPR
+TPRG1,vision,TPRG1
+TRABD2B,vision,TRABD2B
+TRAF3IP1,vision,TRAF3IP1
+TRAF3IP2,vision,TRAF3IP2
+TRAIP,vision,TRAIP
+TRAK1,"vision, auditory",TRAK1
+TRAPPC11,"vision, auditory",TRAPPC11
+TRAPPC12,"vision, auditory",TRAPPC12
+TRAPPC2,"vision, touch",TRAPPC2
+TRAPPC2B,vision,TRAPPC2B
+TRAPPC3,vision,TRAPPC3
+TRAPPC9,"vision, auditory, touch",TRAPPC9
+TRBV5-4,vision,TRBV5-4
+TRBV7-4,vision,TRBV7-4
+TRDN,"vision, auditory",TRDN
+TREM2,"vision, touch",TREM2
+TRIB2,vision,TRIB2
+TRIL,"vision, auditory",TRIL
+TRIM33,vision,TRIM33
+TRIM36,"vision, auditory",TRIM36
+TRIM37,"vision, auditory",TRIM37
+TRIM44,vision,TRIM44
+TRIO,"vision, auditory, touch",TRIO
+TRIP11,"vision, auditory",TRIP11
+TRIP12,vision,TRIP12
+TRIP13,"vision, auditory",TRIP13
+TRIP4,vision,TRIP4
+TRIT1,vision,TRIT1
+TRMT12,vision,TRMT12
+TRMU,"vision, auditory",TRMU
+TRNT1,"vision, auditory",TRNT1
+TRPC6,vision,TRPC6
+TRPM1,vision,TRPM1
+TRPM3,"vision, touch",TRPM3
+TRPM6,vision,TRPM6
+TRPS1,"vision, auditory",TRPS1
+TRPV1,vision,TRPV1
+TRPV4,"vision, auditory, touch",TRPV4
+TRPV6,vision,TRPV6
+TRRAP,"vision, auditory, touch",TRRAP
+TSEN15,vision,TSEN15
+TSEN2,"vision, auditory",TSEN2
+TSEN34,"vision, auditory",TSEN34
+TSEN54,"vision, auditory, touch",TSEN54
+TSFM,"vision, auditory",TSFM
+TSGA10IP,vision,TSGA10IP
+TSHZ3,"vision, auditory",TSHZ3
+TSKS,vision,TSKS
+TSPAN1,"vision, auditory, touch",TSPAN1
+TSPAN14,vision,TSPAN14
+TSPAN16,vision,TSPAN16
+TSPAN17,vision,TSPAN17
+TSPAN7,vision,TSPAN7
+TSPOAP1,"vision, touch",TSPOAP1
+TSPYL1,"vision, auditory",TSPYL1
+TSR2,"vision, auditory",TSR2
+TSTD1,vision,TSTD1
+TTBK2,vision,TTBK2
+TTC12,"vision, auditory",TTC12
+TTC17,vision,TTC17
+TTC19,"vision, auditory, touch",TTC19
+TTC39C,vision,TTC39C
+TTC6,vision,TTC6
+TTC7A,vision,TTC7A
+TTI1,vision,TTI1
+TTI2,vision,TTI2
+TTLL5,vision,TTLL5
+TTN,"vision, auditory",TTN
+TTPA,"vision, touch",TTPA
+TTR,"vision, auditory, touch",TTR
+TTYH1,vision,TTYH1
+TUB,"vision, auditory",TUB
+TUBA3D,vision,TUBA3D
+TUBB4A,"vision, auditory, touch",TUBB4A
+TUBB4B,"vision, auditory, touch",TUBB4B
+TUBB6,vision,TUBB6
+TUBGCP2,vision,TUBGCP2
+TUBGCP4,vision,TUBGCP4
+TUBGCP6,"vision, auditory",TUBGCP6
+TUFM,vision,TUFM
+TUFT1,vision,TUFT1
+TUG1,vision,TUG1
+TULP2,vision,TULP2
+TULP4,vision,TULP4
+TUSC3,"vision, auditory, touch",TUSC3
+TWF2,vision,TWF2
+TWIST1,"vision, auditory",TWIST1
+TWIST2,"vision, auditory, touch",TWIST2
+TWNK,"vision, auditory, touch",TWNK
+TXN2,vision,TXN2
+TXNDC11,vision,TXNDC11
+TXNDC15,vision,TXNDC15
+TXNL4A,"vision, auditory",TXNL4A
+TXNRD2,"vision, auditory",TXNRD2
+TYK2,vision,TYK2
+TYMP,"vision, auditory, touch",TYMP
+TYMS,"vision, auditory",TYMS
+TYR,"vision, auditory",TYR
+TYROBP,"vision, auditory",TYROBP
+TYRP1,vision,TYRP1
+U2AF2,vision,U2AF2
+UBA1,"vision, auditory",UBA1
+UBA2,"vision, touch",UBA2
+UBA5,vision,UBA5
+UBAC2,"vision, touch",UBAC2
+UBAP1,"vision, auditory, touch",UBAP1
+UBAP2L,"vision, auditory",UBAP2L
+UBE2A,"vision, auditory",UBE2A
+UBE2K,vision,UBE2K
+UBE2QL1,vision,UBE2QL1
+UBE2T,"vision, auditory",UBE2T
+UBE2W,vision,UBE2W
+UBE3A,"vision, touch",UBE3A
+UBE3B,"vision, auditory",UBE3B
+UBE3D,vision,UBE3D
+UBE4B,"vision, auditory",UBE4B
+UBL7,vision,UBL7
+UBQLN3,"vision, auditory",UBQLN3
+UBR1,"vision, auditory",UBR1
+UBR7,vision,UBR7
+UFC1,vision,UFC1
+UFM1,"vision, auditory",UFM1
+UFSP2,"vision, touch",UFSP2
+UGDH,vision,UGDH
+UGGT1,vision,UGGT1
+UGP2,vision,UGP2
+UGT1A1,"vision, auditory",UGT1A1
+UGT2B4,vision,UGT2B4
+ULK2,vision,ULK2
+UNC119,vision,UNC119
+UNC119B,vision,UNC119B
+UNC13D,"vision, auditory",UNC13D
+UNC45B,vision,UNC45B
+UNC5C,vision,UNC5C
+UNC80,"vision, touch",UNC80
+UNCX,vision,UNCX
+UNG,vision,UNG
+UPF3B,"vision, auditory, touch",UPF3B
+UQCC2,"vision, auditory",UQCC2
+UQCC3,vision,UQCC3
+UQCRFS1,vision,UQCRFS1
+URI1,vision,URI1
+UROC1,vision,UROC1
+UROD,"vision, touch",UROD
+UROS,"vision, touch",UROS
+USB1,"vision, auditory",USB1
+USE1,vision,USE1
+USF1,vision,USF1
+USF3,"vision, auditory",USF3
+USH1C,"vision, auditory",USH1C
+USH1G,"vision, auditory",USH1G
+USP11,vision,USP11
+USP13,vision,USP13
+USP2,vision,USP2
+USP20,vision,USP20
+USP29,vision,USP29
+USP31,vision,USP31
+USP45,"vision, auditory, touch",USP45
+USP48,"vision, auditory, touch",USP48
+USP6NL,vision,USP6NL
+USP7,"vision, auditory",USP7
+USP8,"vision, auditory, touch",USP8
+USP9X,"vision, auditory",USP9X
+UTRN,vision,UTRN
+VAMP1,"vision, auditory, touch",VAMP1
+VAMP2,vision,VAMP2
+VAMP7,vision,VAMP7
+VAPB,"vision, auditory",VAPB
+VARS1,"vision, auditory",VARS1
+VARS2,vision,VARS2
+VCAN,"vision, auditory",VCAN
+VCL,"vision, auditory",VCL
+VCPKMT,vision,VCPKMT
+VEGFA,vision,VEGFA
+VGLL4,vision,VGLL4
+VHL,"vision, auditory",VHL
+VLDLR,"vision, auditory, touch",VLDLR
+VMA21,"vision, auditory",VMA21
+VPS11,"vision, auditory",VPS11
+VPS28,vision,VPS28
+VPS33A,"vision, auditory",VPS33A
+VPS37D,"vision, auditory",VPS37D
+VPS41,"vision, touch",VPS41
+VPS45,vision,VPS45
+VPS4A,"vision, auditory",VPS4A
+VPS50,vision,VPS50
+VPS51,vision,VPS51
+VPS53,vision,VPS53
+VPS54,vision,VPS54
+VRK1,"vision, auditory",VRK1
+VSTM2B,vision,VSTM2B
+VSTM4,vision,VSTM4
+VSX1,"vision, auditory",VSX1
+VWA1,"vision, auditory, touch",VWA1
+VWA3B,vision,VWA3B
+VWA8,vision,VWA8
+VXN,vision,VXN
+WAC,"vision, auditory",WAC
+WAPL,vision,WAPL
+WARS2,"vision, touch",WARS2
+WAS,vision,WAS
+WASF1,vision,WASF1
+WASF3,vision,WASF3
+WBP4,"vision, auditory",WBP4
+WDFY3,vision,WDFY3
+WDR17,vision,WDR17
+WDR19,vision,WDR19
+WDR26,vision,WDR26
+WDR35,vision,WDR35
+WDR36,vision,WDR36
+WDR37,"vision, auditory",WDR37
+WDR45B,"vision, auditory",WDR45B
+WDR48,"vision, touch",WDR48
+WDR64,vision,WDR64
+WDR72,"vision, auditory",WDR72
+WDR73,"vision, touch",WDR73
+WDR81,"vision, auditory",WDR81
+WDR82,vision,WDR82
+WDR87,vision,WDR87
+WFS1,"vision, auditory, touch",WFS1
+WHRN,"vision, auditory",WHRN
+WIPF1,vision,WIPF1
+WNK3,vision,WNK3
+WNK4,vision,WNK4
+WNT10A,vision,WNT10A
+WNT7A,vision,WNT7A
+WRAP53,"vision, auditory",WRAP53
+WRAP73,vision,WRAP73
+WRN,"vision, auditory",WRN
+WSCD2,vision,WSCD2
+WWOX,"vision, auditory, touch",WWOX
+XDH,vision,XDH
+XK,"vision, touch",XK
+XKR8,vision,XKR8
+XPA,"vision, auditory, touch",XPA
+XPC,"vision, auditory",XPC
+XPO5,vision,XPO5
+XRCC1,"vision, touch",XRCC1
+XRCC2,"vision, auditory",XRCC2
+XRCC4,"vision, auditory",XRCC4
+XYLT1,"vision, auditory",XYLT1
+YAF2,vision,YAF2
+YAP1,"vision, auditory",YAP1
+YARS1,"vision, auditory, touch",YARS1
+YARS2,"vision, auditory",YARS2
+YEATS2,"vision, touch",YEATS2
+YIF1B,vision,YIF1B
+YIPF2,vision,YIPF2
+YME1L1,"vision, auditory",YME1L1
+YPEL2,vision,YPEL2
+YPEL3,vision,YPEL3
+YTHDF1,vision,YTHDF1
+YWHAG,vision,YWHAG
+YY1,"vision, auditory, touch",YY1
+ZAP70,"vision, auditory",ZAP70
+ZBED5,vision,ZBED5
+ZBP1,vision,ZBP1
+ZBTB16,vision,ZBTB16
+ZBTB20,"vision, auditory",ZBTB20
+ZBTB24,vision,ZBTB24
+ZBTB4,vision,ZBTB4
+ZBTB7A,vision,ZBTB7A
+ZBTB8A,vision,ZBTB8A
+ZBTB8OS,vision,ZBTB8OS
+ZC3H15,vision,ZC3H15
+ZC3H18,vision,ZC3H18
+ZC3H3,vision,ZC3H3
+ZC3H7A,vision,ZC3H7A
+ZC4H2,vision,ZC4H2
+ZCCHC17,vision,ZCCHC17
+ZCCHC24,vision,ZCCHC24
+ZCCHC4,vision,ZCCHC4
+ZDHHC13,vision,ZDHHC13
+ZDHHC15,vision,ZDHHC15
+ZDHHC2,vision,ZDHHC2
+ZDHHC24,"vision, auditory",ZDHHC24
+ZDHHC3,vision,ZDHHC3
+ZDHHC4,vision,ZDHHC4
+ZDHHC7,vision,ZDHHC7
+ZDHHC9,"vision, auditory, touch",ZDHHC9
+ZEB1,vision,ZEB1
+ZFAT,vision,ZFAT
+ZFHX2,"vision, touch",ZFHX2
+ZFHX3,"vision, touch",ZFHX3
+ZFHX4,vision,ZFHX4
+ZFP36L1,"vision, auditory",ZFP36L1
+ZFP41,vision,ZFP41
+ZFP92,vision,ZFP92
+ZFPM2,"vision, auditory",ZFPM2
+ZFR,"vision, auditory",ZFR
+ZFX,"vision, auditory",ZFX
+ZFYVE26,"vision, auditory, touch",ZFYVE26
+ZIM2,vision,ZIM2
+ZMAT4,"vision, auditory",ZMAT4
+ZMIZ1,"vision, auditory",ZMIZ1
+ZMYM2,"vision, auditory, touch",ZMYM2
+ZMYM3,vision,ZMYM3
+ZMYND10,"vision, auditory",ZMYND10
+ZMYND11,"vision, auditory",ZMYND11
+ZNF12,vision,ZNF12
+ZNF121,vision,ZNF121
+ZNF134,vision,ZNF134
+ZNF148,vision,ZNF148
+ZNF184,vision,ZNF184
+ZNF24,vision,ZNF24
+ZNF256,vision,ZNF256
+ZNF264,vision,ZNF264
+ZNF267,vision,ZNF267
+ZNF273,vision,ZNF273
+ZNF274,vision,ZNF274
+ZNF292,"vision, auditory",ZNF292
+ZNF318,"vision, auditory",ZNF318
+ZNF329,vision,ZNF329
+ZNF33B,vision,ZNF33B
+ZNF346,vision,ZNF346
+ZNF362,vision,ZNF362
+ZNF365,"vision, touch",ZNF365
+ZNF385B,vision,ZNF385B
+ZNF396,vision,ZNF396
+ZNF397,vision,ZNF397
+ZNF407,"vision, auditory",ZNF407
+ZNF408,"vision, auditory",ZNF408
+ZNF41,vision,ZNF41
+ZNF454,vision,ZNF454
+ZNF462,"vision, auditory",ZNF462
+ZNF469,"vision, auditory",ZNF469
+ZNF48,vision,ZNF48
+ZNF486,vision,ZNF486
+ZNF487,vision,ZNF487
+ZNF491,vision,ZNF491
+ZNF507,vision,ZNF507
+ZNF513,"vision, auditory",ZNF513
+ZNF516,vision,ZNF516
+ZNF521,vision,ZNF521
+ZNF536,"vision, auditory",ZNF536
+ZNF543,vision,ZNF543
+ZNF544,vision,ZNF544
+ZNF548,vision,ZNF548
+ZNF550,vision,ZNF550
+ZNF551,vision,ZNF551
+ZNF561,vision,ZNF561
+ZNF578,vision,ZNF578
+ZNF587,vision,ZNF587
+ZNF592,vision,ZNF592
+ZNF618,vision,ZNF618
+ZNF623,vision,ZNF623
+ZNF626,vision,ZNF626
+ZNF627,vision,ZNF627
+ZNF629,vision,ZNF629
+ZNF644,vision,ZNF644
+ZNF646,vision,ZNF646
+ZNF668,vision,ZNF668
+ZNF674,vision,ZNF674
+ZNF678,vision,ZNF678
+ZNF684,vision,ZNF684
+ZNF688,vision,ZNF688
+ZNF689,vision,ZNF689
+ZNF696,vision,ZNF696
+ZNF699,"vision, auditory",ZNF699
+ZNF707,vision,ZNF707
+ZNF711,vision,ZNF711
+ZNF728,vision,ZNF728
+ZNF737,vision,ZNF737
+ZNF740,vision,ZNF740
+ZNF764,vision,ZNF764
+ZNF768,vision,ZNF768
+ZNF773,vision,ZNF773
+ZNF775,vision,ZNF775
+ZNF776,vision,ZNF776
+ZNF777,vision,ZNF777
+ZNF785,vision,ZNF785
+ZNF808,vision,ZNF808
+ZNF81,vision,ZNF81
+ZNF846,vision,ZNF846
+ZNF853,vision,ZNF853
+ZNF862,vision,ZNF862
+ZNHIT3,vision,ZNHIT3
+ZP4,vision,ZP4
+ZPR1,"vision, auditory",ZPR1
+ZSCAN20,vision,ZSCAN20
+ZXDC,vision,ZXDC
+ABCC1,auditory,ABCC1
+ABCF1,auditory,ABCF1
+ABHD16A,auditory,ABHD16A
+ABLIM3,auditory,ABLIM3
+ACSL5,auditory,ACSL5
+ACTC1,auditory,ACTC1
+ACVR1B,auditory,ACVR1B
+ADAMTS13,auditory,ADAMTS13
+ADAMTSL3,auditory,ADAMTSL3
+ADARB2,auditory,ADARB2
+ADK,auditory,ADK
+AFAP1L1,auditory,AFAP1L1
+AGPAT1,auditory,AGPAT1
+AHRR,auditory,AHRR
+AKAP9,auditory,AKAP9
+AKR1A1,auditory,AKR1A1
+AKT1S1,auditory,AKT1S1
+ALAD,"auditory, touch",ALAD
+ALAS2,auditory,ALAS2
+ALDH9A1,auditory,ALDH9A1
+ALDOC,auditory,ALDOC
+ALG10,auditory,ALG10
+ALG10B,auditory,ALG10B
+ALG5,auditory,ALG5
+ALPK3,auditory,ALPK3
+ALYREF,auditory,ALYREF
+AMER1,auditory,AMER1
+ANAPC15,auditory,ANAPC15
+ANKRA2,auditory,ANKRA2
+ANKRD1,auditory,ANKRD1
+ANKRD13A,auditory,ANKRD13A
+ANKRD36,auditory,ANKRD36
+ANO1,auditory,ANO1
+ANXA13,auditory,ANXA13
+AOPEP,auditory,AOPEP
+AP2S1,auditory,AP2S1
+APEX1,auditory,APEX1
+APOL2,auditory,APOL2
+APOL4,auditory,APOL4
+APPBP2,auditory,APPBP2
+AQP5,auditory,AQP5
+ARHGAP29,auditory,ARHGAP29
+ARHGAP9,auditory,ARHGAP9
+ARHGEF10,auditory,ARHGEF10
+ARHGEF28,auditory,ARHGEF28
+ARHGEF37,auditory,ARHGEF37
+ARHGEF38,auditory,ARHGEF38
+ARID5B,auditory,ARID5B
+ARK2C,auditory,
+ARL6IP1,auditory,ARL6IP1
+ARMC10,auditory,ARMC10
+ARMCX5-GPRASP2,auditory,ARMCX5-GPRASP2
+ATL1,"auditory, touch",ATL1
+ATOH1,auditory,ATOH1
+ATP11A,auditory,ATP11A
+ATP1A1,"auditory, touch",ATP1A1
+ATP5MG,auditory,ATP5MG
+ATP6V0C,auditory,ATP6V0C
+B3GNT4,auditory,B3GNT4
+BAAT,auditory,BAAT
+BCKDK,auditory,BCKDK
+BCL7B,auditory,BCL7B
+BDP1,auditory,BDP1
+BHLHA9,auditory,BHLHA9
+BMP15,auditory,BMP15
+BNC1,auditory,BNC1
+BNC2,auditory,BNC2
+BPNT2,auditory,BPNT2
+BRD2,auditory,BRD2
+BRD9,auditory,BRD9
+BSCL2,"auditory, touch",BSCL2
+BTBD10,auditory,BTBD10
+BTRC,auditory,BTRC
+C10orf90,auditory,C10orf90
+C1GALT1C1,auditory,C1GALT1C1
+C3orf52,auditory,C3orf52
+C6orf47,auditory,C6orf47
+CAAP1,auditory,CAAP1
+CADM3,"auditory, touch",CADM3
+CALM1,auditory,CALM1
+CALM2,auditory,CALM2
+CALM3,auditory,CALM3
+CALR3,auditory,CALR3
+CAMLG,auditory,CAMLG
+CAP2,auditory,CAP2
+CAPNS2,auditory,CAPNS2
+CASQ2,auditory,CASQ2
+CASTOR1,auditory,CASTOR1
+CATSPER2,auditory,CATSPER2
+CBFB,auditory,CBFB
+CCDC122,auditory,CCDC122
+CCDC127,auditory,CCDC127
+CCDC134,auditory,CCDC134
+CCDC137,auditory,CCDC137
+CCDC157,auditory,CCDC157
+CCDC163,auditory,CCDC163
+CCDC17,auditory,CCDC17
+CCDC50,auditory,CCDC50
+CCDC68,auditory,CCDC68
+CCNA1,auditory,CCNA1
+CCNE2,auditory,CCNE2
+CCNG1,auditory,CCNG1
+CCT5,"auditory, touch",CCT5
+CD151,auditory,CD151
+CD164,auditory,CD164
+CD36,auditory,CD36
+CD86,auditory,CD86
+CDAN1,auditory,CDAN1
+CDC14A,auditory,CDC14A
+CDC6,auditory,CDC6
+CDH18,auditory,CDH18
+CDH8,auditory,CDH8
+CDIN1,auditory,CDIN1
+CDK16,auditory,CDK16
+CDK5R1,auditory,CDK5R1
+CDT1,auditory,CDT1
+CEACAM3,auditory,CEACAM3
+CEACAM6,auditory,CEACAM6
+CENATAC,auditory,CENATAC
+CENPP,auditory,CENPP
+CEP131,auditory,CEP131
+CEP89,auditory,CEP89
+CFAP276,auditory,CFAP276
+CFAP46,auditory,CFAP46
+CHI3L1,auditory,CHI3L1
+CHMP4C,auditory,CHMP4C
+CHRAC1,auditory,CHRAC1
+CHRNA10,auditory,CHRNA10
+CHST8,auditory,CHST8
+CHSY1,auditory,CHSY1
+CIDEC,auditory,CIDEC
+CLCA4,auditory,CLCA4
+CLCNKA,auditory,CLCNKA
+CLDN1,auditory,CLDN1
+CLDN7,auditory,CLDN7
+CLDN9,"auditory, touch",CLDN9
+CLEC20A,auditory,CLEC20A
+CLHC1,auditory,CLHC1
+CLPP,auditory,CLPP
+CLRN2,auditory,CLRN2
+CLSTN2,auditory,CLSTN2
+CNBP,auditory,CNBP
+CNOT2,auditory,CNOT2
+COA7,"auditory, touch",COA7
+COBLL1,auditory,COBLL1
+COCH,auditory,COCH
+COG2,auditory,COG2
+COMP,"auditory, touch",COMP
+COQ6,"auditory, touch",COQ6
+COX6A1,"auditory, touch",COX6A1
+COX7C,auditory,COX7C
+CPA1,auditory,CPA1
+CPA2,auditory,CPA2
+CPN1,auditory,CPN1
+CREB1,auditory,CREB1
+CREB3L1,auditory,CREB3L1
+CREB5,auditory,CREB5
+CRIP3,auditory,CRIP3
+CRYL1,auditory,CRYL1
+CRYM,auditory,CRYM
+CSMD3,auditory,CSMD3
+CSRP3,auditory,CSRP3
+CTBP2,auditory,CTBP2
+CXCR4,auditory,CXCR4
+CYLD,auditory,CYLD
+CYP11B2,auditory,CYP11B2
+CYP2U1,"auditory, touch",CYP2U1
+CYP7A1,auditory,CYP7A1
+DAB2IP,auditory,DAB2IP
+DAOA,auditory,DAOA
+DAP3,auditory,DAP3
+DCAF8,"auditory, touch",DCAF8
+DCHS2,auditory,DCHS2
+DCLRE1B,auditory,DCLRE1B
+DCTN4,auditory,DCTN4
+DDHD1,"auditory, touch",DDHD1
+DDR1,auditory,DDR1
+DDX11,auditory,DDX11
+DENND1A,auditory,DENND1A
+DENND2A,auditory,DENND2A
+DENND5A,auditory,DENND5A
+DGAT2,auditory,DGAT2
+DGLUCY,auditory,DGLUCY
+DHFR,auditory,DHFR
+DHRSX,auditory,DHRSX
+DHTKD1,"auditory, touch",DHTKD1
+DHX9,auditory,DHX9
+DIABLO,auditory,DIABLO
+DIAPH3,auditory,DIAPH3
+DLC1,auditory,DLC1
+DLG1,auditory,DLG1
+DLG2,auditory,DLG2
+DLK2,auditory,DLK2
+DLX3,auditory,DLX3
+DLX4,auditory,DLX4
+DLX6,auditory,DLX6
+DNAJB12,auditory,DNAJB12
+DNAJB2,"auditory, touch",DNAJB2
+DNAJC19,auditory,DNAJC19
+DNAJC2,auditory,DNAJC2
+DNAJC3,"auditory, touch",DNAJC3
+DND1,auditory,DND1
+DNMT3L,auditory,DNMT3L
+DNPH1,auditory,DNPH1
+DOCK10,auditory,DOCK10
+DOCK2,auditory,DOCK2
+DPCD,auditory,DPCD
+DPH1,auditory,DPH1
+DPH2,auditory,DPH2
+DPY19L4,auditory,DPY19L4
+DRG1,auditory,DRG1
+DSC2,auditory,DSC2
+DSEL,auditory,DSEL
+DSG2,auditory,DSG2
+DSG4,auditory,DSG4
+DSP,auditory,DSP
+DSPP,auditory,DSPP
+DSTYK,auditory,DSTYK
+DUOX2,auditory,DUOX2
+DUOXA2,auditory,DUOXA2
+DUS1L,auditory,DUS1L
+DVL2,auditory,DVL2
+DYM,auditory,DYM
+DYNC1I1,auditory,DYNC1I1
+DYTN,auditory,DYTN
+ECE2,auditory,ECE2
+EDRF1,auditory,EDRF1
+EEA1,auditory,EEA1
+EEF1E1,auditory,EEF1E1
+EFNB3,auditory,EFNB3
+EHHADH,auditory,EHHADH
+EIF2D,auditory,EIF2D
+EIF4B,auditory,EIF4B
+EIF4ENIF1,auditory,EIF4ENIF1
+EIF5A,auditory,EIF5A
+ELK4,auditory,ELK4
+ELMOD3,auditory,ELMOD3
+ELP5,auditory,ELP5
+EML6,auditory,EML6
+EMSY,auditory,EMSY
+ENOX1,auditory,ENOX1
+ENSG00000100101,auditory,
+ENSG00000248751,auditory,
+ENSG00000249590,auditory,
+ENSG00000260272,auditory,
+ENSG00000262660,auditory,
+ENSG00000274322,auditory,
+ENSG00000286001,auditory,
+ENTPD1,auditory,ENTPD1
+ENTPD5,auditory,ENTPD5
+EPB41L1,auditory,EPB41L1
+EPB42,auditory,EPB42
+EPS15L1,auditory,EPS15L1
+EPS8,auditory,EPS8
+EPS8L2,auditory,EPS8L2
+ERAL1,auditory,ERAL1
+ERLIN1,auditory,ERLIN1
+ESPNL,auditory,ESPNL
+ESRP1,auditory,ESRP1
+EXOC3,auditory,EXOC3
+EXOC6,auditory,EXOC6
+EXT1,"auditory, touch",EXT1
+FAAP100,auditory,FAAP100
+FAM177A1,auditory,FAM177A1
+FAM184A,auditory,FAM184A
+FAM185A,auditory,FAM185A
+FANCD2OS,auditory,FANCD2OS
+FBP1,auditory,FBP1
+FBXL13,auditory,FBXL13
+FBXO38,auditory,FBXO38
+FBXW4,auditory,FBXW4
+FER,auditory,FER
+FGD4,"auditory, touch",FGD4
+FGF23,auditory,FGF23
+FHL2,auditory,FHL2
+FKBP15,auditory,FKBP15
+FKBP1A,auditory,FKBP1A
+FMN1,auditory,FMN1
+FOXI1,auditory,FOXI1
+FOXK2,auditory,FOXK2
+FOXL1,auditory,FOXL1
+FOXP4,auditory,FOXP4
+FZD10,auditory,FZD10
+FZD3,auditory,FZD3
+FZD6,auditory,FZD6
+G6PC3,auditory,G6PC3
+GAB1,auditory,GAB1
+GABRP,auditory,GABRP
+GAD1,auditory,GAD1
+GAL,auditory,GAL
+GARS1,"auditory, touch",GARS1
+GAS2,auditory,GAS2
+GATC,auditory,GATC
+GATD3,auditory,GATD3
+GCAT,auditory,GCAT
+GCGR,auditory,GCGR
+GCLC,"auditory, touch",GCLC
+GCSH,auditory,GCSH
+GDAP1,"auditory, touch",GDAP1
+GDF9,auditory,GDF9
+GDPD5,auditory,GDPD5
+GET3,auditory,GET3
+GET4,auditory,GET4
+GFUS,auditory,GFUS
+GIT2,auditory,GIT2
+GJC3,auditory,GJC3
+GLRA1,auditory,GLRA1
+GLTP,auditory,GLTP
+GNAT3,auditory,GNAT3
+GNB4,"auditory, touch",GNB4
+GOLIM4,auditory,GOLIM4
+GORASP2,auditory,GORASP2
+GOT1,auditory,GOT1
+GPBP1L1,auditory,GPBP1L1
+GPI,"auditory, touch",GPI
+GPR12,auditory,GPR12
+GPR6,auditory,GPR6
+GPRC5A,auditory,GPRC5A
+GPSM3,auditory,GPSM3
+GRAMD2B,auditory,GRAMD2B
+GRAP,auditory,GRAP
+GRB10,auditory,GRB10
+GREB1L,auditory,GREB1L
+GRM5,auditory,GRM5
+GRP,auditory,GRP
+GRPR,auditory,GRPR
+GSC,auditory,GSC
+GSDME,auditory,GSDME
+GSTM3,auditory,GSTM3
+GTF2F2,auditory,GTF2F2
+GTF2H4,auditory,GTF2H4
+GUCY2C,auditory,GUCY2C
+H1-0,auditory,H1-0
+H3-3B,auditory,H3-3B
+HAAO,auditory,HAAO
+HAL,auditory,HAL
+HAND2,auditory,HAND2
+HDAC9,auditory,HDAC9
+HEG1,auditory,HEG1
+HEXD,auditory,HEXD
+HGF,auditory,HGF
+HGS,auditory,HGS
+HINFP,auditory,HINFP
+HLA-DMA,auditory,HLA-DMA
+HLA-DMB,auditory,HLA-DMB
+HLA-DOA,auditory,HLA-DOA
+HLA-DOB,auditory,HLA-DOB
+HLA-DQA1,auditory,HLA-DQA1
+HLA-DQA2,auditory,HLA-DQA2
+HLA-DQB2,auditory,HLA-DQB2
+HLA-DRA,auditory,HLA-DRA
+HLA-DRB5,auditory,HLA-DRB5
+HMOX1,auditory,HMOX1
+HMX2,auditory,HMX2
+HOMER2,auditory,HOMER2
+HORMAD2,auditory,HORMAD2
+HOXA11,auditory,HOXA11
+HOXA2,auditory,HOXA2
+HOXA5,auditory,HOXA5
+HS2ST1,auditory,HS2ST1
+HS3ST5,auditory,HS3ST5
+HSPB3,auditory,HSPB3
+HTR1A,auditory,HTR1A
+HTR7,auditory,HTR7
+HYAL2,auditory,HYAL2
+IARS1,auditory,IARS1
+ICOSLG,auditory,ICOSLG
+IFIT1,auditory,IFIT1
+IFITM5,"auditory, touch",IFITM5
+IL15,auditory,IL15
+IL4I1,auditory,IL4I1
+ILDR1,auditory,ILDR1
+ILK,auditory,ILK
+INPP4B,auditory,INPP4B
+INPP5A,auditory,INPP5A
+INTU,auditory,INTU
+IPP,auditory,IPP
+IQCH,auditory,IQCH
+ITGA1,auditory,ITGA1
+ITGB3BP,auditory,ITGB3BP
+ITGB5,auditory,ITGB5
+IYD,auditory,IYD
+JAKMIP3,auditory,JAKMIP3
+JMY,auditory,JMY
+JUP,auditory,JUP
+KCNE1,auditory,KCNE1
+KCNE2,auditory,KCNE2
+KCNIP1,auditory,KCNIP1
+KCNIP4,auditory,KCNIP4
+KCNJ16,auditory,KCNJ16
+KCNJ5,auditory,KCNJ5
+KCNMB1,auditory,KCNMB1
+KCNN3,auditory,KCNN3
+KCNN4,auditory,KCNN4
+KCNQ4,auditory,KCNQ4
+KCTD10,auditory,KCTD10
+KCTD4,auditory,KCTD4
+KDELR2,auditory,KDELR2
+KDM3B,auditory,KDM3B
+KIF5B,auditory,KIF5B
+KIT,auditory,KIT
+KLF3,auditory,KLF3
+KLF7,auditory,KLF7
+KLHDC10,auditory,KLHDC10
+KLHDC7B,auditory,KLHDC7B
+KLHL35,auditory,KLHL35
+KPTN,auditory,KPTN
+KRT81,auditory,KRT81
+KRT83,auditory,KRT83
+KRT86,auditory,KRT86
+KYNU,auditory,KYNU
+LAMA4,auditory,LAMA4
+LAMB1,auditory,LAMB1
+LBX1,auditory,LBX1
+LCOR,auditory,LCOR
+LEF1,auditory,LEF1
+LEKR1,auditory,LEKR1
+LEMD3,auditory,LEMD3
+LFNG,auditory,LFNG
+LHFPL5,auditory,LHFPL5
+LIPE,auditory,LIPE
+LMAN1,auditory,LMAN1
+LMF2,auditory,LMF2
+LMNB2,auditory,LMNB2
+LMOD2,auditory,LMOD2
+LMX1A,auditory,LMX1A
+LOC107983989,auditory,
+LOC107986982,auditory,
+LOC124900165,auditory,
+LOC124900374,auditory,
+LOC124900467,auditory,
+LOC124900692,auditory,
+LOC124901227,auditory,
+LOC124902536,auditory,
+LOC124902766,auditory,
+LOC124905115,auditory,
+LOC127814297,auditory,
+LORICRIN,auditory,LORICRIN
+LPCAT2,auditory,LPCAT2
+LRFN2,auditory,LRFN2
+LRIG3,auditory,LRIG3
+LRRC17,auditory,LRRC17
+LRRC4,auditory,LRRC4
+LRRC41,auditory,LRRC41
+LRRC51,auditory,LRRC51
+LRRC7,auditory,LRRC7
+LRRC70,auditory,LRRC70
+LRRC73,auditory,LRRC73
+LRRN4CL,auditory,LRRN4CL
+LRSAM1,"auditory, touch",LRSAM1
+LRTOMT,auditory,LRTOMT
+LTA4H,auditory,LTA4H
+LTBP1,auditory,LTBP1
+LURAP1,auditory,LURAP1
+LVRN,auditory,LVRN
+M1AP,auditory,M1AP
+MAGI1,auditory,MAGI1
+MAN2B2,auditory,MAN2B2
+MAP1LC3B2,auditory,MAP1LC3B2
+MAP3K8,auditory,MAP3K8
+MAP6,auditory,MAP6
+MAP7D2,auditory,MAP7D2
+MAPK6,auditory,MAPK6
+MAPKAPK2,auditory,MAPKAPK2
+MARVELD2,auditory,MARVELD2
+MAST2,auditory,MAST2
+MATN3,auditory,MATN3
+MBTPS1,auditory,MBTPS1
+MCHR2,auditory,MCHR2
+MCM2,auditory,MCM2
+MCOLN3,auditory,MCOLN3
+MDC1,auditory,MDC1
+MDGA1,auditory,MDGA1
+MDK,auditory,MDK
+MECOM,auditory,MECOM
+MESD,auditory,MESD
+MEST,auditory,MEST
+METTL13,auditory,METTL13
+METTL8,auditory,METTL8
+MGAT1,auditory,MGAT1
+MGP,auditory,MGP
+MICB,auditory,MICB
+MINAR2,auditory,MINAR2
+MIOX,auditory,MIOX
+MKLN1,auditory,MKLN1
+MKRN1,auditory,MKRN1
+MMP2,auditory,MMP2
+MOB3C,auditory,MOB3C
+MOGAT2,auditory,MOGAT2
+MPEG1,auditory,MPEG1
+MPPED1,auditory,MPPED1
+MPZL2,auditory,MPZL2
+MRPL43,auditory,MRPL43
+MRPL49,auditory,MRPL49
+MRPS7,auditory,MRPS7
+MSH4,auditory,MSH4
+MSL3,auditory,MSL3
+MTHFD1L,auditory,MTHFD1L
+MTMR2,"auditory, touch",MTMR2
+MUC13,auditory,MUC13
+MVB12B,auditory,MVB12B
+MYCL,auditory,MYCL
+MYEOV,auditory,MYEOV
+MYH14,"auditory, touch",MYH14
+MYH7B,auditory,MYH7B
+MYLK2,auditory,MYLK2
+MYO15A,auditory,MYO15A
+MYO18A,auditory,MYO18A
+MYO1A,auditory,MYO1A
+MYO1C,auditory,MYO1C
+MYO1D,auditory,MYO1D
+MYO1F,auditory,MYO1F
+MYOZ2,auditory,MYOZ2
+MYSM1,auditory,MYSM1
+NAPEPLD,auditory,NAPEPLD
+NASP,auditory,NASP
+NAV3,auditory,NAV3
+NBPF3,auditory,NBPF3
+NCALD,auditory,NCALD
+NCL,auditory,NCL
+NECTIN3,auditory,NECTIN3
+NEFH,"auditory, touch",NEFH
+NEURL4,auditory,NEURL4
+NEUROD6,auditory,NEUROD6
+NEUROG3,auditory,NEUROG3
+NEXN,auditory,NEXN
+NFKBIA,auditory,NFKBIA
+NGF,"auditory, touch",NGF
+NID2,auditory,NID2
+NIPA1,"auditory, touch",NIPA1
+NIPA2,auditory,NIPA2
+NLGN1,auditory,NLGN1
+NLGN2,auditory,NLGN2
+NOS1AP,auditory,NOS1AP
+NOX4,auditory,NOX4
+NPLOC4,auditory,NPLOC4
+NPRL2,"auditory, touch",NPRL2
+NPRL3,"auditory, touch",NPRL3
+NR1H4,auditory,NR1H4
+NRM,auditory,NRM
+NSFL1C,auditory,NSFL1C
+NSUN4,auditory,NSUN4
+NT5C3A,auditory,NT5C3A
+NTRK3,auditory,NTRK3
+NUCKS1,auditory,NUCKS1
+NUDT4,auditory,NUDT4
+NUP107,auditory,NUP107
+NUP188,auditory,NUP188
+NYAP2,auditory,NYAP2
+NYNRIN,auditory,NYNRIN
+OGFR,auditory,OGFR
+OLFM3,auditory,OLFM3
+OOSP4B,auditory,OOSP4B
+ORC4,auditory,ORC4
+ORC6,auditory,ORC6
+OSBPL2,auditory,OSBPL2
+OSM,auditory,OSM
+OSTN,auditory,OSTN
+OTOA,auditory,OTOA
+OTOG,auditory,OTOG
+OTOGL,auditory,OTOGL
+OTUD6B,auditory,OTUD6B
+OXGR1,auditory,OXGR1
+P2RX2,auditory,P2RX2
+P2RY1,auditory,P2RY1
+P3R3URF,auditory,P3R3URF
+P3R3URF-PIK3R3,auditory,P3R3URF-PIK3R3
+PAOX,auditory,PAOX
+PAPSS2,auditory,PAPSS2
+PARD6G,auditory,PARD6G
+PARP14,auditory,PARP14
+PARVG,auditory,PARVG
+PBX3,auditory,PBX3
+PCDHB12,auditory,PCDHB12
+PCGF2,auditory,PCGF2
+PCNX4,auditory,PCNX4
+PCSK5,auditory,PCSK5
+PDGFRA,auditory,PDGFRA
+PDK3,"auditory, touch",PDK3
+PELO,auditory,PELO
+PERP,auditory,PERP
+PFKP,auditory,PFKP
+PGBD3,auditory,PGBD3
+PGGHG,auditory,PGGHG
+PGM2,auditory,PGM2
+PHLDB1,auditory,PHLDB1
+PI4KB,auditory,PI4KB
+PICK1,auditory,PICK1
+PIEZO1,auditory,PIEZO1
+PIK3R3,auditory,PIK3R3
+PITRM1,"auditory, touch",PITRM1
+PIWIL1,auditory,PIWIL1
+PJVK,auditory,PJVK
+PKHD1L1,auditory,PKHD1L1
+PKLR,auditory,PKLR
+PKP2,auditory,PKP2
+PLAGL1,auditory,PLAGL1
+PLCXD2,auditory,PLCXD2
+PLEKHA3,auditory,PLEKHA3
+PLEKHF2,auditory,PLEKHF2
+PLEKHG4B,auditory,PLEKHG4B
+PLN,auditory,PLN
+PLS1,"auditory, touch",PLS1
+PLS3,auditory,PLS3
+PM20D1,auditory,PM20D1
+PMM1,auditory,PMM1
+PMP2,"auditory, touch",PMP2
+PNPLA8,auditory,PNPLA8
+POFUT1,auditory,POFUT1
+POLI,auditory,POLI
+POLL,auditory,POLL
+POLR1H,auditory,POLR1H
+POLR3H,auditory,POLR3H
+POM121,auditory,POM121
+PPARG,auditory,PPARG
+PPCS,auditory,PPCS
+PPIP5K2,auditory,PPIP5K2
+PPP1R10,auditory,PPP1R10
+PPP1R15B,auditory,PPP1R15B
+PRELID2,auditory,PRELID2
+PREX2,auditory,PREX2
+PRG4,auditory,PRG4
+PRKCSH,auditory,PRKCSH
+PRODH,auditory,PRODH
+PRR14L,auditory,PRR14L
+PRSS1,auditory,PRSS1
+PSMA6,auditory,PSMA6
+PSMB1,auditory,PSMB1
+PSMB9,auditory,PSMB9
+PSMC1,auditory,PSMC1
+PSMC2,auditory,PSMC2
+PSMC3IP,auditory,PSMC3IP
+PTDSS1,auditory,PTDSS1
+PTN,auditory,PTN
+PTOV1,auditory,PTOV1
+PTPN14,auditory,PTPN14
+PTPRD,auditory,PTPRD
+PTPRK,auditory,PTPRK
+PTPRN2,auditory,PTPRN2
+PTPRQ,auditory,PTPRQ
+PWP2,auditory,PWP2
+PYGL,auditory,PYGL
+QRSL1,auditory,QRSL1
+RAB7A,"auditory, touch",RAB7A
+RAB9B,auditory,RAB9B
+RALGAPA2,auditory,RALGAPA2
+RALGPS2,auditory,RALGPS2
+RAMP1,auditory,RAMP1
+RANBP17,auditory,RANBP17
+RASAL2,auditory,RASAL2
+RASSF10,auditory,RASSF10
+RBBP5,auditory,RBBP5
+RBM12,auditory,RBM12
+RBM20,auditory,RBM20
+RDH10,auditory,RDH10
+REN,auditory,REN
+RFNG,auditory,RFNG
+RHAG,auditory,RHAG
+RHOU,auditory,RHOU
+RIOK1,auditory,RIOK1
+RMND1,"auditory, touch",RMND1
+RNASE10,auditory,RNASE10
+RNASE11,auditory,RNASE11
+RNF169,auditory,RNF169
+RNF180,auditory,RNF180
+RNF215,auditory,RNF215
+RNF220,auditory,RNF220
+ROR1,auditory,ROR1
+RPL10A,auditory,RPL10A
+RPL3L,auditory,RPL3L
+RPL6,auditory,RPL6
+RPL7,auditory,RPL7
+RPL7L1,auditory,RPL7L1
+RPLP0,auditory,RPLP0
+RPS11,auditory,RPS11
+RPS23,auditory,RPS23
+RPS3,auditory,RPS3
+RRP1B,auditory,RRP1B
+RSKR,auditory,RSKR
+RTKN2,auditory,RTKN2
+RTN2,"auditory, touch",RTN2
+RTN4R,auditory,RTN4R
+RTRAF,auditory,RTRAF
+S1PR2,auditory,S1PR2
+SARS1,auditory,SARS1
+SASH1,auditory,SASH1
+SCAI,auditory,SCAI
+SCART1,auditory,SCART1
+SCD5,auditory,SCD5
+SCLY,auditory,SCLY
+SCN4B,auditory,SCN4B
+SCUBE1,auditory,SCUBE1
+SDCBP2,auditory,SDCBP2
+SEC14L2,auditory,SEC14L2
+SEC14L4,auditory,SEC14L4
+SEC31A,auditory,SEC31A
+SEC63,auditory,SEC63
+SEM1,auditory,SEM1
+SEPTIN14,auditory,SEPTIN14
+SERPINB6,auditory,SERPINB6
+SERPINH1,auditory,SERPINH1
+SFI1,auditory,SFI1
+SGMS2,auditory,SGMS2
+SGO2,auditory,SGO2
+SH2D7,auditory,SH2D7
+SHANK2,auditory,SHANK2
+SHFL,auditory,SHFL
+SHLD1,auditory,SHLD1
+SHOC1,auditory,SHOC1
+SIN3B,auditory,SIN3B
+SIRPB1,auditory,SIRPB1
+SIRPB2,auditory,SIRPB2
+SLC10A1,auditory,SLC10A1
+SLC10A2,auditory,SLC10A2
+SLC10A7,auditory,SLC10A7
+SLC11A1,auditory,SLC11A1
+SLC16A9,auditory,SLC16A9
+SLC17A8,auditory,SLC17A8
+SLC1A4,auditory,SLC1A4
+SLC22A7,auditory,SLC22A7
+SLC25A30,auditory,SLC25A30
+SLC25A38,auditory,SLC25A38
+SLC26A5,auditory,SLC26A5
+SLC26A9,auditory,SLC26A9
+SLC27A5,auditory,SLC27A5
+SLC35B3,auditory,SLC35B3
+SLC35G6,auditory,SLC35G6
+SLC39A13,auditory,SLC39A13
+SLC44A4,auditory,SLC44A4
+SLC45A3,auditory,SLC45A3
+SLC5A5,auditory,SLC5A5
+SLC6A14,auditory,SLC6A14
+SLC6A2,auditory,SLC6A2
+SLC6A5,auditory,SLC6A5
+SLC9A3,auditory,SLC9A3
+SMIM38,auditory,SMIM38
+SMYD2,auditory,SMYD2
+SNRPB,auditory,SNRPB
+SNTA1,auditory,SNTA1
+SNUPN,"auditory, touch",SNUPN
+SNX16,auditory,SNX16
+SNX22,auditory,SNX22
+SNX30,auditory,SNX30
+SORD,"auditory, touch",SORD
+SOX6,auditory,SOX6
+SPACA1,auditory,SPACA1
+SPARC,auditory,SPARC
+SPDL1,auditory,SPDL1
+SPIDR,auditory,SPIDR
+SPINT2,auditory,SPINT2
+SPIRE2,auditory,SPIRE2
+SPMIP4,auditory,
+SPNS2,auditory,SPNS2
+SPOCD1,auditory,SPOCD1
+SPTA1,auditory,SPTA1
+SPTB,auditory,SPTB
+SRP54,auditory,SRP54
+SRP72,auditory,SRP72
+SSR1,auditory,SSR1
+SSR3,auditory,SSR3
+ST3GAL3,auditory,ST3GAL3
+STARD7,"auditory, touch",STARD7
+STRC,auditory,STRC
+STT3B,auditory,STT3B
+STX4,auditory,STX4
+SUMF2,auditory,SUMF2
+SV2B,auditory,SV2B
+SVIP,auditory,SVIP
+SYCE3,auditory,SYCE3
+SYCP2L,auditory,SYCP2L
+SYN2,auditory,SYN2
+SYNJ2,auditory,SYNJ2
+TAF1A,auditory,TAF1A
+TAF3,auditory,TAF3
+TAP2,auditory,TAP2
+TAPT1,auditory,TAPT1
+TBC1D1,auditory,TBC1D1
+TBC1D10A,auditory,TBC1D10A
+TBC1D8,auditory,TBC1D8
+TBCEL,auditory,TBCEL
+TBCEL-TECTA,auditory,TBCEL-TECTA
+TBL1Y,auditory,TBL1Y
+TBX2,auditory,TBX2
+TCFL5,auditory,TCFL5
+TCHP,auditory,TCHP
+TECTA,auditory,TECTA
+TECTB,auditory,TECTB
+TENT5A,auditory,TENT5A
+TEP1,auditory,TEP1
+TEPSIN,auditory,TEPSIN
+TFB1M,auditory,TFB1M
+TFDP2,auditory,TFDP2
+THADA,auditory,THADA
+THBD,auditory,THBD
+THOC1,auditory,THOC1
+THRA,auditory,THRA
+THSD7A,auditory,THSD7A
+TIMM13,auditory,TIMM13
+TIPARP,auditory,TIPARP
+TJAP1,auditory,TJAP1
+TJP2,auditory,TJP2
+TMC1,auditory,TMC1
+TMC2,auditory,TMC2
+TMEM132E,auditory,TMEM132E
+TMEM147,auditory,TMEM147
+TMEM150C,"auditory, touch",TMEM150C
+TMEM184B,auditory,TMEM184B
+TMEM186,auditory,TMEM186
+TMEM200A,auditory,TMEM200A
+TMEM203,auditory,TMEM203
+TMEM209,auditory,TMEM209
+TMEM213,auditory,TMEM213
+TMEM69,auditory,TMEM69
+TMPO,auditory,TMPO
+TMPRSS6,auditory,TMPRSS6
+TMPRSS9,auditory,TMPRSS9
+TMTC4,auditory,TMTC4
+TMX1,auditory,TMX1
+TNC,auditory,TNC
+TNIK,auditory,TNIK
+TNKS,auditory,TNKS
+TNNC1,auditory,TNNC1
+TNNI3,auditory,TNNI3
+TNPO1,auditory,TNPO1
+TOGARAM2,auditory,TOGARAM2
+TOMT,auditory,TOMT
+TOX,auditory,TOX
+TPD52-MRPS28,auditory,
+TPM1,auditory,TPM1
+TPRKB,auditory,TPRKB
+TPRN,auditory,TPRN
+TPT1,auditory,TPT1
+TRAPPC4,auditory,TRAPPC4
+TRB,auditory,TRB
+TREH,auditory,TREH
+TRIM2,auditory,TRIM2
+TRIM26,auditory,TRIM26
+TRIM28,auditory,TRIM28
+TRIM39,auditory,TRIM39
+TRIM48,auditory,TRIM48
+TRIM63,auditory,TRIM63
+TRIM9,auditory,TRIM9
+TRIOBP,auditory,TRIOBP
+TRMT10A,"auditory, touch",TRMT10A
+TRMT10C,auditory,TRMT10C
+TRPM2,auditory,TRPM2
+TRPV3,auditory,TRPV3
+TSPAN10,auditory,TSPAN10
+TSPAN15,auditory,TSPAN15
+TSPEAR,auditory,TSPEAR
+TTBK1,auditory,TTBK1
+TTC28,auditory,TTC28
+TTC36,auditory,TTC36
+TTYH2,auditory,TTYH2
+TUBA8,auditory,TUBA8
+TUBB1,auditory,TUBB1
+TUBG1,auditory,TUBG1
+UBB,auditory,UBB
+UBE2F,auditory,UBE2F
+UBE2R2,auditory,UBE2R2
+UBE3C,auditory,UBE3C
+UBQLN2,auditory,UBQLN2
+UCN,auditory,UCN
+UNC45A,auditory,UNC45A
+UNC5CL,auditory,UNC5CL
+UQCRH,auditory,UQCRH
+USP53,auditory,USP53
+UTP14C,auditory,UTP14C
+UTP15,auditory,UTP15
+UVRAG,auditory,UVRAG
+VAV3,auditory,VAV3
+VEZF1,auditory,VEZF1
+VIPAS39,auditory,VIPAS39
+VMA12,auditory,
+VPS33B,auditory,VPS33B
+VPS37A,"auditory, touch",VPS37A
+VSIR,auditory,VSIR
+WARS1,auditory,WARS1
+WBP2,auditory,WBP2
+WDR1,auditory,WDR1
+WDR3,auditory,WDR3
+XPNPEP3,auditory,XPNPEP3
+YIPF3,auditory,YIPF3
+YWHAE,auditory,YWHAE
+ZBED2,auditory,ZBED2
+ZFAND1,auditory,ZFAND1
+ZFAND5,auditory,ZFAND5
+ZFP36L2,auditory,ZFP36L2
+ZFP57,auditory,ZFP57
+ZFP69,auditory,ZFP69
+ZFPM1,auditory,ZFPM1
+ZFYVE27,auditory,ZFYVE27
+ZMPSTE24,auditory,ZMPSTE24
+ZNF185,auditory,ZNF185
+ZNF217,auditory,ZNF217
+ZNF25,auditory,ZNF25
+ZNF276,auditory,ZNF276
+ZNF526,auditory,ZNF526
+ZNF532,auditory,ZNF532
+ZNF557,auditory,ZNF557
+ZNF564,auditory,ZNF564
+ZNF66,auditory,ZNF66
+ZNF687,auditory,ZNF687
+ZNF85,auditory,ZNF85
+ZRANB1,auditory,ZRANB1
+ZSCAN10,auditory,ZSCAN10
+ZSWIM7,auditory,ZSWIM7
+A4GALT,touch,A4GALT
+ADCY6,touch,ADCY6
+ANK3,touch,ANK3
+ARMC5,touch,ARMC5
+ASIC1,touch,ASIC1
+ATP10A,touch,ATP10A
+ATP2A1,touch,ATP2A1
+BMS1,touch,BMS1
+CBLIF,touch,CBLIF
+CCHCR1,touch,CCHCR1
+CFAP96,touch,
+CHD2,touch,CHD2
+CHRNA2,touch,CHRNA2
+CHRNB2,touch,CHRNB2
+CPOX,touch,CPOX
+CRH,touch,CRH
+CSTB,touch,CSTB
+FCGR2A,touch,FCGR2A
+IGF2,touch,IGF2
+ITGB4,touch,ITGB4
+JPH1,touch,JPH1
+KLHL9,touch,KLHL9
+KNSTRN,touch,KNSTRN
+KPNA3,touch,KPNA3
+KRT1,touch,KRT1
+KRT16,touch,KRT16
+KRT9,touch,KRT9
+NARS1,touch,NARS1
+NFASC,touch,NFASC
+PLEKHG4,touch,PLEKHG4
+PRICKLE2,touch,PRICKLE2
+PRRC2A,touch,PRRC2A
+RAPGEF2,touch,RAPGEF2
+SAT1,touch,SAT1
+SEMA6B,touch,SEMA6B
+SERPING1,touch,SERPING1
+SLC20A2,touch,SLC20A2
+SPTLC3,touch,SPTLC3
+TMEM87A,touch,TMEM87A
+TMX2,touch,TMX2
+TNRC6A,touch,TNRC6A
+UBTF,touch,UBTF
+ZFTA,touch,ZFTA
